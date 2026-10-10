@@ -1,0 +1,16 @@
+TITLE: How Does AI Know Which Dial to Blame? Backpropagation #shorts
+DESCRIPTION:
+Backpropagation explained: how a neural network with a billion weights finds which ones caused a wrong answer. The error flows backward through the layers, the chain rule from calculus assigns each weight its share of the blame, and one backward sweep scores them all at once.
+
+Sources:
+https://www.nature.com/articles/323533a0 (Rumelhart, Hinton, Williams, "Learning representations by back-propagating errors", Nature, 1986)
+http://neuralnetworksanddeeplearning.com/chap2.html (Michael Nielsen, How the backpropagation algorithm works)
+
+All animation was made in code by LATOON.
+Related: https://youtube.com/shorts/5c_WxXdnM10
+
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy.
+Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+
+#shorts #backpropagation #neuralnetworks #machinelearning #deeplearning #AI
+TAGS: backpropagation, backprop explained, how neural networks learn, chain rule, deep learning, machine learning, neural network training, gradient descent, AI explained, LATOON, its_Latoon
