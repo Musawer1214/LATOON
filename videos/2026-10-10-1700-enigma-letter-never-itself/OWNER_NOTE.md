@@ -1,0 +1,5 @@
+Owner, 2026-10-10 20:37 CST: take as much time as needed on this video, even into tomorrow. It must look premium: no robotic voice, no AI-style animations or transitions, polished motion and graphics, engaging, never overclaimed. Don't deliver until it's genuinely good.
+Length: up to ~15 min is fine if every minute holds the viewer (owner, 20:39 CST); the Enigma script can be expanded if the story supports it.
+
+## Coordination (added 2026-10-10 21:40 CST)
+Two runs are scheduled on this build: "premium review" (13:00 CST, 15+ min, up to 300 MB, the governing brief) and an older "finish v2" run (15:05 CST, 200 MB). Only ONE may work on this folder. The premium-review run owns it: it writes STATUS.md here when it starts. If you are the "finish v2" run and STATUS.md exists or the review run has already started, do NOT re-narrate, re-render or spend Gemini quota. Just end quietly (or continue only from NEXT_STEPS.md if the review run explicitly left it for you). Follow the premium-review rules (15+ min, under 300 MB) in all cases.
