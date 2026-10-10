@@ -1,0 +1,752 @@
+1
+00:00:00,530 --> 00:00:03,019
+During the war, a young codebreaker named
+
+2
+00:00:03,019 --> 00:00:05,627
+Mavis Lever picked up an intercepted Enigma
+
+3
+00:00:05,627 --> 00:00:07,939
+message and noticed something strange.
+
+4
+00:00:07,939 --> 00:00:09,976
+Not a word that was there.
+
+5
+00:00:10,163 --> 00:00:11,729
+A letter that wasn't.
+
+6
+00:00:11,928 --> 00:00:13,765
+In the whole message, there was not a
+
+7
+00:00:13,765 --> 00:00:14,706
+single L.
+
+8
+00:00:15,889 --> 00:00:17,981
+That absence told her almost exactly what
+
+9
+00:00:17,981 --> 00:00:19,290
+the message said.
+
+10
+00:00:19,290 --> 00:00:21,315
+And it points to the strangest weakness of
+
+11
+00:00:21,315 --> 00:00:23,058
+the machine Germany trusted with its
+
+12
+00:00:23,058 --> 00:00:25,807
+secrets. To see how a missing letter can be
+
+13
+00:00:25,807 --> 00:00:27,966
+a clue, we have to open the box.
+
+14
+00:00:34,354 --> 00:00:36,670
+Enigma looked like a typewriter in a wooden
+
+15
+00:00:36,670 --> 00:00:38,775
+case. You pressed a key, and instead of
+
+16
+00:00:38,775 --> 00:00:40,985
+printing, a small lamp lit up a different
+
+17
+00:00:40,985 --> 00:00:43,541
+letter. One person typed, another wrote
+
+18
+00:00:43,541 --> 00:00:45,362
+down the glowing letters, and a radio
+
+19
+00:00:45,362 --> 00:00:47,728
+operator sent the result in Morse code.
+
+20
+00:00:48,881 --> 00:00:50,992
+Inside, the signal ran through three
+
+21
+00:00:50,992 --> 00:00:53,423
+rotors, chosen from a box of five.
+
+22
+00:00:53,423 --> 00:00:54,901
+Each rotor was a wheel with twenty-six
+
+23
+00:00:54,901 --> 00:00:56,567
+contacts on each face, wired in a scrambled
+
+24
+00:00:56,567 --> 00:00:58,842
+pattern. And every time a key was pressed,
+
+25
+00:00:58,842 --> 00:01:01,472
+the right-hand rotor turned one step, like
+
+26
+00:01:01,472 --> 00:01:02,775
+a car's odometer.
+
+27
+00:01:02,775 --> 00:01:03,591
+So the same letter came out differently
+
+28
+00:01:03,591 --> 00:01:04,276
+each time.
+
+29
+00:01:04,306 --> 00:01:06,926
+Press A five times,
+
+30
+00:01:06,997 --> 00:01:10,096
+and you might get five different letters.
+
+31
+00:01:11,667 --> 00:01:13,932
+At the front sat a plugboard, where cables
+
+32
+00:01:13,932 --> 00:01:16,145
+swapped pairs of letters before and after
+
+33
+00:01:16,145 --> 00:01:18,466
+the rotors. Count every choice:
+
+34
+00:01:18,466 --> 00:01:21,676
+which rotors, in what order, their starting
+
+35
+00:01:21,676 --> 00:01:24,073
+positions, and ten plug cables.
+
+36
+00:01:24,073 --> 00:01:26,587
+The army version had about one hundred and
+
+37
+00:01:26,587 --> 00:01:28,984
+fifty-nine quintillion possible starting
+
+38
+00:01:28,984 --> 00:01:32,329
+settings. And the settings changed every
+
+39
+00:01:32,329 --> 00:01:33,113
+day.
+
+40
+00:01:35,475 --> 00:01:37,227
+But the most important part sat at the far
+
+41
+00:01:37,227 --> 00:01:39,833
+end: a fixed wheel called the reflector.
+
+42
+00:01:39,833 --> 00:01:41,173
+The current went in through the plugboard,
+
+43
+00:01:41,173 --> 00:01:43,720
+through all three rotors, hit the
+
+44
+00:01:43,720 --> 00:01:44,948
+reflector,
+
+45
+00:01:45,136 --> 00:01:47,330
+and came back out through the rotors by a
+
+46
+00:01:47,330 --> 00:01:48,610
+different path.
+
+47
+00:01:49,756 --> 00:01:51,762
+It was a clever convenience.
+
+48
+00:01:51,933 --> 00:01:54,096
+Because the path works like a mirror, the
+
+49
+00:01:54,096 --> 00:01:55,674
+machine undoes itself.
+
+50
+00:01:55,783 --> 00:01:58,711
+If A became G, then with the same settings,
+
+51
+00:01:58,711 --> 00:01:59,714
+G became A.
+
+52
+00:01:59,937 --> 00:02:01,818
+The receiver needed no separate decoding
+
+53
+00:02:01,818 --> 00:02:03,001
+mode. Set the same settings, type the
+
+54
+00:02:03,001 --> 00:02:06,042
+scrambled text, and the original message
+
+55
+00:02:06,042 --> 00:02:07,438
+lights up.
+
+56
+00:02:08,813 --> 00:02:10,838
+But a mirror has a blind spot.
+
+57
+00:02:10,931 --> 00:02:12,825
+The current could never come back out on
+
+58
+00:02:12,825 --> 00:02:14,389
+the wire it went in on.
+
+59
+00:02:14,409 --> 00:02:16,739
+So no letter could ever be encrypted as
+
+60
+00:02:16,739 --> 00:02:19,087
+itself. A is never A.
+
+61
+00:02:19,353 --> 00:02:20,886
+It sounds like a tiny detail.
+
+62
+00:02:20,886 --> 00:02:23,555
+Yet it meant Enigma's output was not truly
+
+63
+00:02:23,555 --> 00:02:26,651
+random. It leaked one fact, every single
+
+64
+00:02:26,651 --> 00:02:27,385
+time.
+
+65
+00:02:29,599 --> 00:02:31,444
+The first people to break Enigma were not
+
+66
+00:02:31,444 --> 00:02:33,874
+British. In December 1932, a
+
+67
+00:02:33,874 --> 00:02:36,023
+twenty-seven-year-old mathematician named
+
+68
+00:02:36,023 --> 00:02:37,969
+Marian Rejewski, working for Poland's
+
+69
+00:02:37,969 --> 00:02:40,254
+Cipher Bureau, attacked it with permutation
+
+70
+00:02:40,254 --> 00:02:42,712
+theory, the mathematics of shuffles.
+
+71
+00:02:43,866 --> 00:02:46,012
+French intelligence passed him documents
+
+72
+00:02:46,012 --> 00:02:48,346
+from a German spy, Hans-Thilo Schmidt,
+
+73
+00:02:48,346 --> 00:02:50,043
+including some daily settings.
+
+74
+00:02:50,043 --> 00:02:52,396
+Combining them with clever equations,
+
+75
+00:02:52,396 --> 00:02:54,462
+Rejewski worked out the internal wiring of
+
+76
+00:02:54,462 --> 00:02:56,479
+the rotors without ever seeing a military
+
+77
+00:02:56,479 --> 00:03:00,208
+machine. With his colleagues Jerzy Różycki
+
+78
+00:03:00,208 --> 00:03:02,670
+and Henryk Zygalski, the Bureau read Enigma
+
+79
+00:03:02,670 --> 00:03:05,216
+traffic for years, using card catalogues,
+
+80
+00:03:05,216 --> 00:03:07,588
+perforated sheets, and machines they called
+
+81
+00:03:07,588 --> 00:03:08,455
+bombas.
+
+82
+00:03:10,181 --> 00:03:11,938
+Then Germany made it harder.
+
+83
+00:03:11,938 --> 00:03:14,573
+In December 1938, two extra rotors raised
+
+84
+00:03:14,573 --> 00:03:16,957
+the possible rotor orders from six to
+
+85
+00:03:16,957 --> 00:03:19,628
+sixty. Poland lacked the resources to keep
+
+86
+00:03:19,628 --> 00:03:22,392
+up. So in July 1939, five weeks before the
+
+87
+00:03:22,392 --> 00:03:24,732
+war began, the Poles handed their methods,
+
+88
+00:03:24,732 --> 00:03:28,384
+and copies of the machine, to the British
+
+89
+00:03:28,384 --> 00:03:29,447
+and the French.
+
+90
+00:03:31,698 --> 00:03:33,965
+The work moved to Bletchley Park, a country
+
+91
+00:03:33,965 --> 00:03:35,881
+house northwest of London, where thousands
+
+92
+00:03:35,881 --> 00:03:38,238
+of people would eventually work in secret.
+
+93
+00:03:38,252 --> 00:03:40,319
+Among them was a young mathematician named
+
+94
+00:03:40,319 --> 00:03:41,383
+Alan Turing.
+
+95
+00:03:41,437 --> 00:03:43,601
+No machine could check quintillions of
+
+96
+00:03:43,601 --> 00:03:45,212
+settings one by one.
+
+97
+00:03:45,212 --> 00:03:47,281
+The codebreakers needed a shortcut.
+
+98
+00:03:47,281 --> 00:03:49,847
+They found it in human habits.
+
+99
+00:03:51,262 --> 00:03:53,741
+German messages were full of routine.
+
+100
+00:03:53,741 --> 00:03:54,869
+Weather reports.
+
+101
+00:03:54,869 --> 00:03:57,458
+Standard phrases, like 'keine besonderen
+
+102
+00:03:57,458 --> 00:03:59,822
+Ereignisse': nothing to report.
+
+103
+00:03:59,834 --> 00:04:01,922
+If you could guess a phrase that probably
+
+104
+00:04:01,922 --> 00:04:04,290
+appeared in a message, you had a crib, a
+
+105
+00:04:04,290 --> 00:04:06,133
+piece of the original text.
+
+106
+00:04:06,133 --> 00:04:08,649
+The only question was where it sat.
+
+107
+00:04:10,004 --> 00:04:12,472
+This is where the blind spot pays off.
+
+108
+00:04:12,472 --> 00:04:14,458
+Slide the guessed phrase along the
+
+109
+00:04:14,458 --> 00:04:15,808
+scrambled text.
+
+110
+00:04:15,839 --> 00:04:18,009
+Wherever any letter of the guess lands on
+
+111
+00:04:18,009 --> 00:04:20,273
+the same letter in the ciphertext, that
+
+112
+00:04:20,273 --> 00:04:22,579
+position is impossible, because no letter
+
+113
+00:04:22,579 --> 00:04:24,164
+can encrypt to itself.
+
+114
+00:04:24,244 --> 00:04:26,714
+Positions fall away one after another,
+
+115
+00:04:26,714 --> 00:04:28,727
+until only a few remain.
+
+116
+00:04:30,967 --> 00:04:33,265
+A crib in the right place gives a chain of
+
+117
+00:04:33,265 --> 00:04:35,872
+letter pairs: this letter became that one,
+
+118
+00:04:35,872 --> 00:04:37,051
+at this step.
+
+119
+00:04:37,331 --> 00:04:39,656
+Turing realised the pairs could be linked
+
+120
+00:04:39,656 --> 00:04:41,162
+into loops, and that a wrong rotor setting
+
+121
+00:04:41,162 --> 00:04:41,813
+would make those loops contradict
+
+122
+00:04:41,813 --> 00:04:44,796
+themselves. So he designed a machine to
+
+123
+00:04:44,796 --> 00:04:48,900
+hunt for settings without contradictions:
+
+124
+00:04:48,970 --> 00:04:49,980
+the Bombe.
+
+125
+00:04:51,422 --> 00:04:52,944
+Gordon Welchman added a crucial
+
+126
+00:04:52,944 --> 00:04:55,806
+improvement, the diagonal board, which used
+
+127
+00:04:55,806 --> 00:04:57,378
+another German convenience:
+
+128
+00:04:57,378 --> 00:04:59,970
+plugboard swaps work both ways.
+
+129
+00:05:00,350 --> 00:05:03,003
+The first Bombe, named Victory, arrived at
+
+130
+00:05:03,003 --> 00:05:05,196
+Bletchley Park in March 1940.
+
+131
+00:05:05,231 --> 00:05:07,905
+Many more followed, run around the clock,
+
+132
+00:05:07,905 --> 00:05:10,041
+largely by women of the Women's Royal Naval
+
+133
+00:05:10,041 --> 00:05:10,913
+Service.
+
+134
+00:05:12,385 --> 00:05:14,111
+Each Bombe chattered through rotor
+
+135
+00:05:14,111 --> 00:05:16,035
+positions, rejecting the impossible at
+
+136
+00:05:16,035 --> 00:05:17,365
+electrical speed.
+
+137
+00:05:17,454 --> 00:05:19,336
+When it stopped, it offered a candidate
+
+138
+00:05:19,336 --> 00:05:22,072
+setting. Codebreakers then tested it on a
+
+139
+00:05:22,072 --> 00:05:23,275
+copy of Enigma.
+
+140
+00:05:23,435 --> 00:05:25,706
+If German words appeared, the day's key for
+
+141
+00:05:25,706 --> 00:05:27,851
+that network was broken, and its messages
+
+142
+00:05:27,851 --> 00:05:28,924
+could be read.
+
+143
+00:05:31,034 --> 00:05:33,315
+Which brings us back to Mavis Lever and the
+
+144
+00:05:33,315 --> 00:05:34,757
+message with no L.
+
+145
+00:05:34,930 --> 00:05:36,994
+She worked in Dilly Knox's team, on the
+
+146
+00:05:36,994 --> 00:05:39,142
+Enigma used by the Italian Navy.
+
+147
+00:05:39,357 --> 00:05:41,512
+That operator had been told to send a dummy
+
+148
+00:05:41,512 --> 00:05:43,902
+message. As she later recalled, he simply
+
+149
+00:05:43,902 --> 00:05:46,475
+pressed the last key on the keyboard, L,
+
+150
+00:05:46,475 --> 00:05:48,089
+over and over.
+
+151
+00:05:49,443 --> 00:05:50,857
+Every letter of the ciphertext could be
+
+152
+00:05:50,857 --> 00:05:51,715
+anything except L.
+
+153
+00:05:51,715 --> 00:05:54,915
+So the one missing letter gave the whole
+
+154
+00:05:54,915 --> 00:05:57,880
+message away: L, L, L, L, all the way
+
+155
+00:05:57,880 --> 00:06:01,498
+through. She called it the biggest crib
+
+156
+00:06:01,498 --> 00:06:04,507
+they ever had, and it revealed the wiring
+
+157
+00:06:04,507 --> 00:06:05,772
+of a new rotor.
+
+158
+00:06:05,812 --> 00:06:08,233
+One lazy minute, plus one design
+
+159
+00:06:08,233 --> 00:06:10,926
+convenience, opened the machine.
+
+160
+00:06:13,309 --> 00:06:15,623
+Historians still debate exactly how much
+
+161
+00:06:15,623 --> 00:06:17,938
+these intercepts changed the war, though
+
+162
+00:06:17,938 --> 00:06:20,365
+many argue the intelligence known as Ultra
+
+163
+00:06:20,365 --> 00:06:21,589
+shortened it.
+
+164
+00:06:21,589 --> 00:06:24,486
+What is clear is how Enigma fell.
+
+165
+00:06:24,609 --> 00:06:26,953
+Not by brute force alone, but through its
+
+166
+00:06:26,953 --> 00:06:29,284
+structure: a reflector that made one
+
+167
+00:06:29,284 --> 00:06:32,216
+outcome impossible, and people who repeated
+
+168
+00:06:32,216 --> 00:06:33,318
+themselves.
+
+169
+00:06:34,838 --> 00:06:37,501
+In 1883, the cryptographer Auguste
+
+170
+00:06:37,501 --> 00:06:39,650
+Kerckhoffs wrote a rule that security
+
+171
+00:06:39,650 --> 00:06:41,402
+engineers still follow:
+
+172
+00:06:41,402 --> 00:06:43,956
+a cipher should stay safe even if the enemy
+
+173
+00:06:43,956 --> 00:06:46,465
+knows exactly how the machine works.
+
+174
+00:06:46,465 --> 00:06:48,536
+Only the key should be secret.
+
+175
+00:06:48,617 --> 00:06:51,124
+Enigma's designers trusted the key.
+
+176
+00:06:51,124 --> 00:06:53,266
+But the machine's own structure leaked
+
+177
+00:06:53,266 --> 00:06:56,112
+information, whatever the key was.
+
+178
+00:06:57,663 --> 00:07:00,072
+In a well-designed modern cipher, such as
+
+179
+00:07:00,072 --> 00:07:02,976
+AES, the output looks like random noise.
+
+180
+00:07:02,976 --> 00:07:04,974
+Any symbol can turn into any other,
+
+181
+00:07:04,974 --> 00:07:06,294
+including itself.
+
+182
+00:07:06,360 --> 00:07:09,139
+That is the quiet lesson of Enigma.
+
+183
+00:07:09,139 --> 00:07:11,524
+A pattern doesn't have to be something that
+
+184
+00:07:11,524 --> 00:07:14,618
+appears. Sometimes, the clue is what can
+
+185
+00:07:14,618 --> 00:07:15,979
+never appear.
+
+186
+00:07:18,202 --> 00:07:19,968
+So the next time something looks perfectly
+
+187
+00:07:19,968 --> 00:07:22,697
+random, ask what it never does.
+
+188
+00:07:23,014 --> 00:07:25,677
+Latoon. Voyaging the unseen.
+
