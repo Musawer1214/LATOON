@@ -1,0 +1,9 @@
+["A network with a billion dials gets one answer wrong. Which dial do you blame?",
+"Testing every dial one by one would outlast the universe. So AI cheats, cleverly.",
+"First, the forward pass: the input flows through the layers, and out comes a guess.",
+"It guessed cat. The picture was a dog. That gap is the error.",
+"Now backpropagation: the error flows backward, from the output toward the input.",
+"At each layer, the chain rule from calculus asks: how much did you add to this mistake?",
+"Dials that pushed the wrong way take the blame. Dials that barely mattered take almost none.",
+"Each dial nudges a tiny step, and one backward sweep scores all billion at once.",
+"Repeat millions of times, and random numbers learn to see. Latoon. Voyaging the unseen. Follow for more."]
