@@ -8,7 +8,7 @@ Science, AI, psychology and philosophy — the ideas hiding beneath what we thin
 <br/>
 
 [![YouTube](https://img.shields.io/badge/YouTube-@its__Latoon-C4302B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@its_Latoon?sub_confirmation=1)
-[![Shorts](https://img.shields.io/badge/Shorts-27%2B-1C2530?style=for-the-badge&logo=youtubeshorts&logoColor=white)](#-shorts)
+[![Shorts](https://img.shields.io/badge/Shorts-38%2B-1C2530?style=for-the-badge&logo=youtubeshorts&logoColor=white)](#-shorts)
 [![Long--form](https://img.shields.io/badge/Long--form-2-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](#-long-form)
 [![Python](https://img.shields.io/badge/Python-3-C8A96A?style=for-the-badge&logo=python&logoColor=white)](#-the-engine)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-encode-0B0F14?style=for-the-badge&logo=ffmpeg&logoColor=white)](#-the-engine)
@@ -50,36 +50,36 @@ Science, AI, psychology and philosophy — the ideas hiding beneath what we thin
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://youtube.com/shorts/P_7-m7Ay4sY"><img src="https://i.ytimg.com/vi/P_7-m7Ay4sY/hqdefault.jpg" width="100%" alt="3 Stars Born Together, 3 Different Fates: Pulsar Triple"/></a><br/>
-      <sub><b>3 Stars Born Together, 3 Different Fates: Pulsar Triple</b></sub><br/>
-      <sub><a href="shorts/2026-10-09-23-pulsartriple">code</a> · <a href="https://youtube.com/shorts/P_7-m7Ay4sY">watch ▶</a></sub>
+      <a href="https://youtube.com/shorts/wx77zXhFiDk"><img src="https://i.ytimg.com/vi/wx77zXhFiDk/hqdefault.jpg" width="100%" alt="Neutron Star Merger: The 10-Minute X-ray Flash Mystery"/></a><br/>
+      <sub><b>Neutron Star Merger: The 10-Minute X-ray Flash Mystery</b></sub><br/>
+      <sub><a href="shorts/2026-10-10-13-nsmerger">code</a> · <a href="https://youtube.com/shorts/wx77zXhFiDk">watch ▶</a></sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://youtube.com/shorts/xb51381ofn0"><img src="https://i.ytimg.com/vi/xb51381ofn0/hqdefault.jpg" width="100%" alt="A Robot Hand That Walks on Its Fingertips"/></a><br/>
-      <sub><b>A Robot Hand That Walks on Its Fingertips</b></sub><br/>
-      <sub><a href="shorts/2026-10-09-22-fingerwalk">code</a> · <a href="https://youtube.com/shorts/xb51381ofn0">watch ▶</a></sub>
+      <a href="https://youtube.com/shorts/jBfvHkjqr2A"><img src="https://i.ytimg.com/vi/jBfvHkjqr2A/hqdefault.jpg" width="100%" alt="Inside ChatGPT: Hidden Structure in Its Numbers? Yale Study"/></a><br/>
+      <sub><b>Inside ChatGPT: Hidden Structure in Its Numbers? Yale Study</b></sub><br/>
+      <sub><a href="shorts/2026-10-10-12-symbolic">code</a> · <a href="https://youtube.com/shorts/jBfvHkjqr2A">watch ▶</a></sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://youtube.com/shorts/GR5Eya2Ft8I"><img src="https://i.ytimg.com/vi/GR5Eya2Ft8I/hqdefault.jpg" width="100%" alt="Nobel Chemistry 2026: Why Life Is One-Handed"/></a><br/>
-      <sub><b>Nobel Chemistry 2026: Why Life Is One-Handed</b></sub><br/>
-      <sub><a href="shorts/2026-10-09-21-chirality">code</a> · <a href="https://youtube.com/shorts/GR5Eya2Ft8I">watch ▶</a></sub>
+      <a href="https://youtube.com/shorts/31v3Zy-v500"><img src="https://i.ytimg.com/vi/31v3Zy-v500/hqdefault.jpg" width="100%" alt="Using AI for 10 Minutes Can Make You Give Up Sooner"/></a><br/>
+      <sub><b>Using AI for 10 Minutes Can Make You Give Up Sooner</b></sub><br/>
+      <sub><a href="shorts/2026-10-10-09-aipersist">code</a> · <a href="https://youtube.com/shorts/31v3Zy-v500">watch ▶</a></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://youtube.com/shorts/iXjZF9-daJA"><img src="https://i.ytimg.com/vi/iXjZF9-daJA/hqdefault.jpg" width="100%" alt="Diffie-Hellman Explained: A Secret in Public"/></a><br/>
-      <sub><b>Diffie-Hellman Explained: A Secret in Public</b></sub><br/>
-      <sub><a href="shorts/2026-10-09-20-diffie">code</a> · <a href="https://youtube.com/shorts/iXjZF9-daJA">watch ▶</a></sub>
+      <a href="https://youtube.com/shorts/NsJgYXbytNo"><img src="https://i.ytimg.com/vi/NsJgYXbytNo/hqdefault.jpg" width="100%" alt="Why Multitasking Mistakes Aren't Random: New Brain Study"/></a><br/>
+      <sub><b>Why Multitasking Mistakes Aren't Random: New Brain Study</b></sub><br/>
+      <sub><a href="shorts/2026-10-10-08-multitask">code</a> · <a href="https://youtube.com/shorts/NsJgYXbytNo">watch ▶</a></sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://youtube.com/shorts/DUtcTcWhV4Q"><img src="https://i.ytimg.com/vi/DUtcTcWhV4Q/hqdefault.jpg" width="100%" alt="Gravitational Lenses: AI Found 70 Natural Telescopes"/></a><br/>
-      <sub><b>Gravitational Lenses: AI Found 70 Natural Telescopes</b></sub><br/>
-      <sub><a href="shorts/2026-10-09-19-lenses">code</a> · <a href="https://youtube.com/shorts/DUtcTcWhV4Q">watch ▶</a></sub>
+      <a href="https://youtube.com/shorts/nx2DDumR_-4"><img src="https://i.ytimg.com/vi/nx2DDumR_-4/hqdefault.jpg" width="100%" alt="Quantum Computer vs Chaos: A Tipping Point at 50/50"/></a><br/>
+      <sub><b>Quantum Computer vs Chaos: A Tipping Point at 50/50</b></sub><br/>
+      <sub><a href="shorts/2026-10-10-07-quantum">code</a> · <a href="https://youtube.com/shorts/nx2DDumR_-4">watch ▶</a></sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://youtube.com/shorts/f4p-CCBC1LQ"><img src="https://i.ytimg.com/vi/f4p-CCBC1LQ/hqdefault.jpg" width="100%" alt="Hopfield Network Built From Atoms and Light: 7x More Memory"/></a><br/>
-      <sub><b>Hopfield Network Built From Atoms and Light: 7x More Memory</b></sub><br/>
-      <sub><a href="shorts/2026-10-09-18-hopfield">code</a> · <a href="https://youtube.com/shorts/f4p-CCBC1LQ">watch ▶</a></sub>
+      <a href="https://youtube.com/shorts/SZhPBgkjGNk"><img src="https://i.ytimg.com/vi/SZhPBgkjGNk/hqdefault.jpg" width="100%" alt="A Planet Born After Its Star Died? Hubble's Cold Case"/></a><br/>
+      <sub><b>A Planet Born After Its Star Died? Hubble's Cold Case</b></sub><br/>
+      <sub><a href="shorts/2026-10-10-06-phoenix">code</a> · <a href="https://youtube.com/shorts/SZhPBgkjGNk">watch ▶</a></sub>
     </td>
   </tr>
 </table>
@@ -90,6 +90,17 @@ Science, AI, psychology and philosophy — the ideas hiding beneath what we thin
 
 | | Short | Source |
 |:-:|:--|:-:|
+| 🔭 | [Neutron Star Merger: The 10-Minute X-ray Flash Mystery](https://youtube.com/shorts/wx77zXhFiDk) | [`2026-10-10-13-nsmerger`](shorts/2026-10-10-13-nsmerger) |
+| 🤖 | [Inside ChatGPT: Hidden Structure in Its Numbers? Yale Study](https://youtube.com/shorts/jBfvHkjqr2A) | [`2026-10-10-12-symbolic`](shorts/2026-10-10-12-symbolic) |
+| 🤖 | [Using AI for 10 Minutes Can Make You Give Up Sooner](https://youtube.com/shorts/31v3Zy-v500) | [`2026-10-10-09-aipersist`](shorts/2026-10-10-09-aipersist) |
+| 🧠 | [Why Multitasking Mistakes Aren't Random: New Brain Study](https://youtube.com/shorts/NsJgYXbytNo) | [`2026-10-10-08-multitask`](shorts/2026-10-10-08-multitask) |
+| 🤖 | [Quantum Computer vs Chaos: A Tipping Point at 50/50](https://youtube.com/shorts/nx2DDumR_-4) | [`2026-10-10-07-quantum`](shorts/2026-10-10-07-quantum) |
+| 🔭 | [A Planet Born After Its Star Died? Hubble's Cold Case](https://youtube.com/shorts/SZhPBgkjGNk) | [`2026-10-10-06-phoenix`](shorts/2026-10-10-06-phoenix) |
+| 🧠 | [Hyperthymesia: A Teen Whose Past Keeps Interrupting Him](https://youtube.com/shorts/RnVrs8YZCyE) | [`2026-10-10-05-hsam`](shorts/2026-10-10-05-hsam) |
+| 🤖 | [Bigger AI Models Survive Faulty Chips Better: MIT Preprint](https://youtube.com/shorts/lZYVz83-dKU) | [`2026-10-10-04-faultai`](shorts/2026-10-10-04-faultai) |
+| 🔭 | [Why Are Butterflies So Hard to Catch? The Stripe Illusion](https://youtube.com/shorts/z9zdpE93h6Y) | [`2026-10-10-03-butterfly`](shorts/2026-10-10-03-butterfly) |
+| 🤖 | [How Does AI Know Which Dial to Blame? Backpropagation](https://youtube.com/shorts/-qeE9wjp84k) | [`2026-10-10-02-backprop`](shorts/2026-10-10-02-backprop) |
+| 🤖 | [This Drone Can't Crash, and It's Mathematically Proven](https://youtube.com/shorts/frB8HBf9sdg) | [`2026-10-10-00-sando`](shorts/2026-10-10-00-sando) |
 | 🔭 | [3 Stars Born Together, 3 Different Fates: Pulsar Triple](https://youtube.com/shorts/P_7-m7Ay4sY) | [`2026-10-09-23-pulsartriple`](shorts/2026-10-09-23-pulsartriple) |
 | 🤖 | [A Robot Hand That Walks on Its Fingertips](https://youtube.com/shorts/xb51381ofn0) | [`2026-10-09-22-fingerwalk`](shorts/2026-10-09-22-fingerwalk) |
 | 🔭 | [Nobel Chemistry 2026: Why Life Is One-Handed](https://youtube.com/shorts/GR5Eya2Ft8I) | [`2026-10-09-21-chirality`](shorts/2026-10-09-21-chirality) |
