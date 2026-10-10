@@ -1,0 +1,28 @@
+TITLE: Quantum Computer vs Chaos: A Tipping Point at 50/50 #shorts
+
+DESCRIPTION:
+Quantum computer error control: researchers from Rutgers and IBM ran a tug of war on up to 100 qubits of IBM's 156-qubit Heron processor. One operation scrambled neighbouring qubits, like shuffling cards. The other checked qubits and reset them. Scramble more than half the time and chaos wins; reset more often and the system snaps into a controllable state. Right at about 50-50 the system flips abruptly, a phase transition, with nearly 5,000 two-qubit operations and nearly 5,000 checks and resets in the run (Nature Physics, Oct 9, 2026). Would you trust a computer that fixes itself mid-thought?
+
+Sources:
+Order from chaos with adaptive circuits on quantum hardware (Nature Physics): https://www.nature.com/articles/s41567-026-03470-6
+Scientists Move a Step Toward Quantum Computers That Can Correct Their Own Mistakes (Rutgers University): https://www.rutgers.edu/news/scientists-move-step-toward-quantum-computers-can-correct-their-own-mistakes
+
+Image credits:
+IBM Quantum Heron processor photos: © IBM, via Rutgers University
+Riffle shuffle: Alexey Musulev, CC BY-SA 4.0, via Wikimedia Commons
+IBM Quantum System One: OJB Quantum, CC BY 4.0, via Wikimedia Commons
+Frozen bubble ice crystals: spurekar, CC BY 2.0, via Wikimedia Commons
+Shuffling playing cards: Paul Huxley, CC BY 2.0, via Wikimedia Commons
+
+All animation was made in code by LATOON. LATOON is not affiliated with IBM, Rutgers University or the researchers named.
+
+Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy.
+
+#shorts #QuantumComputing #Qubits #IBM #Physics #QuantumErrorCorrection
+
+TAGS: quantum computer, quantum error correction, fault-tolerant quantum computer, qubits, IBM Heron, IBM quantum, Rutgers quantum, quantum chaos, phase transition, mid-circuit measurement, Nature Physics, quantum computing news, quantum feedback control, science news, technology news, LATOON, its_Latoon
+
+RELATED VIDEO: https://youtube.com/shorts/f4p-CCBC1LQ (Hopfield Network Built From Atoms and Light: 7x More Memory)
+PLAYLIST: Shorts | Not made for kids | Science & Technology | Altered content: No
+CLASS: TIMELY (Nature Physics + Rutgers release Oct 9 2026); built 07:00 PKT -> PRIVATE, TIMELY QUEUE (publish at 08:00 run)
