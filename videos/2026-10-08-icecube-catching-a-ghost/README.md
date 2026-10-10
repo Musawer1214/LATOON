@@ -1,0 +1,8 @@
+# Build notes — Catching a Ghost (IceCube), LATOON long-form 2026-10-08
+- Final: icecube-catching-a-ghost_final.mp4 (1920x1080, 30 fps, libx264 veryfast CRF 21, AAC 192k, -14.0 LUFS, TP -1.1 dBFS, 6:35.1, ~1.04 GB because of per-frame paper grain). Upload copy (1280x720, 2-pass 185k + AAC 96k, hqdn3d, 14.6 MB): /workspace/work/upload/icecube_long.mp4. Package for manual upload: /workspace/work/upload/icecube_longform_package.zip. Silent picture was deleted (re-render chunks to rebuild).
+- Stems (48 kHz 16-bit stereo, same gain as mix, limited): audio/vo_en.wav (English voice only), audio/bed.wav (music + soft SFX, NOT ducked, for dubs), audio/mix.wav (final ducked mix).
+- Style: warm editorial paper palette (cream paper, ink, ice blue-greys, terracotta = neutrino, restrained blue = Cherenkov light), paper grain, no glow/bloom, no burned captions. Real photos: Halzen, IceCube Lab, DOM (credits in sources.md).
+- Render: export PYTHONPATH=/workspace/work/pylib; ./run_render.sh 0 2 & ./run_render.sh 1 2 (900-frame chunks in chunks/), then concat chunks. Preview frames: cd src; python3 render.py preview ../cs/x <seconds...>; python3 sheet.py ../cs/x out.png 4.
+- Audio: cd src; python3 audio.py (≈2 min), then volume +3.7 dB + alimiter 0.85 per stem. SFX at template levels (whoosh g=0.03 on every other section change, SFX_GAIN 0.35, ducked). Docs (script_en.md, script_en.srt, chapters.txt): python3 src/docs.py.
+- Script: script.json = [section, VO text (phonetic for TTS), display text (for SRT)]; mk_script.py writes it. Timing: src/timeline.py (slot = read x 1.06 + 0.75 s).
+- Dub: keep picture, place dubbed paragraphs at the starts in script_en.md / timing.json, duck bed.wav under it.

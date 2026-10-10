@@ -1,0 +1,138 @@
+[
+[
+"hook",
+"You pick up your phone. It looks at your face, and it opens. Inside, a network of numbers decided: this is you. But that network did not start out smart. Before training, its numbers were random. It knew nothing."
+],
+[
+"hook",
+"So how does a pile of random numbers learn to see? Today we follow one small network, from its first wrong guess to its first real answer. Its job is simple. Is this picture a cat, or not a cat?"
+],
+[
+"pixels",
+"First, what does the network actually see? Not a cat. Only numbers. Zoom into any photo, and it breaks into tiny squares called pixels. Each pixel is one number for brightness. Zero is black. One is white."
+],
+[
+"pixels",
+"Our cat picture is sixteen pixels wide and sixteen tall. That is two hundred and fifty six numbers. To the network, this cat is just a list of numbers."
+],
+[
+"neuron",
+"Now meet the basic building block: a neuron. Think of a neuron as a judge. Every pixel gives it a vote. But the judge does not trust every vote the same. Some count a lot, some a little, and some count against."
+],
+[
+"neuron",
+"These levels of trust are called weights. The neuron multiplies each pixel by its weight and adds it all up. Then it adds one more number, the bias. This is a weighted sum."
+],
+[
+"neuron",
+"Then the sum passes through a simple function, often one called ReLU. If the sum is negative, the output is zero. If it is positive, it passes through. This bend is a nonlinearity. Without it, many layers would be no stronger than one. Remember this bend. We will need it later."
+],
+[
+"layers",
+"One neuron cannot recognize a cat. So we use many. A row of neurons is a layer. Each neuron looks at the same pixels with its own weights. Their outputs become the inputs of the next layer."
+],
+[
+"layers",
+"At the end, one final neuron gives a number between zero and one. That is the network's guess: how likely is this a cat? Our small network has about four thousand weights. Real vision networks often have millions."
+],
+[
+"random",
+"Here is the strange part. Before training, every weight is a small random number, like a shuffled deck of cards. So the network has no idea what a cat is. We show it our cat. It answers: zero point four eight. Almost a coin flip."
+],
+[
+"loss",
+"To learn, the network must know how wrong it was. We measure that with one number, called the loss. The right answer was one, for cat. A common choice here is the log loss, also called cross entropy. For this guess, it is about zero point seven three."
+],
+[
+"loss",
+"A guess of zero point nine nine would give a loss near zero. A guess of zero point zero one would give a large loss. Confident wrong answers are punished most. Training has one goal: make the average loss smaller."
+],
+[
+"landscape",
+"Now think of every weight as a knob. Turn a knob, and the loss changes. With only two knobs, we can draw the loss as a landscape. The ground is the two weights. The height is the loss. Valleys mean good guesses."
+],
+[
+"landscape",
+"Our random network starts somewhere high. It wants to reach a valley. But with four thousand knobs, this landscape has four thousand dimensions. Nobody can see it."
+],
+[
+"gradient",
+"Imagine standing on a mountain in thick fog. You cannot see the valley. But you can feel the ground under your feet, and which way goes down. So you take one small step that way. Then you feel again, and step again."
+],
+[
+"gradient",
+"That slope is called the gradient. It is a list of numbers, one for each weight. Each one says: if this weight grows a little, how much does the loss change? To go downhill, we move every weight a little the opposite way."
+],
+[
+"gradient",
+"The size of each step is the learning rate. Too small, and training is very slow. Too large, and we jump over the valley and bounce around, or even fly off. Choosing it well is part science, part experience."
+],
+[
+"backprop",
+"But here is a big question. We need one slope for every weight, thousands, or even millions. Testing each weight one by one is far too slow. The answer is the most famous idea in deep learning: backpropagation."
+],
+[
+"backprop",
+"Think of a football team that lost a match. The coach asks how much each player is to blame. The final shot depended on the pass before it. That pass depended on the one before. So blame flows backward, from the end to the start."
+],
+[
+"backprop",
+"Backpropagation does this with the loss. It starts at the output, where the error is clear, and moves back one layer at a time. At each step it asks: how much did this neuron affect the next? It multiplies these local effects together. In calculus, this is the chain rule."
+],
+[
+"backprop",
+"Remember the ReLU bend? If a neuron's sum was negative, its output was flat at zero. So its slope is zero, and no blame passes through it for that picture. The bends decide which paths carry the blame."
+],
+[
+"backprop",
+"And it is fast. One backward pass gives every slope, for roughly the cost of a few forward passes. The method was published in nineteen seventy by Seppo Linnainmaa. In nineteen eighty six, Rumelhart, Hinton and Williams showed it lets hidden layers learn useful features."
+],
+[
+"sgd",
+"One more trick. Training sets can hold millions of pictures. Using all of them for every step is slow. So we take a small random handful, maybe thirty two pictures, called a mini-batch. One gradient, one step, then a new handful."
+],
+[
+"sgd",
+"Each step is a little noisy, like a hiker who stumbles. But on average it still goes downhill. This is stochastic gradient descent, or SGD. Some researchers think this noise may even help. That is still being studied. We will come back to it."
+],
+[
+"train",
+"Now let's run it. Forward pass. Loss. Backward pass. Step. Again and again, thousands of times. The loss falls. Our cat's score climbs. Zero point six. Zero point eight. Zero point nine seven. The random numbers are not random anymore."
+],
+[
+"features",
+"But what did it learn? We can look inside. In large image networks, researchers have shown what makes each neuron respond. Zeiler and Fergus did this in twenty thirteen. Olah and colleagues went further in twenty seventeen."
+],
+[
+"features",
+"A broad pattern appears. Early layers often respond to edges and colors. Middle layers respond to textures, like fur. Deeper layers respond to parts, like eyes and faces. Nobody programmed this. It came from walking downhill. But it is a tendency, not a strict rule."
+],
+[
+"features",
+"Around nineteen sixty, Hubel and Wiesel found cells in the visual cortex of cats that respond best to edges at certain angles. Trained networks often learn early filters that look similar. So cats helped us understand how networks see cats. Still, a network is not a brain."
+],
+[
+"open",
+"Now the honest part. Big networks have more weights than training pictures. Classical theory says they should just memorize. And they can. In twenty seventeen, Zhang and colleagues trained networks on pictures with random labels. The networks memorized them perfectly."
+],
+[
+"open",
+"Yet with real labels, such networks work well on new pictures. Why? One hypothesis: the noisy walk finds wide, flat valleys, which may generalize better. But others showed that flatness depends on how you measure it. So it is not the whole story."
+],
+[
+"open",
+"Another idea is the lottery ticket hypothesis, from Frankle and Carbin. A big random network may contain small subnetworks with lucky starting weights that train well on their own. These are useful pieces of the puzzle. None is a complete answer yet."
+],
+[
+"close",
+"So, back to your phone. When it opens for your face, there is no little photo of you inside. Only numbers. They started random. Step by tiny step, they were nudged toward being a little less wrong."
+],
+[
+"close",
+"For a machine, seeing is what remains after millions of small corrections. Maybe learning is like that for all of us. Nobody starts out knowing. We start out wrong, and become a little less wrong each time."
+],
+[
+"close",
+"If this journey into the unseen helped you, you can subscribe to LATOON. There is much more to explore. See you next time."
+]
+]

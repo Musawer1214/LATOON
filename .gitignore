@@ -1,0 +1,13 @@
+*.mp4
+*.mp3
+*.wav
+*.png
+*.jpg
+*.webp
+*.log
+*.bak
+__pycache__/
+inter/
+img/
+frames/
+chunks/

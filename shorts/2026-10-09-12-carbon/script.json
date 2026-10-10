@@ -1,0 +1,11 @@
+[
+"Scientists can now read an animal's entire DNA in a day. Understanding it is the hard part.",
+"A genome is billions of letters: A, C, G, T. Genes, the recipes for proteins, hide inside, and finding them takes experts.",
+"Hugging Face just released Carbon-A, an AI that reads raw DNA and marks the genes itself.",
+"It has 1.2 billion parameters, and it reads about ninety-eight thousand letters at once.",
+"One model covers mammals, birds, plants and fungi. No separate expert for each species.",
+"It even handled a pond microbe that rewrites the code: two stop signals mean glutamine instead.",
+"Run across forty-eight thousand genome assemblies, it flagged 566 million possible genes.",
+"Lab tests in cats, chickens and Arabidopsis backed several genes the reference list was missing.",
+"They're candidates, not proven proteins yet. But life's map just got more readable. Follow LATOON."
+]

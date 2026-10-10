@@ -1,0 +1,16 @@
+TITLE:
+How Does AI Actually Learn? Gradient Descent #shorts
+
+DESCRIPTION:
+How does AI actually learn? By walking downhill in the dark. A model starts out random and wrong, and its wrongness is measured as one number called the loss. Picture the loss as a landscape: it can't see the map, only the slope under its feet (the gradient), so it steps downhill, measures again, and repeats billions of times. Step size matters: too big overshoots, too small never arrives.
+
+What should we explain next? Tell us below.
+
+All animation was made in code by LATOON. Loss values and curves shown are illustrative.
+
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy. Subscribe: @its_Latoon
+
+#shorts #AI #machinelearning #gradientdescent #deeplearning #LATOON
+
+TAGS:
+gradient descent, how AI learns, machine learning, deep learning, loss function, neural network training, AI explained, artificial intelligence, optimization, learning rate, LATOON, its_Latoon

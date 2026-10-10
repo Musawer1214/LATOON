@@ -1,0 +1,11 @@
+TITLE: Your AI Can't See Letters. Byte-Level LLMs Explained #shorts
+DESCRIPTION:
+Byte-level LLMs: most AI chatbots read tokens, word fragments, not letters. A Nature paper published October 7, 2026 shows how to retrofit token models into byte-level models ("byteification") with little extra training, doing better on character-level reasoning.
+
+Do you think AI should read letters or word chunks?
+
+All animation was made in code by LATOON. LATOON is not affiliated with Nature.
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy. Subscribe: @its_Latoon
+
+#shorts #LLM #AI #tokenization #DeepLearning #LATOON
+TAGS: byte-level LLM, byteification, tokenization, tokens, language models, LLM, Nature paper, AI explained, deep learning, how ChatGPT reads, strawberry problem, machine learning, LATOON, its_Latoon

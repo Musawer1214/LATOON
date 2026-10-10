@@ -1,0 +1,10 @@
+["How can a website check your password without knowing it?",
+"The trick is called hashing. A hash function chews up any text and spits out a fixed fingerprint.",
+"Type “cat”, and SHA-256 gives you sixty-four characters of scrambled code.",
+"Type “cats”, one letter more, and the whole fingerprint changes. Nothing is similar.",
+"Same input always gives the same fingerprint. But you can't run it backwards.",
+"So a site stores only the fingerprint. When you log in, it hashes what you typed and compares.",
+"If hackers steal the list, they get fingerprints, not your password.",
+"That's why a site that emails you your old password is doing it wrong.",
+"The same idea checks downloads, powers Git, and sits inside Bitcoin.",
+"Latoon. Voyaging the unseen. Follow for more."]

@@ -1,0 +1,62 @@
+TITLE:
+Catching a Ghost: The Nobel-Winning Telescope Made of Ice
+
+DESCRIPTION:
+Right now, about 65 billion neutrinos from the Sun are passing through your fingernail every second, and you feel nothing. So how do you catch a "ghost particle" that can fly through an entire planet? The 2026 Nobel Prize in Physics went to Francis Halzen for one answer: IceCube, a cubic kilometre of Antarctic ice at the South Pole, turned into a telescope.
+
+In this video we follow the whole story: Pauli's "desperate remedy" in 1930, why neutrinos are so hard to catch, why deep polar ice is the perfect detector, how 86 holes were melted 2.5 km deep with hot water, how a faint blue Cherenkov flash reveals a neutrino's direction, and what IceCube found: the blazar TXS 0506+056, the hidden galaxy NGC 1068, and the first picture of the Milky Way in neutrinos. Plus what comes next with the IceCube Upgrade and the proposed IceCube-Gen2.
+
+What invisible thing should we try to catch next? Tell us in the comments.
+
+Chapters:
+0:00 Ghosts through your fingernail
+0:32 A desperate remedy: Pauli to 1956
+1:12 Build a bigger trap
+1:49 Halzen's idea: Antarctic ice
+2:26 Melting holes 2.5 km deep
+2:58 5,160 sensors in a cubic kilometre
+3:11 Cherenkov light: the faint blue flash
+3:45 Tracing the direction + the Earth as a shield
+4:19 2013: neutrinos from beyond
+4:32 2017: one neutrino, one blazar
+4:59 2022: NGC 1068, hidden behind dust
+5:18 2023: the Milky Way in neutrinos
+5:31 The 2026 Nobel Prize
+5:47 What comes next: Upgrade and Gen2
+6:05 Look at your fingernail again
+
+Sources:
+- Nobel Prize Outreach / Royal Swedish Academy of Sciences, "Nobel Prize in Physics 2026: press release" and "Popular information: Ice at the South Pole reveals cosmic particle accelerators" (2026)
+- IceCube Collaboration / UW–Madison, "Francis Halzen, IceCube principal investigator, wins 2026 Physics Nobel Prize" (2026)
+- IceCube Neutrino Observatory, "IceCube detector" and "IceCube Quick Facts" (accessed 2026)
+- CERN, "CERN congratulates Nobel Prize winner Francis Halzen" (2026)
+- W. Pauli, open letter to the Tübingen meeting ("Dear Radioactive Ladies and Gentlemen") (1930)
+- American Physical Society, "Savannah River Site" historic site: Cowan and Reines detect the neutrino (1956)
+- IceCube Collaboration et al., "Multimessenger observations of a flaring blazar coincident with high-energy neutrino IceCube-170922A", Science 361 (2018)
+- IceCube Collaboration, "Neutrino emission from the direction of the blazar TXS 0506+056 prior to the IceCube-170922A alert", Science 361 (2018)
+- IceCube Collaboration, "Evidence for neutrino emission from the nearby active galaxy NGC 1068", Science 378 (2022)
+- IceCube Collaboration, "Observation of high-energy neutrinos from the Galactic plane", Science 380 (2023)
+
+Image credits:
+- Francis Halzen photo: Mauro.mezzetto, CC BY-SA 4.0, via Wikimedia Commons
+- IceCube Laboratory at the South Pole: Christopher Michel, CC BY-SA 4.0, via Wikimedia Commons
+- IceCube digital optical module: Amble, CC BY-SA 3.0, via Wikimedia Commons
+
+All animation and music were made in code by LATOON. LATOON is not affiliated with the IceCube Collaboration, the University of Wisconsin–Madison, the NSF or the Nobel Foundation.
+
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy. Subscribe: @its_Latoon
+
+#IceCube #Neutrinos #NobelPrize #Physics #Science #Astronomy
+
+TAGS:
+IceCube, IceCube Neutrino Observatory, neutrino, neutrinos, ghost particle, ghost particles, Nobel Prize in Physics 2026, Nobel Prize 2026, Francis Halzen, South Pole, Antarctica, Cherenkov light, neutrino astronomy, TXS 0506+056, NGC 1068, Milky Way neutrinos, IceCube-Gen2, particle physics, astrophysics, science explained, physics explained, LATOON, its_Latoon
+
+SETTINGS:
+Playlist: Science (create as Public if it does not exist; not "Shorts", not "Artificial Intelligence")
+Audience: No, it's not made for kids
+Category: Science & Technology
+Language: English (video and title/description)
+Captions: upload script_en.srt as English
+Altered or synthetic content: No (stylised code-drawn animation; real photos unaltered apart from crop/colour grade)
+Thumbnail: thumbnail.png
+End screen: Subscribe + Best for viewer (last ~13 s is a clean end card)

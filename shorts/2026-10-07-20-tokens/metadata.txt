@@ -1,0 +1,18 @@
+TITLE:
+How Does ChatGPT Actually Read? Tokens Explained #shorts
+
+DESCRIPTION:
+How does ChatGPT actually read your words? It doesn't see letters at all. Your text is chopped into pieces called tokens, learned by repeatedly merging the letter pairs that appear together most often, and each token becomes a number the model works with. That's one reason letter-counting questions can trip it up, and why context limits are counted in tokens, not words.
+
+What should we explain next? Tell us below.
+
+Image credits: ChatGPT logo: OpenAI (public domain, Wikimedia Commons). Token splits and ID numbers shown are illustrative; real tokenizers differ.
+
+All animation was made in code by LATOON. LATOON is not affiliated with OpenAI.
+
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy. Subscribe: @its_Latoon
+
+#shorts #ChatGPT #tokens #AI #LLM #machinelearning #LATOON
+
+TAGS:
+ChatGPT, tokens, tokenization, how ChatGPT works, how does ChatGPT read, LLM explained, large language model, AI explained, byte pair encoding, BPE, tokenizer, context window, machine learning, deep learning, artificial intelligence, LATOON, its_Latoon

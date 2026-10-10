@@ -1,0 +1,11 @@
+[
+"EmbeddingGemma 2 turns a photo, a song and a sentence into the same kind of number.",
+"Google DeepMind released it October 6th, small enough for a phone.",
+"It's an embedding model. It turns anything into 768 numbers: a point on a map of meaning.",
+"Similar meanings land close together: a dog photo, the word dog, a bark.",
+"That's how a voice memo can pull up the right video clip.",
+"The trick: Matryoshka training. Cut 768 numbers to 256, and Google says quality stays near lossless.",
+"On a Pixel 11 Pro, the full model needs about 567 megabytes, so your files can stay on the device.",
+"Code search gained most, from sixty-eight to nearly seventy-nine. These are Google's own scores, so independent tests must confirm them.",
+"Latoon. Voyaging the unseen. Follow for more."
+]

@@ -1,0 +1,15 @@
+TITLE: How Does AI Know Puppy Means Dog? Embeddings Explained #shorts
+DESCRIPTION:
+Embeddings explained: AI turns every word into a list of numbers, a spot on a huge map where similar meanings sit close together. That is how search and chatbots find what you meant, not just what you typed. Can you think of a pair of words you'd expect to be neighbours?
+
+Sources:
+https://developers.google.com/machine-learning/crash-course/embeddings
+https://arxiv.org/abs/1301.3781
+
+All animation was made in code by LATOON.
+
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy.
+Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+
+#embeddings #AI #machinelearning #wordvectors #shorts
+TAGS: embeddings, word embeddings, what is an embedding, vector embeddings, how AI understands words, word2vec, king minus man plus woman, semantic search, machine learning explained, AI explained, LATOON, its_Latoon

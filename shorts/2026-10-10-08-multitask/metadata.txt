@@ -1,0 +1,29 @@
+TITLE: Why Multitasking Mistakes Aren't Random: New Brain Study #shorts
+
+DESCRIPTION:
+Multitasking mistakes may not be lost focus. In a new Nature Neuroscience study, Cheng Xue and Marlene Cohen (University of Chicago) had more than 200 adults and two rhesus monkeys play a game where two stripe features changed at once, only one mattered, and the rule secretly switched. When the rule was uncertain, errors followed a pattern: signals for the irrelevant feature leaked into the relevant one, and people remembered the ignored detail better after a miss. The human side of the study is behavior only; brain activity was recorded in the monkeys. Xue suggests leaving a buffer between tasks. When did you last send the right thing to the wrong place?
+
+Sources:
+Nature Neuroscience paper: https://www.nature.com/articles/s41593-026-02430-w
+University of Chicago Neuroscience Cluster summary (Earth.com): https://cns.uchicago.edu/news-events/multitasking-can-make-brain-blur-useful-and-irrelevant-information
+Medscape News, Oct 9, 2026: https://www.medscape.com/viewarticle/your-mistakes-may-have-real-structure-new-brain-research-2026a10011vl
+
+Image credits:
+Laptop and phone: Rawpixel Ltd, CC BY 2.0, via Wikimedia Commons
+Harper Memorial Library, University of Chicago: Warren LeMay, CC BY-SA 2.0, via Wikimedia Commons
+Rhesus macaque: Charles J. Sharp, CC BY-SA 4.0, via Wikimedia Commons
+Cortical neurons, stained: Ns takes photos, CC BY 4.0, via Wikimedia Commons
+Working on a laptop: Shixart1985, CC BY 2.0, via Wikimedia Commons
+
+All animation was made in code by LATOON. The bar chart is a schematic of the reported finding, not measured values. LATOON is not affiliated with the University of Chicago or the researchers named.
+
+Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy.
+
+#shorts #Multitasking #Neuroscience #Psychology #Brain #CognitiveScience
+
+TAGS: multitasking, multitasking mistakes, feature interference, brain crosstalk, task switching, cognitive flexibility, Nature Neuroscience, Cheng Xue, Marlene Cohen, University of Chicago, neuroscience news, psychology, why do I make mistakes multitasking, brain science, LATOON, its_Latoon
+
+RELATED VIDEO: https://youtube.com/shorts/VYfe493ev7I (Your Brainstem Predicts What You'll Feel Before It Happens)
+PLAYLIST: Shorts | Not made for kids | Science & Technology | Altered content: No
+CLASS: TIMELY (Nature Neuroscience; UChicago/Medscape coverage Oct 7-9 2026). Built 08:00 PKT; 2-public-per-hour cap used by butterfly + phoenix -> PRIVATE, TIMELY QUEUE

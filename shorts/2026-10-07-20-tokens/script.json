@@ -1,0 +1,12 @@
+[
+"ChatGPT has never seen a single letter you typed.",
+"First, your sentence is chopped into pieces called tokens.",
+"Common words stay whole. Rare words get split into smaller chunks.",
+"A word like unbelievably might become three pieces: un, believ, and ably.",
+"A tokenizer learns those chunks by merging the letter pairs that show up together most often.",
+"Each chunk then becomes a number, an ID in a vocabulary of tens of thousands.",
+"The model only ever sees those numbers, never the letters inside them.",
+"That's one reason counting the R's in strawberry can trip it up.",
+"And it's why limits are counted in tokens, not words.",
+"Latoon. Voyaging the unseen. Follow for more."
+]

@@ -1,0 +1,17 @@
+TITLE:
+Mistral Large 4: 1 Trillion Parameters, Mostly Asleep #shorts
+
+DESCRIPTION:
+Mistral Large 4 has one trillion parameters, but only 49 billion are active at any moment. Mistral labels it a mixture-of-experts model, where a router decides which expert blocks process each token. Mistral launched the public preview on October 6, 2026, trained it on 3,800 NVIDIA Grace Blackwell GPUs in its own European data centres, and says the weights are due by the end of October. The benchmark figures shown are Mistral's own, and independent tests still have to confirm them. What would you run a trillion-parameter model for?
+
+Sources:
+https://mistral.ai/news/mistral-large-4/
+
+Image credits: Mistral Large 4 hero image and Cybench chart © Mistral AI, from the launch post.
+All animation was made in code by LATOON. LATOON is not affiliated with Mistral AI or NVIDIA.
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy. Subscribe: @its_Latoon
+
+#shorts #MistralLarge4 #Mistral #AI #MixtureOfExperts #LLM #OpenWeights
+
+TAGS:
+Mistral Large 4, Mistral AI, le Chonk, mixture of experts, MoE, open weight model, open-weight LLM, 1 trillion parameters, LLM, large language model, AI model, Cybench, Nvidia Grace Blackwell, AI news, artificial intelligence, deep learning, LATOON, its_Latoon

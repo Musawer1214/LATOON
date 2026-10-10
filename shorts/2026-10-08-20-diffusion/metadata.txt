@@ -1,0 +1,8 @@
+TITLE: How Does AI Draw a Picture From Pure Static? #shorts
+DESC: How does AI turn random static into a picture? Diffusion models like Stable Diffusion and Midjourney learn by adding noise to real images step by step, then training to predict that noise. To draw, they start from pure static and subtract the predicted noise a little at a time, steered by your words.
+
+All animation, including the sample picture, was made in code by LATOON. LATOON is not affiliated with Stability AI or Midjourney.
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy. Subscribe: @its_Latoon
+
+#shorts #diffusion #StableDiffusion #AIexplained #machinelearning #Midjourney
+TAGS: diffusion model,how diffusion works,stable diffusion,midjourney,AI image generation,denoising,machine learning,deep learning,AI explained,generative AI,LATOON,its_Latoon

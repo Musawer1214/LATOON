@@ -1,0 +1,17 @@
+TITLE:
+openTPU: An AI Chip That Waits on Memory #shorts
+
+DESCRIPTION:
+openTPU is an open-source AI accelerator whose repo says it was developed by AI. Released on GitHub on October 6, 2026, it puts the hardware design, instruction set, simulator, compiler and profiler in one repository, and runs real language models on a Kintex-7 FPGA card. Its profiler shows decoding is bound by memory: the card reads its DDR3 at up to 94% of the 17.1 GB/s peak, so 4-bit weights, which need fewer bytes per token, sped up decoding by up to 45%. These numbers are from the project's own benchmarks. Is memory the real limit of AI chips?
+
+Sources:
+https://github.com/FeSens/openTPU
+
+Image credits: Screenshot and Lens profiler capture © FeSens, openTPU (Apache-2.0).
+All animation was made in code by LATOON. LATOON is not affiliated with the openTPU project or its author.
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy. Subscribe: @its_Latoon
+
+#shorts #openTPU #AIChips #FPGA #LLM #OpenSource #MachineLearning
+
+TAGS:
+openTPU, open source AI accelerator, AI chip, AI accelerator, FPGA, Kintex-7, LLM inference, memory bandwidth, memory wall, 4-bit quantization, quantization, how AI chips work, hardware design with AI, AI news, artificial intelligence, deep learning, LATOON, its_Latoon

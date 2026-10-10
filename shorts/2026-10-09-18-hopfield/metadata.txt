@@ -1,0 +1,17 @@
+TITLE: Hopfield Network Built From Atoms and Light: 7x More Memory #shorts
+DESCRIPTION:
+Hopfield network, rebuilt from atoms and light: Stanford physicists made an associative memory that recalls a whole pattern from a partial one, and stored up to seven times more than the classic Hopfield limit in a 16-spin network. The atoms even shift like brain synapses. Would you trust a memory machine made of physics?
+
+Sources:
+https://www.science.org/doi/10.1126/science.aec3917
+https://humsci.stanford.edu/feature/physics-advance-could-improve-how-ai-remembers-and-learns
+https://levlab.stanford.edu/node/638
+
+Image credits: Balping, Tomasz Kawalec, Jawed (Wikimedia Commons, CC BY-SA 4.0).
+All animation was made in code by LATOON. LATOON is not affiliated with Stanford University.
+
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy.
+Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+
+#HopfieldNetwork #AI #physics #quantum #neuralnetworks #shorts
+TAGS: Hopfield network, associative memory, spin glass, Stanford physics, quantum optics, John Hopfield Nobel, neural networks, AI memory, cold atoms, optical cavity, brain-inspired computing, AI explained, LATOON, its_Latoon

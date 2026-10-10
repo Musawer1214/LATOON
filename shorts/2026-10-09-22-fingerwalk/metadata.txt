@@ -1,0 +1,22 @@
+TITLE: A Robot Hand That Walks on Its Fingertips #shorts
+
+DESCRIPTION:
+Robot hand walking: ETH Zurich researchers turned an off-the-shelf robotic hand into a self-contained robot that crawls on its fingertips. It carries an 80-gram backpack (battery, motion sensor, Raspberry Pi Zero) and was trained in simulation with reinforcement learning, using "virtual springs" that pull each finger back to a home position. It crawled across 14 surfaces and righted itself in 21 of 25 trials.
+
+Would you send a detachable hand into a place a robot arm can't reach?
+
+Sources:
+https://www.ieee-ras.org/news/this-disembodied-hand-is-all-the-robot-you-need/
+https://srl-ethz.github.io/website-fingers-as-legs/
+
+Image credits:
+Photo and collage: IEEE Spectrum / Soft Robotics Lab, ETH Zurich, via the article above, used for commentary.
+
+All animation was made in code by LATOON. LATOON is not affiliated with ETH Zurich or IEEE.
+
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy.
+Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+
+#shorts #Robotics #ReinforcementLearning #AI #ETHZurich
+
+TAGS: robot hand walking, robotic hand, ETH Zurich, reinforcement learning, Raspberry Pi Zero, robotics, Soft Robotics Lab, sim-to-real, legged robot, AI, technology, LATOON, its_Latoon

@@ -1,0 +1,17 @@
+TITLE:
+EmbeddingGemma 2: One Map for Photos, Sound and Text #shorts
+
+DESCRIPTION:
+EmbeddingGemma 2 turns text, code, images, video and audio into the same kind of 768-number vector, so similar meanings land close together on one shared map. Google DeepMind released the open 740M-parameter model on October 6, 2026. It can be trimmed from 768 to 256 numbers with Matryoshka training, and Google says a Pixel 11 Pro runs the full model in about 567 MB of active RAM. The benchmark scores shown are Google's own, and independent tests still have to confirm them. What would you search for by sound or by photo?
+
+Sources:
+https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/
+
+Image credits: EmbeddingGemma 2 banner image © Google.
+All animation was made in code by LATOON. LATOON is not affiliated with Google or Google DeepMind.
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy. Subscribe: @its_Latoon
+
+#shorts #EmbeddingGemma2 #Google #AI #Embeddings #Gemma #MachineLearning
+
+TAGS:
+EmbeddingGemma 2, EmbeddingGemma, Google DeepMind, Gemma 4, embedding model, multimodal embeddings, vector embeddings, Matryoshka representation learning, on-device AI, open source AI, RAG, semantic search, MTEB, AI news, artificial intelligence, deep learning, LATOON, its_Latoon

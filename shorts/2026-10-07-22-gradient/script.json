@@ -1,0 +1,12 @@
+[
+"Every AI you use learned by walking downhill in the dark.",
+"Training starts with a model that is basically random, and it gets everything wrong.",
+"The wrongness is measured as one number, called the loss.",
+"Picture that loss as a landscape. High ground means bad answers, low ground means good ones.",
+"The model can't see the whole map. It only feels the slope under its feet.",
+"So it takes one small step in the downhill direction. That slope is called the gradient.",
+"Then it measures again, and steps again.",
+"Repeat that billions of times, and the loss sinks.",
+"The step size matters. Too big and it overshoots the valley. Too small and it never arrives.",
+"Latoon. Voyaging the unseen. Follow for more."
+]

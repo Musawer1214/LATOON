@@ -1,0 +1,21 @@
+TITLE:
+Google Effect: Your Brain Lets Go of Saved Things #shorts
+
+DESCRIPTION:
+The Google effect now has a brain scan. In a new fMRI study from University College London (Scientific Reports, 5 October 2026), volunteers saw faces and scenes and were cued to remember them, forget them, or "offload" them by saving them with a reminder. Offload cues produced brain activity that closely resembled forget cues, and the neural trace of the picture faded until it was statistically absent, while it persisted in the remember condition. The authors suggest this may be an adaptive way to free limited brain capacity for what matters.
+
+Do you trust your phone to remember for you? Tell us below.
+
+Sources:
+https://www.nature.com/articles/s41598-026-71442-0
+
+Image credits: Google search screenshot: Google (public domain, Wikimedia Commons). Queen Square building: Montano336, CC BY-SA 3.0. MRI scanner: GeorgeWilliams21, CC BY-SA 4.0. fMRI activation maps (illustration only, not the study's data): Zereshk, public domain. Phone: Dennis Cortés, CC0. The charts are schematic illustrations of the paper's reported finding, not raw data.
+
+All animation was made in code by LATOON. LATOON is not affiliated with Google or University College London.
+
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy. Subscribe: @its_Latoon
+
+#shorts #GoogleEffect #psychology #neuroscience #memory #brain #LATOON
+
+TAGS:
+Google effect, digital amnesia, cognitive offloading, memory, fMRI, brain scan, forgetting, psychology, neuroscience, Scientific Reports, UCL, how memory works, psychology facts, LATOON, its_Latoon

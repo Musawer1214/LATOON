@@ -1,0 +1,14 @@
+0:00 Cold open: your phone sees you
+0:36 Pixels are numbers
+1:05 One neuron: weighted sum + ReLU
+1:55 Layers
+2:27 Random at first
+2:45 The loss: one number of wrongness
+3:20 The loss landscape
+3:49 Gradient descent and the learning rate
+4:38 Backpropagation (the chain rule)
+6:08 Mini-batches and SGD
+6:44 Training run
+7:06 What the layers learn
+8:04 Honest open questions
+9:01 Payoff

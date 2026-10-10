@@ -1,0 +1,27 @@
+TITLE: Using AI for 10 Minutes Can Make You Give Up Sooner #shorts
+
+DESCRIPTION:
+Using AI for 10 minutes can make you give up sooner. In randomized controlled trials with 1,222 online participants, people who solved fraction problems with ChatGPT open did better at first. When the AI was taken away, their accuracy dropped and they skipped more questions than the group that never had help. The effect also appeared on reading-comprehension questions. The authors suggest AI that scaffolds learning like a tutor. These were short online tasks, so the study shows an effect of brief AI use, not a lifelong one. Do you reach for the answer first, or the struggle?
+
+Sources:
+Paper (Liu, Christian, Dumbalska, Bakker, Dubey): https://arxiv.org/abs/2604.04721
+UC Berkeley News, Oct 9, 2026: https://news.berkeley.edu/2026/10/09/using-ai-for-just-10-minutes-erodes-your-ability-to-persist-at-hard-things/
+
+Image credits:
+Students at computers: Michael Surran, CC BY-SA 2.0, via Wikimedia Commons
+Brian Christian: Eileen Meny, CC BY-SA 4.0, via Wikimedia Commons
+Writing with a fountain pen: Aaron Burden (Unsplash), CC0, via Wikimedia Commons
+Sather Tower, UC Berkeley: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons
+
+All animation was made in code by LATOON. The charts are schematics of the reported pattern, not measured values. LATOON is not affiliated with UC Berkeley, OpenAI or the researchers named.
+
+Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy.
+
+#shorts #AI #ChatGPT #Psychology #CognitiveScience #Learning
+
+TAGS: AI and learning, ChatGPT study, AI persistence, AI makes you give up, AI assistance reduces persistence, Brian Christian, cognitive offloading, UC Berkeley, ChatGPT and thinking, psychology of AI, productive struggle, artificial intelligence, LATOON, its_Latoon
+
+RELATED VIDEO: https://youtube.com/shorts/CNrZZ0QTC7c (Google Effect: Your Brain Lets Go of Saved Things)
+PLAYLIST: Shorts | Not made for kids | Science & Technology | Altered content: No
+CLASS: TIMELY (Berkeley News Oct 9 2026; arXiv v5 Oct 3; COLM 2026). Built 09:00 PKT -> PUBLIC

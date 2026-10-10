@@ -1,0 +1,409 @@
+1
+00:00:00,800 --> 00:00:02,684
+Look at your little fingernail.
+
+2
+00:00:02,684 --> 00:00:08,519
+Right now, about sixty-five billion tiny
+particles from the Sun are passing straight
+through it.
+
+3
+00:00:08,519 --> 00:00:11,802
+Every second. Many flew through the whole
+Earth first.
+
+4
+00:00:11,802 --> 00:00:13,078
+And you feel nothing.
+
+5
+00:00:14,830 --> 00:00:17,614
+They are called neutrinos, the ghost
+particles.
+
+6
+00:00:17,614 --> 00:00:21,109
+So how do you catch something that passes
+through a planet?
+
+7
+00:00:21,109 --> 00:00:24,485
+This year, the Nobel Prize in Physics went
+to one answer:
+
+8
+00:00:24,485 --> 00:00:26,796
+a giant block of ice at the South Pole.
+
+9
+00:00:33,279 --> 00:00:35,012
+The story starts in 1930.
+
+10
+00:00:35,012 --> 00:00:39,309
+Wolfgang Pauli saw energy going missing when
+some atoms decay.
+
+11
+00:00:39,309 --> 00:00:45,409
+As a desperate remedy, he proposed a tiny
+neutral particle that carries it away,
+unseen.
+
+12
+00:00:45,409 --> 00:00:48,459
+It took twenty-six years to prove him right.
+
+13
+00:00:48,459 --> 00:00:54,629
+In 1956, Clyde Cowan and Frederick Reines
+caught neutrinos coming from a nuclear
+reactor.
+
+14
+00:00:56,925 --> 00:00:57,662
+Why so hard?
+
+15
+00:00:57,662 --> 00:01:04,364
+A neutrino has no electric charge and almost
+no mass, so it almost never touches the
+matter it flies through.
+
+16
+00:01:04,364 --> 00:01:10,451
+With a detector the size of a person, you
+would wait about a hundred years to see one
+neutrino hit.
+
+17
+00:01:13,027 --> 00:01:15,332
+So the trick is not a cleverer trap.
+
+18
+00:01:15,332 --> 00:01:16,549
+It is a bigger one.
+
+19
+00:01:16,549 --> 00:01:18,086
+Think of shooting stars.
+
+20
+00:01:18,086 --> 00:01:21,736
+Watch one small patch of sky, and you may
+wait all night.
+
+21
+00:01:21,736 --> 00:01:24,681
+Watch the whole sky, and you will see
+several.
+
+22
+00:01:26,395 --> 00:01:29,364
+Physicists wanted the rarest neutrinos of
+all:
+
+23
+00:01:29,364 --> 00:01:32,010
+the most energetic ones, from deep space.
+
+24
+00:01:32,010 --> 00:01:36,011
+Space also throws charged particles at us,
+called cosmic rays.
+
+25
+00:01:36,011 --> 00:01:40,980
+But magnetic fields bend their paths, so we
+cannot tell where they came from.
+
+26
+00:01:40,980 --> 00:01:45,497
+Neutrinos are made in the same violent
+places, and nothing bends them.
+
+27
+00:01:45,497 --> 00:01:47,433
+They point straight back home.
+
+28
+00:01:50,461 --> 00:01:56,981
+In the 1980s, Francis Halzen, a physicist at
+the University of Wisconsin, had a bold
+idea.
+
+29
+00:01:56,981 --> 00:02:02,704
+Why build a giant tank of water, when
+Antarctica already has one, frozen solid?
+
+30
+00:02:02,704 --> 00:02:04,732
+Deep ice is completely dark.
+
+31
+00:02:04,732 --> 00:02:08,427
+No life, very little radioactivity, no
+earthquakes.
+
+32
+00:02:10,520 --> 00:02:14,160
+The first test detector, called AMANDA,
+brought a surprise.
+
+33
+00:02:14,160 --> 00:02:17,862
+The upper ice was full of tiny bubbles that
+scattered light.
+
+34
+00:02:17,862 --> 00:02:22,058
+But below about fourteen hundred metres, it
+was astonishingly clear.
+
+35
+00:02:22,058 --> 00:02:24,526
+A flash could travel hundreds of metres.
+
+36
+00:02:27,131 --> 00:02:31,127
+So how do you put sensors that deep? You do
+not drill. You melt.
+
+37
+00:02:31,127 --> 00:02:39,432
+A hot water drill, like a giant shower head,
+melted holes sixty centimetres wide, down to
+two thousand four hundred and fifty metres.
+
+38
+00:02:39,432 --> 00:02:41,305
+Each hole took about two days.
+
+39
+00:02:43,170 --> 00:02:45,151
+Then a race against the freeze.
+
+40
+00:02:45,151 --> 00:02:48,664
+Crews lowered a cable of sensors in about
+eleven hours.
+
+41
+00:02:48,664 --> 00:02:52,560
+Within weeks the water froze solid, locking
+them in for good.
+
+42
+00:02:52,560 --> 00:02:56,456
+Over seven Antarctic summers, they did this
+eighty-six times.
+
+43
+00:02:59,019 --> 00:03:04,428
+Today, five thousand one hundred and sixty
+sensors hang in a cubic kilometre of ice.
+
+44
+00:03:04,428 --> 00:03:07,391
+Halzen calls each one a light bulb in
+reverse.
+
+45
+00:03:07,391 --> 00:03:10,289
+It catches light, and turns it into a
+signal.
+
+46
+00:03:12,730 --> 00:03:17,069
+But if neutrinos pass through everything,
+what does the ice see?
+
+47
+00:03:17,069 --> 00:03:20,798
+Very rarely, a neutrino smashes into an
+atom's nucleus.
+
+48
+00:03:20,798 --> 00:03:27,240
+The crash creates a new charged particle,
+often a muon, flying on in nearly the same
+direction.
+
+49
+00:03:29,125 --> 00:03:30,631
+Now the beautiful part.
+
+50
+00:03:30,631 --> 00:03:36,391
+Inside ice, light slows down, and this
+particle moves faster than light can move in
+ice.
+
+51
+00:03:36,391 --> 00:03:41,824
+So it leaves a cone of faint blue light,
+like the V shaped wake behind a speedboat.
+
+52
+00:03:41,824 --> 00:03:43,395
+This is Cherenkov light.
+
+53
+00:03:46,017 --> 00:03:48,201
+Which way did it come from? Timing.
+
+54
+00:03:48,201 --> 00:03:52,696
+The cone sweeps through the ice, and sensors
+light up one after another.
+
+55
+00:03:52,696 --> 00:03:55,567
+Connect the dots in order, and you get a
+line.
+
+56
+00:03:55,567 --> 00:03:59,063
+Follow it backwards, and it points to a spot
+in the sky.
+
+57
+00:04:00,860 --> 00:04:01,644
+One problem.
+
+58
+00:04:01,644 --> 00:04:06,999
+Particles from our own atmosphere rain into
+the ice, over a hundred million a day.
+
+59
+00:04:06,999 --> 00:04:10,069
+So IceCube also looks down, through the
+planet.
+
+60
+00:04:10,069 --> 00:04:17,122
+Almost nothing but neutrinos can cross the
+Earth, so a track coming up from below is
+very likely a neutrino.
+
+61
+00:04:19,863 --> 00:04:26,712
+In 2013, the team reported the first
+evidence of neutrinos with far too much
+energy to come from here.
+
+62
+00:04:26,712 --> 00:04:29,330
+They came from beyond our solar system.
+
+63
+00:04:29,330 --> 00:04:31,277
+Neutrino astronomy had begun.
+
+64
+00:04:33,727 --> 00:04:39,136
+On 22 September 2017, one neutrino arrived
+with about 290 TeV.
+
+65
+00:04:39,136 --> 00:04:45,242
+IceCube sent an alert, and telescopes around
+the world turned to look.
+
+66
+00:04:45,242 --> 00:04:48,731
+In that direction, a galaxy was flaring:
+
+67
+00:04:48,731 --> 00:04:56,757
+the blazar TXS 0506+056, about four billion
+light years away, powered by a giant black
+hole.
+
+68
+00:04:59,904 --> 00:05:01,836
+In 2022, a second clue:
+
+69
+00:05:01,836 --> 00:05:08,893
+about 79 neutrinos from NGC 1068, a galaxy
+whose black hole hides behind thick dust.
+
+70
+00:05:08,893 --> 00:05:12,589
+Light struggles to escape. Neutrinos do not.
+
+71
+00:05:12,589 --> 00:05:16,958
+Scientists call it strong evidence, not
+final proof.
+
+72
+00:05:19,746 --> 00:05:29,792
+And in 2023, with machine learning on ten
+years of data, IceCube drew the first
+picture of our own Milky Way, not in light,
+but in neutrinos.
+
+73
+00:05:32,160 --> 00:05:36,969
+On 6 October 2026, Francis Halzen won the
+Nobel Prize in Physics.
+
+74
+00:05:36,969 --> 00:05:46,070
+He called it a relief to finally deliver the
+recognition that the whole collaboration
+deserves, about 450 scientists today.
+
+75
+00:05:48,669 --> 00:05:50,116
+And the hunt goes on.
+
+76
+00:05:50,116 --> 00:05:54,939
+An upgrade was installed in 2025 and 2026 to
+sharpen IceCube's vision.
+
+77
+00:05:54,939 --> 00:06:03,827
+A proposed IceCube-Gen2 would watch eight
+times more ice, and listen with radio
+antennas for the most energetic neutrinos of
+all.
+
+78
+00:06:06,502 --> 00:06:08,779
+So look at your fingernail once more.
+
+79
+00:06:08,779 --> 00:06:11,733
+Billions of ghosts are still passing through
+it.
+
+80
+00:06:11,733 --> 00:06:14,626
+For almost a century, we could barely see
+them.
+
+81
+00:06:14,626 --> 00:06:19,980
+Now, at the bottom of the world, in total
+darkness, a block of ice is quietly
+watching.
+
+82
+00:06:21,804 --> 00:06:24,237
+This is Latoon. Voyaging the unseen.
+
+83
+00:06:24,237 --> 00:06:26,874
+Subscribe, and tell us in the comments:
+
+84
+00:06:26,874 --> 00:06:29,714
+what invisible thing should we catch next?
+

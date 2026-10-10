@@ -1,0 +1,11 @@
+TITLE: Brain-IT: AI Redraws What You See From a Brain Scan #shorts
+DESCRIPTION:
+Brain-IT is an AI from Michal Irani's lab at the Weizmann Institute of Science that reconstructs pictures people viewed in an fMRI scanner, using their brain activity. It predicts what is in the scene and where things sit, then a diffusion model paints the image. Presented at ICLR 2026. It works on pictures people saw, not dreams or private thoughts.
+
+Would you want a machine that can decode your brain?
+
+Image credits: Weizmann Institute sign photo by Hoshvilim (CC BY-SA 4.0, Wikimedia Commons); MRI magnet photo by NIH/NINDS (public domain). All other animation was made in code by LATOON. LATOON is not affiliated with the Weizmann Institute of Science.
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy. Subscribe: @its_Latoon
+
+#shorts #BrainIT #AI #neuroscience #fMRI #LATOON
+TAGS: Brain-IT, brain decoding, fMRI image reconstruction, AI reads brain, Weizmann Institute, Michal Irani, diffusion model, brain scan AI, neuroscience, ICLR 2026, mental privacy, deep learning, AI explained, LATOON, its_Latoon

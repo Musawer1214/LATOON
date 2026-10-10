@@ -1,0 +1,10 @@
+["An AI can now redraw what you're looking at, straight from your brain scan.",
+"It's called Brain-IT, from Michal Irani's lab at the Weizmann Institute.",
+"Volunteers lay in an fMRI scanner and viewed thousands of photos, while it logged blood flow in tiny cubes of brain called voxels.",
+"The scanner never sees a picture. It only sees where oxygen use rises and falls.",
+"So the AI learns the pattern. One branch guesses what is in the scene. Another guesses its layout and colors.",
+"Then a diffusion model, the noise-removal trick behind AI art, paints the image from those two clues.",
+"It needs about an hour of scanning from a new person, where older methods trained on forty.",
+"It still slips: a dog in a bathtub came out as a goat. And it decodes pictures people saw, not dreams.",
+"But as brain decoding improves, who gets to read a brain becomes a real question.",
+"Latoon. Voyaging the unseen. Follow for more."]

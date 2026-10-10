@@ -1,0 +1,9 @@
+Title: ChatGPT Answers Can Now Be Apps: Intelligent UI #shorts
+Description: ChatGPT's new Intelligent UI, rolling out with GPT-6 from October 7, 2026, answers with tappable diagrams, forms and tools instead of only text. Here is the unseen mechanism: the model picks from a library of ready-made components, and a compiler streams the interface onto your screen as it writes. Would you rather read an answer or use it?
+
+Source: OpenAI, "GPT-6 and Intelligent UI for everyone" (October 7, 2026).
+All animation was made in code by LATOON. LATOON is not affiliated with OpenAI.
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy. Subscribe: @its_Latoon
+
+#shorts #GPT6 #IntelligentUI #ChatGPT #AI #LATOON
+Tags: Intelligent UI, GPT-6, ChatGPT, ChatGPT Intelligent UI, OpenAI, generative UI, AI interface, how ChatGPT works, AI explained, artificial intelligence, LATOON, its_Latoon

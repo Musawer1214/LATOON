@@ -1,0 +1,16 @@
+TITLE: Gravitational Lenses: AI Found 70 Natural Telescopes #shorts
+DESCRIPTION:
+Gravitational lenses are galaxies so heavy they bend the light of galaxies behind them. A neural network scanned a sky map of nearly four billion objects, flagged 76 candidates, and the VLT's MUSE spectrograph confirmed 70 as real lenses. Would you trust AI to point the telescope?
+
+Sources:
+https://noirlab.edu/public/blog/desi-legacy-imaging-surveys/
+https://iopscience.iop.org/article/10.3847/1538-4365/ae844d
+
+Image credits: DESI Legacy Imaging Surveys/LBNL/DOE & KPNO/CTIO/NOIRLab/NSF/AURA; Gemini Observatory/NOIRLab/NSF/AURA/R. Proctor (NOIRLab image usage policy, CC BY 4.0).
+All animation was made in code by LATOON. LATOON is not affiliated with NOIRLab.
+
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy.
+Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+
+#GravitationalLens #astronomy #AI #NOIRLab #shorts
+TAGS: gravitational lens, gravitational lensing, DESI Legacy Imaging Surveys, NOIRLab, dark matter, neural network astronomy, AI astronomy, VLT MUSE, Einstein ring, cosmology, AI explained, LATOON, its_Latoon

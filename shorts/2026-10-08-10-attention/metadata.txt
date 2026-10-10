@@ -1,0 +1,8 @@
+TITLE: How Does AI Know What "It" Means? Attention Explained #shorts
+DESCRIPTION:
+How does AI know what the word "it" points to? Attention explained: in a transformer, every word scores every other word, and those scores link meaning together.
+Which word do you think is hardest for a machine to understand?
+All animation was made in code by LATOON. LATOON is not affiliated with OpenAI, Google or Anthropic.
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy. Subscribe: @its_Latoon
+#shorts #attention #transformers #ai #machinelearning #llm
+TAGS: attention mechanism, transformer explained, how AI understands language, self-attention, ChatGPT explained, LLM explained, machine learning for beginners, deep learning, AI explained, how ChatGPT works, LATOON, its_Latoon

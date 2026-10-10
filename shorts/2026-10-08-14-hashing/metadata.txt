@@ -1,0 +1,8 @@
+TITLE: How Can a Website Check Your Password Without Knowing It? #shorts
+DESCRIPTION:
+Hashing explained: a hash function turns any text into a fixed fingerprint. Change one letter and the whole fingerprint changes, and you can't reverse it. That's how sites check your password without storing it.
+Which password habit do you think is the riskiest?
+All animation was made in code by LATOON.
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy. Subscribe: @its_Latoon
+#shorts #hashing #cybersecurity #computerscience #sha256 #passwords
+TAGS: hashing explained, how passwords are stored, SHA-256, hash function, password security, computer science for beginners, cryptography, how login works, LATOON, its_Latoon

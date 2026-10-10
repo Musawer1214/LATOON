@@ -1,0 +1,12 @@
+[
+"A one trillion parameter AI, and most of it stays asleep.",
+"This is Mistral Large 4, in public preview since October 6th. Its nickname: le Chonk.",
+"It has one trillion parameters, but only forty-nine billion are active at any moment.",
+"Mistral labels it a mixture of experts: a router picks which expert blocks fire for each token, and the rest stay idle.",
+"So you get a giant's knowledge at roughly a smaller model's running cost.",
+"Mistral trained it from scratch on 3,800 Nvidia Grace Blackwell GPUs, in its own European data centres.",
+"On Cybench, forty security challenges, Mistral says it solves ninety-three percent, among the best open-model scores.",
+"Weights are due by the end of October, so organisations can host it themselves.",
+"The catch: these are Mistral's own numbers. Independent tests must still confirm them.",
+"Latoon. Voyaging the unseen. Follow for more."
+]

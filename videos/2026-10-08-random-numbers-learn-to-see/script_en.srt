@@ -1,0 +1,684 @@
+1
+00:00:00,750 --> 00:00:02,261
+You pick up your phone.
+
+2
+00:00:02,261 --> 00:00:04,626
+It looks at your face, and it opens.
+
+3
+00:00:04,626 --> 00:00:07,910
+Inside, a network of numbers decided: this is you.
+
+4
+00:00:07,910 --> 00:00:10,604
+But that network did not start out smart.
+
+5
+00:00:10,604 --> 00:00:13,297
+Before training, its numbers were random.
+
+6
+00:00:13,297 --> 00:00:14,348
+It knew nothing.
+
+7
+00:00:16,683 --> 00:00:20,060
+So how does a pile of random numbers learn to see?
+
+8
+00:00:20,060 --> 00:00:25,937
+Today we follow one small network, from its first wrong guess to its first real answer.
+
+9
+00:00:25,937 --> 00:00:27,153
+Its job is simple.
+
+10
+00:00:27,153 --> 00:00:29,585
+Is this picture a cat, or not a cat?
+
+11
+00:00:36,750 --> 00:00:39,807
+First, what does the network actually see?
+
+12
+00:00:39,807 --> 00:00:40,535
+Not a cat.
+
+13
+00:00:40,535 --> 00:00:41,482
+Only numbers.
+
+14
+00:00:41,482 --> 00:00:46,359
+Zoom into any photo, and it breaks into tiny squares called pixels.
+
+15
+00:00:46,359 --> 00:00:49,271
+Each pixel is one number for brightness.
+
+16
+00:00:49,271 --> 00:00:50,290
+Zero is black.
+
+17
+00:00:50,290 --> 00:00:51,236
+One is white.
+
+18
+00:00:53,660 --> 00:00:57,246
+Our cat picture is sixteen pixels wide and sixteen tall.
+
+19
+00:00:57,246 --> 00:00:59,936
+That is two hundred and fifty six numbers.
+
+20
+00:00:59,936 --> 00:01:03,202
+To the network, this cat is just a list of numbers.
+
+21
+00:01:05,831 --> 00:01:08,674
+Now meet the basic building block: a neuron.
+
+22
+00:01:08,674 --> 00:01:10,547
+Think of a neuron as a judge.
+
+23
+00:01:10,547 --> 00:01:12,357
+Every pixel gives it a vote.
+
+24
+00:01:12,357 --> 00:01:15,523
+But the judge does not trust every vote the same.
+
+25
+00:01:15,523 --> 00:01:19,141
+Some count a lot, some a little, and some count against.
+
+26
+00:01:21,447 --> 00:01:24,076
+These levels of trust are called weights.
+
+27
+00:01:24,076 --> 00:01:28,309
+The neuron multiplies each pixel by its weight and adds it all up.
+
+28
+00:01:28,309 --> 00:01:30,810
+Then it adds one more number, the bias.
+
+29
+00:01:30,810 --> 00:01:32,285
+This is a weighted sum.
+
+30
+00:01:34,344 --> 00:01:39,053
+Then the sum passes through a simple function, often one called ReLU.
+
+31
+00:01:39,053 --> 00:01:41,988
+If the sum is negative, the output is zero.
+
+32
+00:01:41,988 --> 00:01:44,514
+If it is positive, it passes through.
+
+33
+00:01:44,514 --> 00:01:46,425
+This bend is a nonlinearity.
+
+34
+00:01:46,425 --> 00:01:50,111
+Without it, many layers would be no stronger than one.
+
+35
+00:01:50,111 --> 00:01:51,408
+Remember this bend.
+
+36
+00:01:51,408 --> 00:01:52,910
+We will need it later.
+
+37
+00:01:56,441 --> 00:01:58,707
+One neuron cannot recognize a cat.
+
+38
+00:01:58,707 --> 00:01:59,706
+So we use many.
+
+39
+00:01:59,706 --> 00:02:01,571
+A row of neurons is a layer.
+
+40
+00:02:01,571 --> 00:02:05,436
+Each neuron looks at the same pixels with its own weights.
+
+41
+00:02:05,436 --> 00:02:08,767
+Their outputs become the inputs of the next layer.
+
+42
+00:02:10,975 --> 00:02:15,377
+At the end, one final neuron gives a number between zero and one.
+
+43
+00:02:15,377 --> 00:02:19,034
+That is the network's guess: how likely is this a cat?
+
+44
+00:02:19,034 --> 00:02:22,420
+Our small network has about four thousand weights.
+
+45
+00:02:22,420 --> 00:02:25,197
+Real vision networks often have millions.
+
+46
+00:02:28,294 --> 00:02:29,938
+Here is the strange part.
+
+47
+00:02:29,938 --> 00:02:35,591
+Before training, every weight is a small random number, like a shuffled deck of cards.
+
+48
+00:02:35,591 --> 00:02:38,287
+So the network has no idea what a cat is.
+
+49
+00:02:38,287 --> 00:02:39,536
+We show it our cat.
+
+50
+00:02:39,536 --> 00:02:41,771
+It answers: zero point four eight.
+
+51
+00:02:41,771 --> 00:02:43,020
+Almost a coin flip.
+
+52
+00:02:46,168 --> 00:02:49,379
+To learn, the network must know how wrong it was.
+
+53
+00:02:49,379 --> 00:02:52,591
+We measure that with one number, called the loss.
+
+54
+00:02:52,591 --> 00:02:54,820
+The right answer was one, for cat.
+
+55
+00:02:54,820 --> 00:02:59,015
+A common choice here is the log loss, also called cross entropy.
+
+56
+00:02:59,015 --> 00:03:02,358
+For this guess, it is about zero point seven three.
+
+57
+00:03:04,952 --> 00:03:08,823
+A guess of zero point nine nine would give a loss near zero.
+
+58
+00:03:08,823 --> 00:03:12,372
+A guess of zero point zero one would give a large loss.
+
+59
+00:03:12,372 --> 00:03:15,082
+Confident wrong answers are punished most.
+
+60
+00:03:15,082 --> 00:03:18,502
+Training has one goal: make the average loss smaller.
+
+61
+00:03:21,532 --> 00:03:23,967
+Now think of every weight as a knob.
+
+62
+00:03:23,967 --> 00:03:26,266
+Turn a knob, and the loss changes.
+
+63
+00:03:26,266 --> 00:03:30,122
+With only two knobs, we can draw the loss as a landscape.
+
+64
+00:03:30,122 --> 00:03:32,151
+The ground is the two weights.
+
+65
+00:03:32,151 --> 00:03:33,707
+The height is the loss.
+
+66
+00:03:33,707 --> 00:03:35,466
+Valleys mean good guesses.
+
+67
+00:03:37,834 --> 00:03:40,371
+Our random network starts somewhere high.
+
+68
+00:03:40,371 --> 00:03:42,042
+It wants to reach a valley.
+
+69
+00:03:42,042 --> 00:03:46,622
+But with four thousand knobs, this landscape has four thousand dimensions.
+
+70
+00:03:46,622 --> 00:03:47,736
+Nobody can see it.
+
+71
+00:03:50,401 --> 00:03:53,122
+Imagine standing on a mountain in thick fog.
+
+72
+00:03:53,122 --> 00:03:54,729
+You cannot see the valley.
+
+73
+00:03:54,729 --> 00:03:58,995
+But you can feel the ground under your feet, and which way goes down.
+
+74
+00:03:58,995 --> 00:04:01,221
+So you take one small step that way.
+
+75
+00:04:01,221 --> 00:04:03,447
+Then you feel again, and step again.
+
+76
+00:04:05,727 --> 00:04:07,893
+That slope is called the gradient.
+
+77
+00:04:07,893 --> 00:04:10,759
+It is a list of numbers, one for each weight.
+
+78
+00:04:10,759 --> 00:04:15,600
+Each one says: if this weight grows a little, how much does the loss change?
+
+79
+00:04:15,600 --> 00:04:19,613
+To go downhill, we move every weight a little the opposite way.
+
+80
+00:04:21,976 --> 00:04:25,020
+The size of each step is the learning rate.
+
+81
+00:04:25,020 --> 00:04:27,638
+Too small, and training is very slow.
+
+82
+00:04:27,638 --> 00:04:32,876
+Too large, and we jump over the valley and bounce around, or even fly off.
+
+83
+00:04:32,876 --> 00:04:36,414
+Choosing it well is part science, part experience.
+
+84
+00:04:39,533 --> 00:04:41,363
+But here is a big question.
+
+85
+00:04:41,363 --> 00:04:45,701
+We need one slope for every weight, thousands, or even millions.
+
+86
+00:04:45,701 --> 00:04:48,887
+Testing each weight one by one is far too slow.
+
+87
+00:04:48,887 --> 00:04:53,563
+The answer is the most famous idea in deep learning: backpropagation.
+
+88
+00:04:55,941 --> 00:04:58,600
+Think of a football team that lost a match.
+
+89
+00:04:58,600 --> 00:05:01,567
+The coach asks how much each player is to blame.
+
+90
+00:05:01,567 --> 00:05:04,411
+The final shot depended on the pass before it.
+
+91
+00:05:04,411 --> 00:05:06,698
+That pass depended on the one before.
+
+92
+00:05:06,698 --> 00:05:09,851
+So blame flows backward, from the end to the start.
+
+93
+00:05:12,217 --> 00:05:14,823
+Backpropagation does this with the loss.
+
+94
+00:05:14,823 --> 00:05:20,427
+It starts at the output, where the error is clear, and moves back one layer at a time.
+
+95
+00:05:20,427 --> 00:05:24,532
+At each step it asks: how much did this neuron affect the next?
+
+96
+00:05:24,532 --> 00:05:27,334
+It multiplies these local effects together.
+
+97
+00:05:27,334 --> 00:05:29,679
+In calculus, this is the chain rule.
+
+98
+00:05:32,400 --> 00:05:33,905
+Remember the ReLU bend?
+
+99
+00:05:33,905 --> 00:05:37,829
+If a neuron's sum was negative, its output was flat at zero.
+
+100
+00:05:37,829 --> 00:05:42,407
+So its slope is zero, and no blame passes through it for that picture.
+
+101
+00:05:42,407 --> 00:05:45,350
+The bends decide which paths carry the blame.
+
+102
+00:05:47,620 --> 00:05:48,617
+And it is fast.
+
+103
+00:05:48,617 --> 00:05:54,062
+One backward pass gives every slope, for roughly the cost of a few forward passes.
+
+104
+00:05:54,062 --> 00:05:58,379
+The method was published in nineteen seventy by Seppo Linnainmaa.
+
+105
+00:05:58,379 --> 00:06:05,418
+In nineteen eighty six, Rumelhart, Hinton and Williams showed it lets hidden layers learn useful features.
+
+106
+00:06:08,873 --> 00:06:09,925
+One more trick.
+
+107
+00:06:09,925 --> 00:06:13,012
+Training sets can hold millions of pictures.
+
+108
+00:06:13,012 --> 00:06:15,887
+Using all of them for every step is slow.
+
+109
+00:06:15,887 --> 00:06:21,639
+So we take a small random handful, maybe thirty two pictures, called a mini-batch.
+
+110
+00:06:21,639 --> 00:06:24,655
+One gradient, one step, then a new handful.
+
+111
+00:06:27,208 --> 00:06:30,737
+Each step is a little noisy, like a hiker who stumbles.
+
+112
+00:06:30,737 --> 00:06:33,175
+But on average it still goes downhill.
+
+113
+00:06:33,175 --> 00:06:35,998
+This is stochastic gradient descent, or SGD.
+
+114
+00:06:35,998 --> 00:06:39,078
+Some researchers think this noise may even help.
+
+115
+00:06:39,078 --> 00:06:40,875
+That is still being studied.
+
+116
+00:06:40,875 --> 00:06:42,414
+We will come back to it.
+
+117
+00:06:45,610 --> 00:06:46,963
+Now let's run it.
+
+118
+00:06:46,963 --> 00:06:47,997
+Forward pass.
+
+119
+00:06:47,997 --> 00:06:48,395
+Loss.
+
+120
+00:06:48,395 --> 00:06:49,509
+Backward pass.
+
+121
+00:06:49,509 --> 00:06:49,906
+Step.
+
+122
+00:06:49,906 --> 00:06:52,771
+Again and again, thousands of times.
+
+123
+00:06:52,771 --> 00:06:53,964
+The loss falls.
+
+124
+00:06:53,964 --> 00:06:55,794
+Our cat's score climbs.
+
+125
+00:06:55,794 --> 00:06:56,987
+Zero point six.
+
+126
+00:06:56,987 --> 00:06:58,340
+Zero point eight.
+
+127
+00:06:58,340 --> 00:07:00,090
+Zero point nine seven.
+
+128
+00:07:00,090 --> 00:07:03,432
+The random numbers are not random anymore.
+
+129
+00:07:06,889 --> 00:07:08,294
+But what did it learn?
+
+130
+00:07:08,294 --> 00:07:09,507
+We can look inside.
+
+131
+00:07:09,507 --> 00:07:14,551
+In large image networks, researchers have shown what makes each neuron respond.
+
+132
+00:07:14,551 --> 00:07:17,487
+Zeiler and Fergus did this in twenty thirteen.
+
+133
+00:07:17,487 --> 00:07:20,871
+Olah and colleagues went further in twenty seventeen.
+
+134
+00:07:23,244 --> 00:07:24,905
+A broad pattern appears.
+
+135
+00:07:24,905 --> 00:07:28,157
+Early layers often respond to edges and colors.
+
+136
+00:07:28,157 --> 00:07:31,202
+Middle layers respond to textures, like fur.
+
+137
+00:07:31,202 --> 00:07:34,800
+Deeper layers respond to parts, like eyes and faces.
+
+138
+00:07:34,800 --> 00:07:36,391
+Nobody programmed this.
+
+139
+00:07:36,391 --> 00:07:38,467
+It came from walking downhill.
+
+140
+00:07:38,467 --> 00:07:41,234
+But it is a tendency, not a strict rule.
+
+141
+00:07:44,008 --> 00:07:52,437
+Around nineteen sixty, Hubel and Wiesel found cells in the visual cortex of cats that respond best to edges at certain angles.
+
+142
+00:07:52,437 --> 00:07:56,518
+Trained networks often learn early filters that look similar.
+
+143
+00:07:56,518 --> 00:07:59,930
+So cats helped us understand how networks see cats.
+
+144
+00:07:59,930 --> 00:08:02,070
+Still, a network is not a brain.
+
+145
+00:08:05,552 --> 00:08:06,799
+Now the honest part.
+
+146
+00:08:06,799 --> 00:08:10,168
+Big networks have more weights than training pictures.
+
+147
+00:08:10,168 --> 00:08:13,162
+Classical theory says they should just memorize.
+
+148
+00:08:13,162 --> 00:08:13,973
+And they can.
+
+149
+00:08:13,973 --> 00:08:19,587
+In twenty seventeen, Zhang and colleagues trained networks on pictures with random labels.
+
+150
+00:08:19,587 --> 00:08:21,958
+The networks memorized them perfectly.
+
+151
+00:08:24,573 --> 00:08:28,739
+Yet with real labels, such networks work well on new pictures.
+
+152
+00:08:28,739 --> 00:08:29,008
+Why?
+
+153
+00:08:29,008 --> 00:08:34,720
+One hypothesis: the noisy walk finds wide, flat valleys, which may generalize better.
+
+154
+00:08:34,720 --> 00:08:38,886
+But others showed that flatness depends on how you measure it.
+
+155
+00:08:38,886 --> 00:08:40,835
+So it is not the whole story.
+
+156
+00:08:43,436 --> 00:08:47,828
+Another idea is the lottery ticket hypothesis, from Frankle and Carbin.
+
+157
+00:08:47,828 --> 00:08:54,508
+A big random network may contain small subnetworks with lucky starting weights that train well on their own.
+
+158
+00:08:54,508 --> 00:08:56,859
+These are useful pieces of the puzzle.
+
+159
+00:08:56,859 --> 00:08:58,714
+None is a complete answer yet.
+
+160
+00:09:01,917 --> 00:09:03,446
+So, back to your phone.
+
+161
+00:09:03,446 --> 00:09:07,967
+When it opens for your face, there is no little photo of you inside.
+
+162
+00:09:07,967 --> 00:09:08,831
+Only numbers.
+
+163
+00:09:08,831 --> 00:09:10,160
+They started random.
+
+164
+00:09:10,160 --> 00:09:14,747
+Step by tiny step, they were nudged toward being a little less wrong.
+
+165
+00:09:17,005 --> 00:09:21,621
+For a machine, seeing is what remains after millions of small corrections.
+
+166
+00:09:21,621 --> 00:09:24,241
+Maybe learning is like that for all of us.
+
+167
+00:09:24,241 --> 00:09:25,862
+Nobody starts out knowing.
+
+168
+00:09:25,862 --> 00:09:29,667
+We start out wrong, and become a little less wrong each time.
+
+169
+00:09:31,908 --> 00:09:36,395
+If this journey into the unseen helped you, you can subscribe to LATOON.
+
+170
+00:09:36,395 --> 00:09:38,265
+There is much more to explore.
+
+171
+00:09:38,265 --> 00:09:39,386
+See you next time.
+

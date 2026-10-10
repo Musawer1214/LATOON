@@ -1,0 +1,26 @@
+TITLE: Diffie-Hellman Explained: A Secret in Public #shorts
+
+DESCRIPTION:
+Diffie-Hellman is how two strangers can agree on a shared secret while everyone watches. Mix a public color with a private one, swap the mixes, add your private color again, and you both land on the same brown. Computers do the same with modular exponentiation, which is fast forward and brutal to reverse. Diffie and Hellman published it in 1976 and won the 2015 Turing Award.
+
+Which everyday thing do you think is secretly doing this right now?
+
+Sources:
+https://www.acm.org/media-center/2016/march/turing-award-2015
+https://doi.org/10.1109/TIT.1976.1055638
+https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
+
+Image credits:
+Whitfield Diffie: Kevin Bocek, CC BY 2.0, via Wikimedia Commons https://commons.wikimedia.org/wiki/File:Whit_Diffie_at_RSA_2010_(1).jpg
+Martin Hellman: Ajvol, CC BY-SA 3.0, via Wikimedia Commons https://commons.wikimedia.org/wiki/File:Martin-Hellman.jpg
+
+All animation was made in code by LATOON. The paint-mixing analogy is the standard teaching analogy for the exchange.
+
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy.
+Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+
+#shorts #DiffieHellman #cryptography #computerscience #encryption #technology
+
+TAGS: Diffie-Hellman, Diffie Hellman key exchange, key exchange explained, public key cryptography, how encryption works, cryptography explained, modular arithmetic, elliptic curve, Turing Award, Whitfield Diffie, Martin Hellman, computer science, how HTTPS works, LATOON, its_Latoon
+
+RELATED VIDEO: Hashing short (https://youtube.com/shorts/c7zmujbQnIs)

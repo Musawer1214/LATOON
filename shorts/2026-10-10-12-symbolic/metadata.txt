@@ -1,0 +1,17 @@
+TITLE: Inside ChatGPT: Hidden Structure in Its Numbers? Yale Study #shorts
+
+DESCRIPTION:
+Inside ChatGPT there are no words, only long lists of numbers. A new Yale-led preprint (Tom McCoy, Paul Soulos, Tal Linzen, Paul Smolensky) finds that the vectors inside large language models can be closely approximated by symbolic "role and filler" structure, like a pointillist painting that only makes sense from far away. It is a preprint, and the authors say it only scratches the surface. Do you think a chatbot "reasons"?
+
+Sources:
+https://news.yale.edu/2026/10/08/how-do-ai-chatbots-reason-humans-yale-led-study-offers-clues
+https://arxiv.org/abs/2608.29530
+
+Image credits: Georges Seurat, A Sunday on La Grande Jatte (1884), public domain via Wikimedia Commons.
+All animation was made in code by LATOON. LATOON is not affiliated with Yale, OpenAI or Microsoft.
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy. Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+
+#shorts #LLM #ChatGPT #AIresearch #Yale #neuralnetworks
+
+TAGS: LLM, how ChatGPT works, language models, symbolic structure, tensor product representations, Tom McCoy, Yale, interpretability, neural networks, AI explained, AI research, LATOON, its_Latoon
+RELATED: Attention explainer (ZS6h-3-QJ0Y)

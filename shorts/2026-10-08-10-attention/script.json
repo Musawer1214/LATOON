@@ -1,0 +1,10 @@
+["How does an AI know what the word “it” means?",
+"Take this sentence: the animal didn't cross the street because it was too tired.",
+"To you, “it” obviously means the animal. To a computer, it's just another word.",
+"So a transformer lets every word look at every other word, and ask: who matters to me?",
+"Each pair gets a score. That score is called attention.",
+"For “it”, the animal scores high. The street scores low.",
+"Now change “tired” to “wide”, and the attention flips to the street.",
+"Stack that across dozens of layers, and meaning emerges from invisible links.",
+"That one idea runs inside ChatGPT, Gemini and Claude.",
+"Latoon. Voyaging the unseen. Follow for more."]

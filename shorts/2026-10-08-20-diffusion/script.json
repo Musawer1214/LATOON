@@ -1,0 +1,10 @@
+["How does an AI draw a picture out of pure static?",
+"Tools like Stable Diffusion and Midjourney start with nothing but random noise.",
+"Here's the trick: training runs backwards. Take a real photo, and add a little noise.",
+"Add more, step after step, until the photo is buried in static.",
+"At every step, the AI sees the noisy image and answers one question: what noise was just added?",
+"It guesses, gets scored, and slowly learns what noise looks like, and what hides underneath.",
+"Now to draw, start from pure static, and subtract the noise it predicts, a little at a time.",
+"A sunrise appears from nothing. Your words steer every step, so the static becomes what you asked for.",
+"So the AI never copies a picture. It learns the way back from chaos.",
+"Latoon. Voyaging the unseen. Follow for more."]

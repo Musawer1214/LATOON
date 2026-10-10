@@ -1,0 +1,10 @@
+["Your AI chatbot never actually sees the letters in your words.",
+"Most language models first chop text into tokens, little word fragments, before they read anything.",
+"So a word like strawberry can arrive as a few chunks. Counting its letters turns into guessing.",
+"On October 7th, a Nature paper showed another way: let the model read raw bytes.",
+"A byte is the smallest piece a computer stores. Every letter, symbol and line of code is made of them.",
+"Byte models existed, but they lagged behind. Too many tiny pieces, and too slow.",
+"The fix is called byteification. Take an existing token model, and retrofit it in two stages, with little extra training.",
+"The result approaches token models, and does better where single characters matter.",
+"Think computer code, or DNA, where one character can change the whole meaning.",
+"Latoon. Voyaging the unseen. Follow for more."]

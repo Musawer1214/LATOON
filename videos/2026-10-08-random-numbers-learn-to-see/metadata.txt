@@ -1,0 +1,55 @@
+TITLE (main keyword first):
+How Neural Networks Learn to See: Backpropagation & Gradient Descent, Visually
+
+ALTERNATIVE TITLES:
+- How Does AI Learn? From Random Numbers to Recognizing a Cat
+- Neural Networks Explained: How Random Numbers Learn to See
+
+DESCRIPTION:
+How do neural networks learn? A neural network starts as a pile of random numbers and ends up recognizing a cat. In this long-form LATOON explainer we follow one small network from its first wrong guess to its first right answer: pixels as numbers, a single neuron (weighted sum + ReLU), layers, the loss, the loss landscape, gradient descent and the learning rate, backpropagation and the chain rule, mini-batches and SGD, what the layers actually learn, and the honest open questions researchers are still working on.
+
+Made for curious beginners, with the real math shown lightly for engineers and researchers. All animation and music are original and code-made.
+
+Which part surprised you most: the chain rule, or that networks can memorize random labels? Tell us in the comments.
+
+CHAPTERS
+0:00 Cold open: your phone sees you
+0:36 Pixels are numbers
+1:05 One neuron: weighted sum + ReLU
+1:55 Layers
+2:27 Random at first
+2:45 The loss: one number of wrongness
+3:20 The loss landscape
+3:49 Gradient descent and the learning rate
+4:38 Backpropagation (the chain rule)
+6:08 Mini-batches and SGD
+6:44 Training run
+7:06 What the layers learn
+8:04 Honest open questions
+9:01 Payoff
+
+
+NOTE: The small network in this video is a real toy model (256 → 16 → 8 → 1) trained on code-drawn 16×16 cat / not-cat images; its numbers are illustrative. The 3D loss landscape and the feature tiles are illustrative schematics.
+
+SOURCES
+- Rumelhart, Hinton & Williams (1986), Learning representations by back-propagating errors, Nature 323: https://www.nature.com/articles/323533a0
+- Linnainmaa (1970) reverse-mode differentiation; Griewank (2012), Who invented the reverse mode of differentiation?: https://ftp.gwdg.de/pub/misc/EMIS/journals/DMJDMV/vol-ismp/52_griewank-andreas-b.pdf
+- Baydin et al. (2018), Automatic differentiation in machine learning: a survey, JMLR: http://jmlr.org/papers/volume18/17-468/17-468.pdf
+- LeCun et al. (1989), Backpropagation applied to handwritten zip code recognition, Neural Computation 1(4)
+- Zeiler & Fergus (2013), Visualizing and Understanding Convolutional Networks: https://arxiv.org/abs/1311.2901
+- Olah, Mordvintsev & Schubert (2017), Feature Visualization, Distill: https://distill.pub/2017/feature-visualization/
+- Hubel & Wiesel (1959), Receptive fields of single neurones in the cat's striate cortex: https://pmc.ncbi.nlm.nih.gov/articles/PMC1363130
+- Zhang et al. (2017), Understanding deep learning requires rethinking generalization: https://arxiv.org/abs/1611.03530
+- Keskar et al. (2017), On Large-Batch Training ... Sharp Minima: https://arxiv.org/abs/1609.04836
+- Dinh et al. (2017), Sharp Minima Can Generalize For Deep Nets: https://arxiv.org/abs/1703.04933
+- Frankle & Carbin (2019), The Lottery Ticket Hypothesis: https://arxiv.org/abs/1803.03635
+- Goodfellow, Bengio & Courville (2016), Deep Learning, MIT Press: https://www.deeplearningbook.org
+
+#NeuralNetworks #DeepLearning #Backpropagation
+
+TAGS (comma separated):
+how neural networks learn, neural networks explained, how does ai learn, backpropagation, backpropagation explained, gradient descent, gradient descent explained, stochastic gradient descent, SGD, chain rule, loss function, cross entropy, loss landscape, learning rate, ReLU, neuron, deep learning, machine learning, computer vision, how ai sees, image recognition, convolutional neural network, feature visualization, lottery ticket hypothesis, flat minima, generalization, Hinton, Rumelhart, math animation, AI explained, LATOON, its_Latoon
+
+THUMBNAIL: thumbnail.png (1280x720), text "HOW AI SEES" (3 words). Concept: chaotic random numbers on the left stream into a glowing 16x16 pixel cat on the right — the whole video's arc in one frame.
+
+CATEGORY: Education. LANGUAGE: English (Urdu and Pashto audio tracks to be added later). Captions: upload script_en.srt as a caption file (never burned in).

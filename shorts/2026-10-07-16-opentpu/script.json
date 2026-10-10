@@ -1,0 +1,11 @@
+[
+"openTPU is an AI chip that says it was developed by AI, to run AI.",
+"A developer open-sourced it on October 6th: hardware, compiler and simulator, in one repo.",
+"It runs real language models on an old Kintex-7 FPGA card.",
+"No cache. No hidden scheduling. Every data move is one visible instruction.",
+"So a profiler can show exactly where every clock cycle goes.",
+"The surprise: the chip isn't slow at math. It's waiting on memory.",
+"While decoding, it reads from its DDR3 at up to 94 percent of the peak.",
+"So 4-bit weights, fewer bytes per token, made decoding up to 45 percent faster.",
+"Latoon. Voyaging the unseen. Follow for more."
+]
