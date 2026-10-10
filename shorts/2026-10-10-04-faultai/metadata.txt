@@ -1,0 +1,26 @@
+TITLE: Bigger AI Models Survive Faulty Chips Better: MIT Preprint #shorts
+
+DESCRIPTION:
+Fault-tolerant AI: an MIT preprint (Oct 7, 2026) trained language models on simulated faulty hardware, where random blocks of the matrix math are dropped on every pass. The surprise: past a certain size, the models recover, as if they learn error-correcting codes like the brain's grid cells. It is a preprint tested up to about a billion weights, so whether it holds at frontier scale is still unknown. Could AI one day run on cheap, unreliable chips?
+
+Sources:
+Fault-tolerant foundation models (McCourt, Fiete, Chuang, MIT, arXiv preprint): https://arxiv.org/abs/2610.10311
+Grid cells generate an analog error-correcting code (Sreenivasan & Fiete, Nature Neuroscience 2011): https://doi.org/10.1038/nn.2901
+
+Image credits:
+Microchip die photo: ZeptoBars, CC BY 3.0, via Wikimedia Commons (File:Altera-epm7032-HD.jpg)
+MIT Great Dome: John Phelan, CC BY 3.0, via Wikimedia Commons (File:Great Dome, Massachusetts Institute of Technology, Cambridge MA.jpg)
+Silicon wafer: Bill Smith, CC BY 2.0, via Wikimedia Commons (File:486 Wafer.jpg)
+
+All animation was made in code by LATOON. LATOON is not affiliated with MIT or the authors.
+
+Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+LATOON: Voyaging the Unseen. AI, technology, science, psychology and philosophy.
+
+#shorts #FaultTolerantAI #AI #MIT #LLM #AIChips
+
+TAGS: fault tolerant AI, fault-tolerant foundation models, MIT AI research, faulty hardware AI, energy efficient AI, low power AI chips, error correcting codes, grid cells, scaling laws, LLM robustness, AI hardware, neural scaling laws, AI explained, LATOON, its_Latoon
+
+RELATED VIDEO: https://youtube.com/shorts/f4p-CCBC1LQ (Hopfield Network Built From Atoms and Light)
+PLAYLIST: Shorts | Not made for kids | Science & Technology | Altered content: No
+CLASS: TIMELY; built 04:00 PKT -> PRIVATE, TIMELY QUEUE
