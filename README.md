@@ -9,7 +9,7 @@ Science, AI, psychology and philosophy — the ideas hiding beneath what we thin
 
 [![YouTube](https://img.shields.io/badge/YouTube-@its__Latoon-C4302B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@its_Latoon?sub_confirmation=1)
 [![Shorts](https://img.shields.io/badge/Shorts-38%2B-1C2530?style=for-the-badge&logo=youtubeshorts&logoColor=white)](#-shorts)
-[![Long--form](https://img.shields.io/badge/Long--form-2-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](#-long-form)
+[![Long--form](https://img.shields.io/badge/Long--form-3-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](#-long-form)
 [![Python](https://img.shields.io/badge/Python-3-C8A96A?style=for-the-badge&logo=python&logoColor=white)](#-the-engine)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-encode-0B0F14?style=for-the-badge&logo=ffmpeg&logoColor=white)](#-the-engine)
 
@@ -39,6 +39,14 @@ Science, AI, psychology and philosophy — the ideas hiding beneath what we thin
       <b>How Neural Networks Learn to See</b><br/>
       <sub>From random numbers to vision: backpropagation and gradient descent, shown step by step.</sub><br/>
       <sub><a href="videos/2026-10-08-random-numbers-learn-to-see">source</a> · <a href="https://www.youtube.com/watch?v=NltlRQh7Azo">watch ▶</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://www.youtube.com/watch?v=OfS3_JBmtu4"><img src="https://i.ytimg.com/vi/OfS3_JBmtu4/maxresdefault.jpg" width="100%" alt="How Enigma Was Broken"/></a><br/>
+      <b>How Enigma Was Broken: A Letter Could Never Be Itself</b><br/>
+      <sub>The reflector, the Polish break, cribs, the Bombe, and the message with no L.</sub><br/>
+      <sub><a href="videos/2026-10-10-1700-enigma-letter-never-itself">source</a> · <a href="https://www.youtube.com/watch?v=OfS3_JBmtu4">watch ▶</a></sub>
     </td>
   </tr>
 </table>
