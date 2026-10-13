@@ -1,0 +1,1 @@
+2026-10-13 14:30 PKT: scripts FINAL (script_en.json, dub_script_ur.json, dub_script_ps.json, 19 paras each). Voiced: 0/57 paragraphs. Next: voice 3 paras/request, EN gemini-2.5, UR 3.1, PS 3.8; keep Short's 3 requests.
