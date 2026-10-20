@@ -1,0 +1,25 @@
+TITLE:
+Why Can't AI Just Say "I Don't Know"? #shorts
+
+DESCRIPTION:
+Why does AI sometimes answer confidently and get it wrong? OpenAI researchers argue that a big reason is how we grade it: on accuracy-only tests, a lucky guess can score while "I don't know" always scores zero. On SimpleQA, a model that abstained on about half the questions was wrong 26% of the time; one that almost never abstained got slightly more right but was wrong 75% of the time. Their proposed fix: penalise confident errors more than uncertainty. Do you check the sources when an AI gives you a fact?
+
+Sources:
+OpenAI, "Why language models hallucinate" (2025-09-05): https://openai.com/index/why-language-models-hallucinate/
+Kalai, Nachum, Vempala, Zhang, "Why Language Models Hallucinate", arXiv:2509.04664 (2025): https://arxiv.org/abs/2509.04664
+SimpleQA figures (gpt-5-thinking-mini vs OpenAI o4-mini), GPT-5 system card: https://cdn.openai.com/gpt-5-system-card.pdf
+
+All animation was made by LATOON. LATOON is not affiliated with OpenAI or the authors named.
+LATOON: Voyaging the Unseen. Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+
+#shorts #AI #hallucination #chatgpt #machinelearning #llm
+
+TAGS:
+AI hallucination, why AI hallucinates, language models, LLM, ChatGPT, OpenAI, Why Language Models Hallucinate, Kalai, SimpleQA, GPT-5, AI evaluation, machine learning, I don't know, AI accuracy, artificial intelligence, LATOON, its_Latoon
+
+SETTINGS: Science & Technology; English (title/description language and video language); not made for kids; altered content: No; comments, embedding, subscriptions feed on.
+PLAYLIST: Shorts (PLeHZIXNgM64A) only (PLAYBOOK s8.5). Series context: Inside the Machine (Machines world) - not added to that playlist (Shorts live only in "Shorts").
+RELATED VIDEO (Shorts): Inside ChatGPT (J4bsx3OhGso), same series.
+CAPTIONS: subs_en.srt (English, soft).
+SCHEDULE: Public 2026-10-20 20:00 PKT (= 23:00 CST) (owner change 2026-10-20 20:12 CST; Loftus Short public 18:00 PKT same day).
+NOTE: no photos or archive footage (all Three.js clay made by LATOON), so no "Image credits" block. UR/PS: owner will record his own voice later; no AI UR/PS audio.
