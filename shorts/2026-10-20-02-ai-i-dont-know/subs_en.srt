@@ -1,0 +1,63 @@
+1
+00:00:00,460 --> 00:00:05,800
+Why does AI sometimes answer confidently,
+and get it wrong?
+
+2
+00:00:05,830 --> 00:00:11,420
+Researchers at OpenAI say a big reason is
+how we grade it.
+
+3
+00:00:11,450 --> 00:00:15,250
+On a multiple-choice exam, a guess might
+score.
+
+4
+00:00:15,280 --> 00:00:18,030
+A blank always scores zero.
+
+5
+00:00:18,060 --> 00:00:21,350
+So guessing beats "I don't know."
+
+6
+00:00:21,380 --> 00:00:25,450
+In one test, a model that held back on
+about half the questions
+
+7
+00:00:25,450 --> 00:00:28,310
+was wrong 26 percent of the time.
+
+8
+00:00:28,340 --> 00:00:32,230
+One that rarely held back got slightly
+more right,
+
+9
+00:00:32,230 --> 00:00:36,940
+but was wrong 75 percent.
+
+10
+00:00:36,970 --> 00:00:41,210
+A guess has a one in 365 chance.
+
+11
+00:00:41,240 --> 00:00:44,350
+"I don't know" scores zero.
+
+12
+00:00:44,380 --> 00:00:48,670
+Their fix: penalise confident errors more
+than uncertainty,
+
+13
+00:00:48,670 --> 00:00:52,520
+and reward an honest "I don't know."
+
+14
+00:00:52,550 --> 00:00:57,580
+So, for facts that matter, ask for the
+source, and check it.
+
