@@ -8,7 +8,7 @@ Science, AI, psychology and philosophy — the ideas hiding beneath what we thin
 <br/>
 
 [![YouTube](https://img.shields.io/badge/YouTube-@its__Latoon-C4302B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@its_Latoon?sub_confirmation=1)
-[![Shorts](https://img.shields.io/badge/Shorts-38%2B-1C2530?style=for-the-badge&logo=youtubeshorts&logoColor=white)](#-shorts)
+[![Shorts](https://img.shields.io/badge/Shorts-40%2B-1C2530?style=for-the-badge&logo=youtubeshorts&logoColor=white)](#-shorts)
 [![Long--form](https://img.shields.io/badge/Long--form-3-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](#-long-form)
 [![Python](https://img.shields.io/badge/Python-3-C8A96A?style=for-the-badge&logo=python&logoColor=white)](#-the-engine)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-encode-0B0F14?style=for-the-badge&logo=ffmpeg&logoColor=white)](#-the-engine)
@@ -98,6 +98,8 @@ Science, AI, psychology and philosophy — the ideas hiding beneath what we thin
 
 | | Short | Source |
 |:-:|:--|:-:|
+| 🧠 | [Can One Word Change What You Remember?](https://youtube.com/shorts/3QdItPlGW4c) | [`2026-10-20-01-loftus-one-word`](shorts/2026-10-20-01-loftus-one-word) |
+| 🤖 | [Why Can't AI Just Say "I Don't Know"?](https://youtube.com/shorts/bQ5CmhfKfX0) | [`2026-10-20-02-ai-i-dont-know`](shorts/2026-10-20-02-ai-i-dont-know) |
 | 🔭 | [Neutron Star Merger: The 10-Minute X-ray Flash Mystery](https://youtube.com/shorts/wx77zXhFiDk) | [`2026-10-10-13-nsmerger`](shorts/2026-10-10-13-nsmerger) |
 | 🤖 | [Inside ChatGPT: Hidden Structure in Its Numbers? Yale Study](https://youtube.com/shorts/jBfvHkjqr2A) | [`2026-10-10-12-symbolic`](shorts/2026-10-10-12-symbolic) |
 | 🤖 | [Using AI for 10 Minutes Can Make You Give Up Sooner](https://youtube.com/shorts/31v3Zy-v500) | [`2026-10-10-09-aipersist`](shorts/2026-10-10-09-aipersist) |
