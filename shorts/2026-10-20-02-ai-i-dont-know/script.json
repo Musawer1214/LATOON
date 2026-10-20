@@ -1,0 +1,10 @@
+[
+ "Why does AI sometimes answer confidently, and get it wrong?",
+ "Researchers at OpenAI say a big reason is how we grade it.",
+ "On a multiple-choice exam, a guess might score. A blank always scores zero.",
+ "So guessing beats \"I don't know.\"",
+ "In one test, a model that held back on about half the questions was wrong 26 percent of the time. One that rarely held back got slightly more right, but was wrong 75 percent.",
+ "A guess has a one in 365 chance. \"I don't know\" scores zero.",
+ "Their fix: penalise confident errors more than uncertainty, and reward an honest \"I don't know.\"",
+ "So, for facts that matter, ask for the source, and check it."
+]
