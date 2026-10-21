@@ -8,6 +8,8 @@ Science, AI, psychology and philosophy — the ideas hiding beneath what we thin
 <br/>
 
 [![YouTube](https://img.shields.io/badge/YouTube-@its__Latoon-C4302B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@its_Latoon?sub_confirmation=1)
+[![Urdu](https://img.shields.io/badge/%D8%A7%D8%B1%D8%AF%D9%88-@LATOON__Urdu-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LATOON_Urdu)
+[![Pashto](https://img.shields.io/badge/%D9%BE%DA%9A%D8%AA%D9%88-@LATOON__Pashto-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LATOON_Pashto)
 [![Shorts](https://img.shields.io/badge/Shorts-40%2B-1C2530?style=for-the-badge&logo=youtubeshorts&logoColor=white)](#-shorts)
 [![Long--form](https://img.shields.io/badge/Long--form-3-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](#-long-form)
 [![Python](https://img.shields.io/badge/Python-3-C8A96A?style=for-the-badge&logo=python&logoColor=white)](#-the-engine)
@@ -23,6 +25,27 @@ Science, AI, psychology and philosophy — the ideas hiding beneath what we thin
 > **No templates, no stock edits.** Each video is a small program: a researched script, a narrated voice track, and Python scenes that paint every frame — layered, shaded, real photographs composited with hand-built diagrams — then mixed and encoded with FFmpeg.
 
 <br/>
+
+## 📺 Watch LATOON
+
+The same animations, published in three languages, each with its own native narration.
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://www.youtube.com/@its_Latoon?sub_confirmation=1"><img src="https://img.shields.io/badge/English-LATOON-C4302B?style=for-the-badge&logo=youtube&logoColor=white" alt="LATOON (English)"/></a><br/>
+      <sub><b>English</b> · <a href="https://www.youtube.com/@its_Latoon">@its_Latoon</a></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://www.youtube.com/@LATOON_Urdu?sub_confirmation=1"><img src="https://img.shields.io/badge/Urdu-LATOON%20Urdu-1C2530?style=for-the-badge&logo=youtube&logoColor=white" alt="LATOON Urdu"/></a><br/>
+      <sub><b>اردو · Urdu</b> · <a href="https://www.youtube.com/@LATOON_Urdu">@LATOON_Urdu</a></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://www.youtube.com/@LATOON_Pashto?sub_confirmation=1"><img src="https://img.shields.io/badge/Pashto-LATOON%20Pashto-C8A96A?style=for-the-badge&logo=youtube&logoColor=white" alt="LATOON Pashto"/></a><br/>
+      <sub><b>پښتو · Pashto</b> · <a href="https://www.youtube.com/@LATOON_Pashto">@LATOON_Pashto</a></sub>
+    </td>
+  </tr>
+</table>
 
 ## 🎬 Long-form
 
