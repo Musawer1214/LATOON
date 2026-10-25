@@ -11,7 +11,7 @@ Science, AI, psychology and philosophy — the ideas hiding beneath what we thin
 [![Urdu](https://img.shields.io/badge/%D8%A7%D8%B1%D8%AF%D9%88-@LATOON__Urdu-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LATOON_Urdu)
 [![Pashto](https://img.shields.io/badge/%D9%BE%DA%9A%D8%AA%D9%88-@LATOON__Pashto-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LATOON_Pashto)
 [![Shorts](https://img.shields.io/badge/Shorts-42%2B-1C2530?style=for-the-badge&logo=youtubeshorts&logoColor=white)](#-shorts)
-[![Long--form](https://img.shields.io/badge/Long--form-3-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](#-long-form)
+[![Long--form](https://img.shields.io/badge/Long--form-5-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](#-long-form)
 [![Python](https://img.shields.io/badge/Python-3-C8A96A?style=for-the-badge&logo=python&logoColor=white)](#-the-engine)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-encode-0B0F14?style=for-the-badge&logo=ffmpeg&logoColor=white)](#-the-engine)
 
@@ -70,6 +70,20 @@ The same animations, published in three languages, each with its own native narr
       <b>How Enigma Was Broken: A Letter Could Never Be Itself</b><br/>
       <sub>The reflector, the Polish break, cribs, the Bombe, and the message with no L.</sub><br/>
       <sub><a href="videos/2026-10-10-1700-enigma-letter-never-itself">source</a> · <a href="https://www.youtube.com/watch?v=OfS3_JBmtu4">watch ▶</a></sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://www.youtube.com/watch?v=J4bsx3OhGso"><img src="https://i.ytimg.com/vi/J4bsx3OhGso/maxresdefault.jpg" width="100%" alt="Inside ChatGPT"/></a><br/>
+      <b>What Happens Inside ChatGPT When You Press Enter</b><br/>
+      <sub>Tokens, embeddings, attention and the KV cache: one prompt followed through every layer.</sub><br/>
+      <sub><a href="videos/2026-10-14-inside-chatgpt-press-enter">source</a> · <a href="https://www.youtube.com/watch?v=J4bsx3OhGso">watch ▶</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://www.youtube.com/watch?v=Ei0HJOE0Ih4"><img src="https://i.ytimg.com/vi/Ei0HJOE0Ih4/maxresdefault.jpg" width="100%" alt="The Machines Got Smarter"/></a><br/>
+      <b>The Machines Got Smarter. Did We?</b><br/>
+      <sub>From ELIZA and PARRY to ChatGPT and Claude: what changed in the machines, and who is still checking.</sub><br/>
+      <sub><a href="videos/2026-10-15-the-archive-who-is-checking">source</a> · <a href="https://www.youtube.com/watch?v=Ei0HJOE0Ih4">watch ▶</a></sub>
     </td>
   </tr>
 </table>
