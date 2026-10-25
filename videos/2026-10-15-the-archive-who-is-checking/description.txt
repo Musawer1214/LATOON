@@ -1,0 +1,44 @@
+Talking machines went from ELIZA in 1966 to ChatGPT and Claude today, and the question was never only how smart they got, but how much we trust them. In this animated archive, ELIZA, PARRY, ChatGPT and Claude walk through sixty years of their own record: a program that reflected words back, one built to be suspicious, assistants that agree too easily, and AI that now sits inside military targeting in Gaza and Iran. Every claim about the real world is attributed to its source. So who is still checking? Tell us in the comments.
+
+Fictional dialogue. Facts sourced below.
+
+Chapters:
+0:00 The Archive: meet the four voices
+2:03 The Corridor: PARRY meets the DOCTOR (1972)
+4:13 The Long Way Here: from rules to neural networks
+5:48 ELIZA's Room: why people felt heard
+7:23 The Table: sycophancy, Gaza, Iran and Minab
+13:39 What We Know
+14:04 Epilogue: the open drawer
+
+Sources:
+R01 Weizenbaum, "ELIZA", Communications of the ACM 9(1), 1966: https://dl.acm.org/doi/10.1145/365153.365168
+R02 V. Cerf, RFC 439, "PARRY Encounters the DOCTOR" (session of 18 Sep 1972): https://www.rfc-editor.org/rfc/rfc439.html
+R03 BBC News on A.L.I.C.E., 2004: http://news.bbc.co.uk/2/hi/technology/3672424.stm and AIML 1.0.1: https://github.com/AIML-Foundation/AIML-1.0.1
+R04 Vaswani et al., "Attention Is All You Need", 2017: https://arxiv.org/abs/1706.03762
+R05 Nobel Prize in Chemistry 2024, press release: https://www.nobelprize.org/prizes/chemistry/2024/press-release/
+R06 METR, early-2025 study of experienced open-source developers: https://metr.org/Early_2025_AI_Experienced_OS_Devs_Study-paper.pdf
+R07 +972 Magazine / Local Call, "Lavender", 3 Apr 2024: https://www.972mag.com/lavender-ai-israeli-army-gaza/
+R08 The Guardian, Microsoft blocks Israel's use of its technology in mass surveillance, 25 Sep 2025: https://www.theguardian.com/world/2025/sep/25/microsoft-blocks-israels-use-of-its-technology-in-mass-surveillance-of-palestinians
+R09 Microsoft (Brad Smith), "Update on ongoing Microsoft review", 25 Sep 2025: https://blogs.microsoft.com/on-the-issues/2025/09/25/update-on-ongoing-microsoft-review/
+R10 CBS News, Claude used in Iran war by U.S. military, 3 Mar 2026: https://www.cbsnews.com/news/anthropic-claude-ai-iran-war-u-s/
+R11 Sharma et al., "Towards Understanding Sycophancy in Language Models", 2023: https://arxiv.org/abs/2310.13548
+R12 OpenAI, "Sycophancy in GPT-4o", 29 Apr 2025: https://openai.com/index/sycophancy-in-gpt-4o/
+R13 UN Independent International Fact-Finding Mission on Iran, 17 Sep 2026: https://www.ohchr.org/en/press-releases/2026/09/iran-civilians-trapped-between-extreme-state-repression-and-violations and Chair's statement: https://www.ohchr.org/en/statements-and-speeches/2026/09/statement-sara-hossain-chair-independent-international-fact-finding
+R14 Bloomberg, "Inside the US 'Kill Chain' That Destroyed an Iranian School", 18 Sep 2026: https://www.bloomberg.com/graphics/2026-iran-school-attack/
+R15 Colby, Weber and Hilf, "Artificial Paranoia", Artificial Intelligence 2(1), 1971: https://doi.org/10.1016/0004-3702(71)90002-6
+R16 Colby, Hilf et al., Stanford AI Project report CS-TR-72-326, 1972: http://i.stanford.edu/pub/cstr/reports/cs/tr/72/326/CS-TR-72-326.pdf
+R17 OpenAI, "Introducing ChatGPT", 2022: https://openai.com/index/chatgpt/ and Anthropic, "Introducing Claude", 2023: https://www.anthropic.com/news/introducing-claude
+R18 Weizenbaum, Computer Power and Human Reason (1976), Introduction: https://cyborgdigitalculture.wordpress.com/wp-content/uploads/2013/09/24-weizenbaum-03.pdf
+R19 NBC News, U.S. military using AI to help plan Iran air attacks, 11 Mar 2026: https://www.nbcnews.com/tech/tech-news/us-military-using-ai-help-plan-iran-air-attacks-sources-say-lawmakers-rcna262150
+R20 CBS News, Shyam Sankar (Palantir) on Face the Nation, 11 Oct 2026: https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/
+R21 The Washington Post, Claude central to U.S. campaign in Iran, 4 Mar 2026: https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/
+
+All animation was made by LATOON. ChatGPT and the OpenAI logo are trademarks of OpenAI; Claude and the Claude logo are trademarks of Anthropic. They are used for identification only. LATOON is not affiliated with or endorsed by OpenAI, Anthropic, Palantir, Microsoft or any organisation named.
+
+Roman Urdu: AI par kitna bharosa? ELIZA se ChatGPT aur Claude tak
+Roman Pashto: Pa AI bandi tsomra baawar? Da ELIZA na tar ChatGPT au Claude pore
+
+LATOON: Voyaging the Unseen. Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+
+#ELIZA #ChatGPT #Claude #AIHistory #ArtificialIntelligence #AIEthics
