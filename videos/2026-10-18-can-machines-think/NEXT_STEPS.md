@@ -53,3 +53,25 @@ Nothing has been voiced, rendered or uploaded. No recording PDF exists yet.
 - Owner rewrote Urdu + 4 sticky notes; v2 applied in lines.py (v1 in lines_v1.py). EN/PS follow his Urdu flow. Place names trimmed; C4-09 = Searle's fire example.
 - Delivered Can_Machines_Think_script_v2_UR_PS_EN.pdf (make_trilingual_pdf.py). English est ~17:43 total at 155 wpm.
 - Next: owner checks v2 and records UR/PS from this PDF. Do not voice EN until he marks FINAL.
+
+## Workflow change (owner, 2026-10-24 22:04 CST)
+- Owner reads the Urdu v2 aloud (Can_Machines_Think_UR_readthrough_v2.pdf) and sends a voice recording with his updates, new dialogue and changes.
+- Hark transcribes it, writes the final Urdu, then finalizes English and Pashto to follow it; owner confirms; Hark voices English (Gemini); owner records final UR/PS.
+- Script is NOT final until then: no TTS, shot timings provisional.
+
+## PRE-PRODUCTION started 2026-10-24 21:52 CST (owner: "start work on long video next in queue ... I will do Urdu and Pashto voiceovers and you do the English version")
+**Script still NOT final (owner workflow change 22:04 CST: his Urdu voice read-through comes first). No TTS spent. lines.py text unchanged.**
+- CONCEPT.md: per-chapter "what the viewer must SEE"; world = "The Section Model" (architect's daylight studio, plaster/card/oak/brass scale models cut in section; OUTSIDE vs INSIDE; wall-with-a-slot device; parrot/map/sand-timer/token/lit-window symbols; dusk only in C7). Distinct from The Archive's night library. Archival image list with licences (Commons, read 2026-10-24).
+- VISUAL_PLAN.md: chapter plan (firm), ending (firm), render pipeline (Colab T4, NO Kaggle, 7.4b lessons), look-still notes. plan/shots.py + plan/make_shotlist.py -> plan/shotlist.md/.csv = **PROVISIONAL per-line shotlist and timings (v2 ids)**; regenerate after the final lines.py, then re-time to the real EN voice.
+- Length at measured pace (Iapetus narrator 140.8 wpm, Archive): v2 speech ~19:34, total ~19:55 incl. closing hold + silent quote + 12 s end frame (the 17:43 figure assumed 155 wpm). Owner to decide length in his read-through.
+- Look stills (Three.js headless, real pipeline): look/scene.html, look/cap.js, look/stills/s1-s9.png, **look/contact_sheet.jpg** (v1 sheets + scene_v1.html kept). Weak points still listed in VISUAL_PLAN s4.
+- VOICE_PLAN.md: EN = Iapetus on gemini-3.8-flash-tts only, after The Archive PS is done (never 3.1/2.5); ~14-16 requests + redos, 3-4 windows. UR/PS = owner's own voice from the final recording PDF (to make after the final script), processing per PLAYBOOK 6.2, always sent to him before any upload.
+- Ending (owner rule 2026-10-24): no spoken channel line; C8-05 -> ~2 s hold -> silent Turing quote card (T12) ~7 s -> silent LATOON end frame 12 s.
+- WARNING: the two teaser Shorts listed above ("Could You Tell a Human From an AI in 5 Minutes?", "The Room That Answers Chinese") were DISCOUNTED by the owner on 2026-10-20 (REJECTED_IDEAS.md). Do not make them; any teaser needs a fresh owner pick.
+
+### Next (in order)
+1. Receive the owner's Urdu read-through recording -> transcribe -> final Urdu in lines.py -> EN + PS follow -> rebuild (build_script.py; set WPM=140) -> owner confirms FINAL.
+2. Re-map plan/shots.py to the final ids, `python3 plan/make_shotlist.py`; make the owner's final UR/PS recording PDF (voice_own/).
+3. EN voice on gemini-3.8-flash-tts once The Archive PS no longer needs it; lock timings.
+4. Build chapter sets from look/scene.html; stills per chapter; then Colab render.
+Owner decisions open: (a) length: keep all of v2 (~19-20 min at real pace) or cut whole beats (list above); (b) title from the 3 options; (c) optional: end on C8-04 (Turing's line) by swapping C8-04/C8-05 (order only).
