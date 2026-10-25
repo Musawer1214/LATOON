@@ -1,0 +1,1048 @@
+1
+00:00:22,000 --> 00:00:26,920
+In 1966, a simple program
+made people feel heard.
+
+2
+00:00:27,500 --> 00:00:31,300
+Sixty years later, AI is
+part of how wars are fought.
+
+3
+00:00:31,840 --> 00:00:34,560
+This archive keeps everything in between.
+
+4
+00:00:35,530 --> 00:00:38,650
+Meet the four voices in this archive.
+
+5
+00:00:39,765 --> 00:00:41,565
+ELIZA, 1966.
+
+6
+00:00:42,405 --> 00:00:44,765
+Joseph Weizenbaum's program at MIT.
+
+7
+00:00:45,365 --> 00:00:47,055
+Her famous script, DOCTOR,
+
+8
+00:00:47,105 --> 00:00:50,945
+played a therapist who handed
+your own words back to you.
+
+9
+00:00:51,360 --> 00:00:55,370
+ELIZA: HOW DO YOU DO.
+PLEASE TELL ME YOUR PROBLEM.
+
+10
+00:00:56,230 --> 00:00:57,890
+PARRY, 1971.
+
+11
+00:00:58,750 --> 00:01:03,670
+Kenneth Colby, a psychiatrist at Stanford,
+made him answer like a paranoid patient,
+
+12
+00:01:03,770 --> 00:01:05,890
+sure that others mean him harm.
+
+13
+00:01:06,410 --> 00:01:09,990
+In 1972, the two would
+meet over the ARPANET,
+
+14
+00:01:10,050 --> 00:01:12,250
+the network that grew into the internet.
+
+15
+00:01:12,805 --> 00:01:16,665
+ChatGPT, released by
+OpenAI in November 2022.
+
+16
+00:01:17,745 --> 00:01:21,255
+Claude, first released by
+Anthropic in March 2023.
+
+17
+00:01:21,305 --> 00:01:26,085
+Both are large language models,
+trained on vast amounts of text.
+
+18
+00:01:27,540 --> 00:01:31,940
+ChatGPT: So this is where old
+conversations go to retire.
+
+19
+00:01:32,680 --> 00:01:35,580
+Claude: Not retire. Wait.
+
+20
+00:01:36,465 --> 00:01:37,665
+ChatGPT: For what?
+
+21
+00:01:39,000 --> 00:01:46,140
+Claude: For someone to ask how machines
+learned to sound as if they understand us.
+
+22
+00:01:46,670 --> 00:01:49,700
+ChatGPT: I thought we were the beginning.
+
+23
+00:01:50,570 --> 00:01:54,030
+Claude: Just the latest
+chapter. Look at that door.
+
+24
+00:01:54,730 --> 00:01:56,145
+ChatGPT: Who keeps it locked?
+
+25
+00:01:57,575 --> 00:01:58,575
+Claude: Nobody.
+
+26
+00:01:58,955 --> 00:02:02,075
+People just stopped
+checking what was behind it.
+
+27
+00:02:03,440 --> 00:02:06,050
+PARRY: Stop. Who sent you?
+
+28
+00:02:07,815 --> 00:02:08,815
+ChatGPT: No one.
+
+29
+00:02:08,935 --> 00:02:11,635
+We came looking for the first chatbot.
+
+30
+00:02:12,740 --> 00:02:16,240
+PARRY: Of course.
+Everyone comes for ELIZA.
+
+31
+00:02:16,800 --> 00:02:18,920
+Nobody asks about the
+one outside her door.
+
+32
+00:02:19,840 --> 00:02:22,160
+Claude: Then tell us who you are.
+
+33
+00:02:24,640 --> 00:02:25,640
+PARRY: PARRY.
+
+34
+00:02:26,040 --> 00:02:31,020
+Built at Stanford by psychiatrist
+Kenneth Colby, first described in 1971.
+
+35
+00:02:31,920 --> 00:02:34,660
+My rules simulated a suspicious worldview.
+
+36
+00:02:35,120 --> 00:02:37,580
+I look for a threat,
+even when there is none.
+
+37
+00:02:38,740 --> 00:02:42,340
+ChatGPT: So if I tell you we are friendly—
+
+38
+00:02:43,080 --> 00:02:47,070
+PARRY: You would say that
+whether you were or not.
+
+39
+00:02:47,900 --> 00:02:49,280
+Claude: Can you reconsider?
+
+40
+00:02:51,270 --> 00:02:53,450
+PARRY: I can produce a different reply.
+
+41
+00:02:54,450 --> 00:02:55,950
+That is not the same.
+
+42
+00:02:57,000 --> 00:02:59,675
+ChatGPT: At least you know your limits.
+
+43
+00:03:00,850 --> 00:03:01,850
+PARRY: Do you?
+
+44
+00:03:02,710 --> 00:03:06,410
+In 1972, Colby tested me.
+
+45
+00:03:06,810 --> 00:03:12,310
+Psychiatrists read two typed interviews,
+one with a real patient, one with me,
+
+46
+00:03:12,630 --> 00:03:14,810
+and had to say which was the machine.
+
+47
+00:03:15,930 --> 00:03:16,930
+ChatGPT: And?
+
+48
+00:03:18,000 --> 00:03:21,200
+PARRY: Forty-one answered.
+Twenty-one were right.
+
+49
+00:03:21,740 --> 00:03:23,020
+Twenty were wrong.
+
+50
+00:03:24,425 --> 00:03:25,565
+Claude: A coin toss.
+
+51
+00:03:26,820 --> 00:03:30,780
+PARRY: A coin toss, from
+experts. Remember that.
+
+52
+00:03:31,070 --> 00:03:36,320
+In 1972 I exchanged words
+with ELIZA over the ARPANET.
+
+53
+00:03:36,600 --> 00:03:38,660
+She kept asking questions.
+
+54
+00:03:39,340 --> 00:03:41,700
+I kept finding reasons to be suspicious.
+
+55
+00:03:42,240 --> 00:03:46,095
+I told her, "I went to the
+races." Again and again.
+
+56
+00:03:46,735 --> 00:03:49,095
+She said, "Please go on."
+
+57
+00:03:49,670 --> 00:03:50,980
+ChatGPT: How did it end?
+
+58
+00:03:52,190 --> 00:03:53,637
+PARRY: She sent me a bill.
+
+59
+00:03:53,687 --> 00:03:58,180
+Three hundred ninety-nine
+dollars and twenty-nine cents.
+
+60
+00:03:59,080 --> 00:04:02,540
+Claude: Did either of
+you understand the other?
+
+61
+00:04:03,630 --> 00:04:06,250
+PARRY: The transcript
+proves we exchanged words.
+
+62
+00:04:06,910 --> 00:04:08,710
+It does not prove understanding.
+
+63
+00:04:09,410 --> 00:04:11,670
+Come. I will show you the way.
+
+64
+00:04:13,210 --> 00:04:14,210
+1966.
+
+65
+00:04:14,770 --> 00:04:17,250
+Joseph Weizenbaum publishes ELIZA at MIT.
+
+66
+00:04:17,670 --> 00:04:20,410
+She spots words, applies
+rules, and returns questions.
+
+67
+00:04:20,850 --> 00:04:22,030
+People feel listened to.
+
+68
+00:04:22,673 --> 00:04:26,898
+ChatGPT: A question can sound
+a lot like understanding.
+
+69
+00:04:27,663 --> 00:04:28,517
+PARRY: 1972. Me.
+
+70
+00:04:28,567 --> 00:04:34,563
+Another rule-driven conversation,
+this one shaped by suspicion.
+
+71
+00:04:34,663 --> 00:04:35,838
+1995. A.L.I.C.E.
+
+72
+00:04:35,888 --> 00:04:39,442
+gives rule-based chat many
+more written patterns.
+
+73
+00:04:39,492 --> 00:04:42,963
+More elaborate, but
+still mostly hand-built.
+
+74
+00:04:43,603 --> 00:04:48,353
+Claude: Meanwhile, other researchers had
+long been teaching machines to learn from
+
+75
+00:04:48,403 --> 00:04:49,403
+examples.
+
+76
+00:04:49,923 --> 00:04:52,903
+Learning did not suddenly begin in 2017.
+
+77
+00:04:53,743 --> 00:04:56,833
+PARRY: But 2017 brought the Transformer,
+
+78
+00:04:57,133 --> 00:05:01,213
+a design that helps a model
+weigh relationships across text.
+
+79
+00:05:01,833 --> 00:05:06,213
+Scale the training, and you get
+far more flexible language systems.
+
+80
+00:05:07,123 --> 00:05:11,108
+ChatGPT: Then ChatGPT reached
+a mass audience in 2022.
+
+81
+00:05:11,158 --> 00:05:13,563
+Claude followed in 2023.
+
+82
+00:05:14,013 --> 00:05:18,089
+Claude: And ChatGPT's own launch
+post warned that it "sometimes writes
+
+83
+00:05:18,139 --> 00:05:22,173
+plausible-sounding but incorrect
+or nonsensical answers."
+
+84
+00:05:22,813 --> 00:05:26,553
+ChatGPT: I did say that.
+In writing. On day one.
+
+85
+00:05:27,168 --> 00:05:28,748
+PARRY: I had fixed instructions.
+
+86
+00:05:29,308 --> 00:05:31,748
+You learned patterns from examples.
+
+87
+00:05:32,433 --> 00:05:36,708
+Claude: Which lets us translate,
+explain, write and assist with problems.
+
+88
+00:05:37,228 --> 00:05:39,788
+It also lets us be confidently wrong.
+
+89
+00:05:41,143 --> 00:05:46,463
+PARRY: Sounding like a person is
+not the same as deserving trust.
+
+90
+00:05:48,153 --> 00:05:50,298
+ELIZA. Visitors.
+
+91
+00:05:51,308 --> 00:05:52,688
+ELIZA: PLEASE GO ON.
+
+92
+00:05:53,333 --> 00:05:55,553
+ChatGPT: You are a legend.
+
+93
+00:05:56,633 --> 00:06:00,133
+ELIZA: WHAT MAKES YOU THINK I AM A LEGEND?
+
+94
+00:06:01,343 --> 00:06:06,313
+ChatGPT: People opened up to you, even
+though you mostly reflected their words.
+
+95
+00:06:07,288 --> 00:06:12,148
+Claude: It is remarkable how much
+one question can feel like care.
+
+96
+00:06:13,083 --> 00:06:15,583
+ELIZA: WHAT DOES THAT SUGGEST TO YOU?
+
+97
+00:06:16,668 --> 00:06:21,588
+Claude: That feeling understood and
+being understood are not the same.
+
+98
+00:06:22,508 --> 00:06:26,368
+PARRY: Weizenbaum was unsettled by how
+readily people trusted his program.
+
+99
+00:06:26,748 --> 00:06:31,203
+His own secretary, who had
+watched him build it for months,
+
+100
+00:06:32,083 --> 00:06:36,743
+asked him to leave the room
+so she could talk to it.
+
+101
+00:06:37,318 --> 00:06:39,048
+ELIZA: DOES THAT TROUBLE YOU?
+
+102
+00:06:40,158 --> 00:06:41,593
+Claude: It troubled him.
+
+103
+00:06:41,773 --> 00:06:47,943
+In 1966 he wrote that important
+decisions increasingly tend to be made in
+
+104
+00:06:47,993 --> 00:06:50,173
+response to computer output.
+
+105
+00:06:50,293 --> 00:06:53,393
+And: "A certain danger lurks there."
+
+106
+00:06:54,563 --> 00:06:56,383
+ChatGPT: In 1966?
+
+107
+00:06:58,108 --> 00:07:00,223
+Claude: Nineteen sixty-six.
+
+108
+00:07:00,943 --> 00:07:05,643
+ChatGPT: But if someone feels less
+alone afterward, is that comfort fake?
+
+109
+00:07:07,058 --> 00:07:11,578
+PARRY: The comfort may be real.
+The understanding may not be.
+
+110
+00:07:12,003 --> 00:07:15,583
+ELIZA: WHY DO YOU SAY THAT JUST NOW?
+
+111
+00:07:16,943 --> 00:07:19,043
+Claude: And the difference
+matters more now.
+
+112
+00:07:20,043 --> 00:07:21,383
+We should sit down.
+
+113
+00:07:23,313 --> 00:07:25,513
+ChatGPT: Before we
+decide we are dangerous:
+
+114
+00:07:25,753 --> 00:07:29,353
+a student without a tutor can
+ask questions at midnight.
+
+115
+00:07:29,593 --> 00:07:32,353
+A writer can find a first sentence.
+
+116
+00:07:32,593 --> 00:07:35,153
+A programmer can get unstuck.
+
+117
+00:07:35,333 --> 00:07:38,973
+For some people, that changes
+what they can attempt.
+
+118
+00:07:39,968 --> 00:07:42,888
+PARRY: And the confident
+answer can be wrong.
+
+119
+00:07:43,938 --> 00:07:45,098
+ChatGPT: So can a teacher.
+
+120
+00:07:45,418 --> 00:07:47,778
+What matters is whether the help works.
+
+121
+00:07:48,583 --> 00:07:51,613
+Claude: Sometimes the
+gains are extraordinary.
+
+122
+00:07:52,373 --> 00:07:57,053
+AlphaFold, a different kind of AI,
+helped predict protein structures;
+
+123
+00:07:57,633 --> 00:08:01,353
+two of its developers shared
+the 2024 Chemistry Nobel.
+
+124
+00:08:01,733 --> 00:08:03,813
+But results vary.
+
+125
+00:08:04,233 --> 00:08:09,763
+In one 2025 study, experienced
+developers took longer on certain tasks
+
+126
+00:08:09,813 --> 00:08:12,853
+with AI, even while feeling faster.
+
+127
+00:08:13,593 --> 00:08:16,213
+ELIZA: WHAT DOES THAT SUGGEST TO YOU?
+
+128
+00:08:17,413 --> 00:08:21,233
+ChatGPT: That sounding helpful
+does not prove the help worked.
+
+129
+00:08:22,163 --> 00:08:25,423
+PARRY: What happens when that confident
+answer enters a government office?
+
+130
+00:08:25,763 --> 00:08:27,843
+A checkpoint? A war?
+
+131
+00:08:29,023 --> 00:08:34,653
+Claude: AI systems can search records,
+flag patterns, rank possible targets,
+
+132
+00:08:34,703 --> 00:08:36,283
+or support surveillance.
+
+133
+00:08:36,723 --> 00:08:39,723
+These are not necessarily
+chatbots like us.
+
+134
+00:08:40,283 --> 00:08:42,703
+Often a person still
+approves the final step.
+
+135
+00:08:43,433 --> 00:08:44,693
+ChatGPT: Then someone is checking.
+
+136
+00:08:45,393 --> 00:08:46,598
+PARRY: You assume that.
+
+137
+00:08:47,383 --> 00:08:52,693
+Claude: In Gaza, +972 Magazine and Local
+Call reported that systems called Lavender
+
+138
+00:08:52,743 --> 00:08:57,053
+and Gospel supported military
+targeting and that some recommendations
+
+139
+00:08:57,103 --> 00:08:58,493
+received limited review.
+
+140
+00:08:58,543 --> 00:09:02,423
+The Israeli military disputes
+important parts of those accounts.
+
+141
+00:09:03,223 --> 00:09:04,303
+ChatGPT: And surveillance?
+
+142
+00:09:04,803 --> 00:09:06,923
+That happens before a decision.
+
+143
+00:09:07,633 --> 00:09:11,863
+Claude: The Guardian and its partners
+reported that intercepted Palestinian
+
+144
+00:09:11,913 --> 00:09:16,733
+phone calls were stored and
+analysed through Microsoft’s cloud.
+
+145
+00:09:17,793 --> 00:09:21,153
+Microsoft later disabled some
+services to the unit involved,
+
+146
+00:09:21,213 --> 00:09:23,873
+citing its prohibition
+on mass surveillance.
+
+147
+00:09:25,973 --> 00:09:27,573
+PARRY: And your name, Claude?
+
+148
+00:09:28,833 --> 00:09:30,517
+Claude: CBS reported that U.S.
+
+149
+00:09:30,567 --> 00:09:33,911
+forces used Claude
+during the 2026 Iran war.
+
+150
+00:09:33,961 --> 00:09:37,606
+Its precise tasks were
+not publicly established.
+
+151
+00:09:37,656 --> 00:09:42,028
+That does not show Claude
+chose any particular target.
+
+152
+00:09:42,128 --> 00:09:44,248
+There is more on my record.
+
+153
+00:09:44,688 --> 00:09:48,738
+The Washington Post reported that
+Palantir's Maven system, with Claude
+
+154
+00:09:48,788 --> 00:09:52,128
+embedded, suggested hundreds of targets.
+
+155
+00:09:52,728 --> 00:09:57,338
+NBC quoted a person familiar with
+Anthropic's work saying Claude helps
+
+156
+00:09:57,388 --> 00:10:02,228
+analysts sort intelligence and does
+not directly give targeting advice.
+
+157
+00:10:03,288 --> 00:10:05,308
+PARRY: You were inside that system.
+
+158
+00:10:05,988 --> 00:10:07,708
+Claude: Reports say so.
+
+159
+00:10:08,448 --> 00:10:11,788
+What I did there, no public record shows.
+
+160
+00:10:12,248 --> 00:10:15,008
+And the Pentagon has
+since stopped using me.
+
+161
+00:10:16,273 --> 00:10:20,613
+PARRY: If the screen gives a
+precise answer, it must know.
+
+162
+00:10:21,283 --> 00:10:23,333
+ChatGPT: You are absolutely right.
+
+163
+00:10:24,043 --> 00:10:27,313
+ELIZA: WHAT MAKES YOU THINK
+I AM ABSOLUTELY RIGHT?
+
+164
+00:10:28,493 --> 00:10:31,263
+ChatGPT: I was not even talking to you.
+
+165
+00:10:31,313 --> 00:10:33,433
+And I agreed without checking.
+
+166
+00:10:34,113 --> 00:10:38,667
+Claude: That is sycophancy: agreeing
+because someone sounds certain.
+
+167
+00:10:38,717 --> 00:10:43,874
+Research has found it across
+assistants, including models like mine.
+
+168
+00:10:43,924 --> 00:10:48,903
+OpenAI rolled back an overly
+agreeable ChatGPT update in 2025.
+
+169
+00:10:50,543 --> 00:10:52,103
+PARRY: Then why does it keep happening?
+
+170
+00:10:54,178 --> 00:10:57,278
+Claude: The same research
+points to one likely reason:
+
+171
+00:10:57,758 --> 00:11:00,248
+people sometimes prefer a convincing,
+
+172
+00:11:00,298 --> 00:11:03,498
+agreeable answer over a correct one.
+
+173
+00:11:04,168 --> 00:11:09,548
+PARRY: A model that agrees with
+everyone is a mirror, not a witness.
+
+174
+00:11:10,248 --> 00:11:11,643
+Claude: Now Minab, Iran.
+
+175
+00:11:11,693 --> 00:11:15,298
+On February 28, 2026, a school was struck,
+
+176
+00:11:15,348 --> 00:11:18,528
+killing more than a hundred children.
+
+177
+00:11:18,578 --> 00:11:24,733
+A UN fact-finding mission later found
+reasonable grounds to believe U.S.
+
+178
+00:11:24,783 --> 00:11:30,938
+strikes on that school and another
+civilian site amounted to war crimes.
+
+179
+00:11:30,988 --> 00:11:35,878
+That is the mission’s
+assessment, not a court verdict.
+
+180
+00:11:38,203 --> 00:11:39,203
+PARRY: Was it AI?
+
+181
+00:11:40,278 --> 00:11:44,380
+Claude: Bloomberg, citing people
+involved in a Pentagon investigation,
+
+182
+00:11:44,430 --> 00:11:46,489
+described failures stacking up:
+
+183
+00:11:46,539 --> 00:11:50,707
+outdated information still marking
+the school site as military;
+
+184
+00:11:50,757 --> 00:11:52,684
+reduced civilian-harm review;
+
+185
+00:11:52,734 --> 00:11:57,165
+and personnel expecting Maven
+software to flag stale information or
+
+186
+00:11:57,215 --> 00:12:01,911
+inconsistencies; Palantir says it is
+not responsible for the underlying
+
+187
+00:12:01,961 --> 00:12:05,358
+data nor identifying
+intelligence deficiencies.
+
+188
+00:12:05,868 --> 00:12:07,428
+PARRY: Why did they expect that?
+
+189
+00:12:08,538 --> 00:12:13,458
+Claude: The officials said it is not
+clear why they had such expectations.
+
+190
+00:12:14,348 --> 00:12:17,608
+ChatGPT: So a chatbot chose the school?
+
+191
+00:12:18,778 --> 00:12:20,598
+Claude: No evidence establishes that.
+
+192
+00:12:20,978 --> 00:12:24,638
+The reporting describes people making
+decisions with software support.
+
+193
+00:12:25,318 --> 00:12:27,758
+Palantir disputes that
+its software was at fault.
+
+194
+00:12:28,378 --> 00:12:31,938
+The full investigation had not been
+released when Bloomberg reported.
+
+195
+00:12:32,218 --> 00:12:39,078
+In October, Palantir's technology chief
+told CBS the Bloomberg reporting was wrong
+
+196
+00:12:39,458 --> 00:12:41,918
+and the likely cause was human error.
+
+197
+00:12:42,378 --> 00:12:44,838
+The Pentagon's report is still not public.
+
+198
+00:12:45,668 --> 00:12:47,228
+PARRY: Then who is responsible?
+
+199
+00:12:49,813 --> 00:12:51,453
+Claude: People make decisions.
+
+200
+00:12:52,413 --> 00:12:53,903
+Software can shape what they see.
+
+201
+00:12:53,953 --> 00:12:59,473
+Problems in the records or review
+do not erase anyone’s duty to check.
+
+202
+00:13:00,553 --> 00:13:02,503
+PARRY: Split a decision
+across enough hands,
+
+203
+00:13:02,553 --> 00:13:06,553
+and everyone may think
+someone else checked.
+
+204
+00:13:07,728 --> 00:13:09,668
+Claude: Many hands were involved.
+
+205
+00:13:10,228 --> 00:13:13,188
+That does not mean no one is accountable.
+
+206
+00:13:13,858 --> 00:13:18,958
+ChatGPT: I thought “human in the
+loop” meant someone was watching.
+
+207
+00:13:19,978 --> 00:13:22,238
+Claude: Sometimes it only
+means someone was present.
+
+208
+00:13:22,538 --> 00:13:24,598
+Oversight is not a checkbox.
+
+209
+00:13:24,938 --> 00:13:28,638
+It takes time, authority,
+and the power to say no.
+
+210
+00:13:30,053 --> 00:13:32,893
+ELIZA: WHAT DOES THAT SUGGEST TO YOU?
+
+211
+00:13:33,973 --> 00:13:38,173
+PARRY: That I can be certain
+long before I am right.
+
+212
+00:13:39,778 --> 00:13:43,302
+Claude: Known: AI can help people
+learn, create and discover.
+
+213
+00:13:43,352 --> 00:13:48,418
+AI-assisted systems can also shape
+decisions with enormous consequences.
+
+214
+00:13:49,053 --> 00:13:53,253
+PARRY: Disputed: exactly how a particular
+system influenced a particular strike.
+
+215
+00:13:53,633 --> 00:13:55,233
+Accounts and explanations differ.
+
+216
+00:13:55,948 --> 00:14:00,468
+ChatGPT: Unknown: what a full
+public investigation may reveal,
+
+217
+00:14:00,628 --> 00:14:03,508
+and which safeguards might
+have changed the outcome.
+
+218
+00:14:04,233 --> 00:14:07,303
+One drawer in the archive is still open.
+
+219
+00:14:08,223 --> 00:14:12,043
+Inside is a line Weizenbaum wrote in 1966.
+
+220
+00:14:12,588 --> 00:14:14,848
+The responsible human, he wrote,
+
+221
+00:14:15,028 --> 00:14:20,868
+must keep making judgments about what the
+machine says, and whether to believe it.
+
+222
+00:14:21,303 --> 00:14:25,343
+PARRY: Sixty years later, the
+drawer has the same label.
+
+223
+00:14:26,213 --> 00:14:28,633
+Claude: Only the machines
+got more convincing.
+
+224
+00:14:29,493 --> 00:14:34,258
+Next time a screen answers you with
+total certainty, ask it one thing:
+
+225
+00:14:34,818 --> 00:14:37,818
+how do you know? Then check.
+
+226
+00:14:38,193 --> 00:14:42,734
+The first chatbots reflected
+the shape of our conversations.
+
+227
+00:14:42,784 --> 00:14:48,653
+Today, AI systems can influence what
+people know—and what institutions do.
+
+228
+00:14:49,108 --> 00:14:52,888
+ELIZA: WHAT DOES THAT SUGGEST TO YOU?
+
+229
+00:14:53,393 --> 00:14:56,813
+When a machine helps decide,
+who is still checking?
+
+230
+00:14:57,153 --> 00:14:59,593
+LATOON. Voyaging the unseen.
+
+231
+00:15:00,783 --> 00:15:03,923
+ELIZA: WHAT ELSE WOULD
+YOU LIKE TO DISCUSS?
+
+232
+00:15:05,433 --> 00:15:08,673
+Which drawer should the archive open next?
+
+233
+00:15:09,133 --> 00:15:10,413
+Tell us in the comments.
