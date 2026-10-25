@@ -1,0 +1,9 @@
+Sources for the main claims in this video (the full list, R01 to R21, is in the description):
+• ELIZA, Weizenbaum 1966 (R01): https://dl.acm.org/doi/10.1145/365153.365168
+• PARRY meets the DOCTOR, RFC 439, 1972 (R02): https://www.rfc-editor.org/rfc/rfc439.html
+• Sycophancy: Sharma et al. 2023 (R11) https://arxiv.org/abs/2310.13548 and OpenAI on GPT-4o (R12) https://openai.com/index/sycophancy-in-gpt-4o/
+• Lavender, +972 Magazine 2024 (R07): https://www.972mag.com/lavender-ai-israeli-army-gaza/
+• Microsoft's review, Sep 2025 (R09): https://blogs.microsoft.com/on-the-issues/2025/09/25/update-on-ongoing-microsoft-review/
+• Claude in the Iran campaign: CBS News (R10) https://www.cbsnews.com/news/anthropic-claude-ai-iran-war-u-s/ and The Washington Post (R21)
+• Minab school strike: UN fact-finding mission (R13) and Bloomberg (R14), links in the description
+The dialogue is fictional; every real-world claim is attributed to its source. Spotted an error? Tell us and we will pin a correction.
