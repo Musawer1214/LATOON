@@ -1,3 +1,23 @@
+**v3 BUILD (2026-10-26 22:50 CST): the film is now code in film/ (see NEXT_STEPS top).** One page load per cut (85 cuts from plan/shots_v3.json via film/make_cuts.py),
+every value a pure function of the global frame; worlds: desk (C0, C7: evening lamp / daylight study, live Canvas2D chat UI, jar of 100 marbles, sealed box, teaser objects,
+wall clock), turing (1950 desk + typed first line of the paper, dictionary "think", cut-away imitation-game rooms, daylight viva), photos (7 credited Commons prints, gentle push,
+credit tags), lovelace (gaslit study: Engine drawings with unbuilt blanks, brass card mechanism, learning marble run, a route nobody drew, counting cabinet vs learning board),
+games (1997 chessboard + fan of ghost futures; 2016 kaya board with the REAL Game 2 record, ghost stones, self-play, Move 37 at P10 with red rim, 1-in-10,000 grains,
+spreading value, 4-1, experts' 3rd-4th line band vs AlphaGo's 5th line, Lovelace print), room (the Chinese Room: corridor, slip under the door, real Chinese
+你喜欢下雨吗？ / 喜欢，雨声让我平静。, rulebook, reply in red ink, outside vs inside, chalk circle Systems Reply, memorised + walls fold, the gap, pages -> lattice),
+othello (real Othello rules: opening F5 D6 C3 D3 C4 F4 F6 F3 E6 E7; tape of codes into a dark-glass box; INSIDE = six layered node grids with fibres and travelling activity,
+the 8x8 map layer lights the real position; flipping one square changes the predicted legal move (computed); small world window; unspooling tape), catalogue (Reversal Curse
+card catalogue, Tom Cruise / Mary Lee Pfeiffer, 79 vs 33 card stacks, level balance), rain (dusk room, GLSL rain on glass, solve/know/feel, rain poem typed, 2023 indicator
+panel + 19 chairs, one lamp flickers, two lit windows, door with light under it), ending (three model doors, balance, card written/erased/rewritten, silent Turing quote card),
+endframe (engine end_card). Labels: short Inter tags with leaders, year tags with a red rule bottom-left, credits bottom-right; watermark added after assembly (engine).
+CPU render measured ~1.0-1.5 s/frame at 1080p on the sandbox (SwiftShader); full film ≈ 25,232 frames ≈ 8-10 h on 2 vCPU, resumable per cut.
+
+**v3 (2026-10-26): CONCEPT.md rewritten per the Golden Rule (own world per section, Section Model retired as a house theme); timed shot list = plan/shots_v3.json / plan/shotlist_v3.md (82 shots on timings_v3.json); test stills look/v3_stills/. Sections below on the Section Model, v2 shotlist and v2 timings are SUPERSEDED; render pipeline (s5) still holds (film 841.1 s ≈ 25,200 frames at 30 fps).**
+
+**MUSIC (owner choice 2026-10-26 05:32 CST, overrides the code-synthesised score for this video):** bed = "Cylinder Five" by Chris Zabriskie (CC BY 4.0, music/cylinder_five.ogg, 173.5 s; credit text in music/LICENSE.md, MUST go in EN/UR/PS descriptions). Mix: music about 20-25 dB below the narration (start there, adjust by ear), sidechain-ducked under speech so it is noticed mainly in pauses; NOT wall-to-wall: drop to brief silence at the Chinese Room thought experiment and the consciousness question, bring it back after. The track is ~2:54 for a ~13-14 min film: loop only at musical phrase boundaries with long crossfades (never an audible restart), vary entry points per section, rest it between sections. Same bed under the UR/PS mixes. Keep frame-synced SFX minimal and soft.
+
+**VISUALS: THE GOLDEN RULE (owner 2026-10-22, re-stated for this video 2026-10-26 04:56 CST; BINDING, read PLAYBOOK s5.0b first):** "Design the theme, the visual, around the content, not content fixed into the theme." For every v3 section/card: (1) write in CONCEPT.md what an ordinary viewer must SEE to understand the idea even without words; (2) only then choose world, palette, staging and style that fit THAT idea (e.g. Turing's test = a real 1950 room/teleprinter feel; Move 37 = the actual Go board; Chinese Room = a believable room with slips under the door; Othello = the board + a probe into the network); (3) build with the existing stack (Skia, Three.js, GLSL/ModernGL, Manim, our 2D engine, Remotion). Reference: shorts/2026-10-21-01-rubin-galaxies/v5 (separate cinematic shots, calm pacing, short labels, idea shown visually, no lecture graphs/tables). No forcing a house theme onto every section; v2 visual notes are reference only and must be re-checked against this rule.
+
 # VISUAL PLAN — "Can Machines Think?" (Big Questions) · v1 2026-10-24
 
 World, palette, symbols and tools: CONCEPT.md ("The Section Model": architect's daylight studio, plaster/card/oak/brass models cut in
