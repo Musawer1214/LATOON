@@ -1,0 +1,992 @@
+{
+ "meta": {
+  "title_working": "Can Machines Think?",
+  "series": "Big Questions",
+  "world": "Ideas + Machines (bridge)",
+  "version": "v2 2026-10-18",
+  "status": "SCRIPT v2 (owner Urdu flow applied), awaiting owner final approval",
+  "narrator": "single narrator (Gemini Iapetus EN later; owner records UR/PS himself)",
+  "closing_line_rule": "'LATOON. Voyaging the Unseen.' is SHOWN on the end card, never spoken (PLAYBOOK s4.3)",
+  "visual_rule": "language-neutral: on-screen text only numbers, years, names, English terms, short labels; quotes as cards; no burned narration captions",
+  "stats": {
+   "spoken_words": 2583,
+   "wpm_assumed": 155.0,
+   "lines": 61,
+   "title_card_s": 3.0,
+   "speech_ends": "17:25",
+   "end_card_s": 18.0,
+   "est_runtime": "17:43",
+   "est_runtime_s": 1064
+  },
+  "chapters": [
+   {
+    "id": "C0",
+    "title": "Cold Open",
+    "start": "0:00"
+   },
+   {
+    "id": "C1",
+    "title": "The Question He Refused (1950)",
+    "start": "1:16"
+   },
+   {
+    "id": "C2",
+    "title": "The Countess's Objection (1843)",
+    "start": "3:33"
+   },
+   {
+    "id": "C3",
+    "title": "Move 37 (1997-2016)",
+    "start": "5:06"
+   },
+   {
+    "id": "C4",
+    "title": "The Room (1980)",
+    "start": "6:34"
+   },
+   {
+    "id": "C5",
+    "title": "A Board Inside the Machine (2022-2023)",
+    "start": "8:53"
+   },
+   {
+    "id": "C6",
+    "title": "The Test Is Passed (2025-2026)",
+    "start": "11:28"
+   },
+   {
+    "id": "C7",
+    "title": "Thinking Is Not Feeling",
+    "start": "14:00"
+   },
+   {
+    "id": "C8",
+    "title": "What Would Change Your Mind?",
+    "start": "16:16"
+   }
+  ]
+ },
+ "lines": [
+  {
+   "id": "C0-01",
+   "chapter": "C0",
+   "chapter_title": "Cold Open",
+   "start_s": 0.0,
+   "est_dur_s": 17.0,
+   "pause_after_s": 0.4,
+   "words": 44,
+   "text": "Imagine your phone buzzes, and two chats open on the screen, side by side. In one of them is a real person, someone you know. In the other is a machine. You have just five minutes to work out which one is the human.",
+   "visual": "HOOK_PRE motion in frame 1: Map Warm paper desk, a phone (2D, semi-real, soft shadow) slides in; screen splits into two chat panes with abstract message bubbles (no readable text), labels 'A' / 'B'; a 5:00 countdown ring draws on. Camera pushes into the split.",
+   "layer": "2D",
+   "claims": []
+  },
+  {
+   "id": "C0-02",
+   "chapter": "C0",
+   "chapter_title": "Cold Open",
+   "start_s": 17.4,
+   "est_dur_s": 17.4,
+   "pause_after_s": 0.5,
+   "words": 45,
+   "text": "In 2025, researchers in the United States played this game for real, with hundreds of people. They asked one AI to talk like a shy young person who uses everyday slang. The result? People picked that AI as the human 73 percent of the time.",
+   "visual": "Camera pulls back from the phone onto a canvas grid of many small phone icons (hundreds of games); one pane glows with a SIGNAL RED persona tag 'PERSONA'; big numeral '73%' counts up (Inter Black). Source tag: Jones & Bergen, PNAS 2026.",
+   "layer": "2D",
+   "claims": [
+    "F1",
+    "F2"
+   ]
+  },
+  {
+   "id": "C0-03",
+   "chapter": "C0",
+   "chapter_title": "Cold Open",
+   "start_s": 35.4,
+   "est_dur_s": 8.1,
+   "pause_after_s": 0.9,
+   "words": 21,
+   "text": "73 percent. That means the machine was chosen as the human more often than the real people it was up against.",
+   "visual": "Two bars draw on side by side: 'AI 73%' vs 'HUMAN 27%' (the human witness's share in those games); 50% chance line as a dashed INK2 rule. Hold.",
+   "layer": "2D",
+   "claims": [
+    "F2"
+   ]
+  },
+  {
+   "id": "C0-04",
+   "chapter": "C0",
+   "chapter_title": "Cold Open",
+   "start_s": 44.4,
+   "est_dur_s": 15.5,
+   "pause_after_s": 0.8,
+   "words": 40,
+   "text": "So does that mean the machine thinks? The man who invented this test probably wouldn't have given you a straight answer. To him, the question, the way it is usually asked, was so meaningless that it wasn't even worth discussing.",
+   "visual": "Match cut: the dashed 50% line becomes a typewriter line on a 1950 journal page (Mind, Vol. LIX) as a paper prop; credited archival portrait of Alan Turing (Commons, licence at build) fades in at left; quote card in Cormorant: 'too meaningless to deserve discussion' + tag 'Turing, Mind, 1950'.",
+   "layer": "photo+2D",
+   "claims": [
+    "T3"
+   ]
+  },
+  {
+   "id": "C0-05",
+   "chapter": "C0",
+   "chapter_title": "Cold Open",
+   "start_s": 60.7,
+   "est_dur_s": 11.6,
+   "pause_after_s": 1.4,
+   "words": 30,
+   "text": "Today, we'll follow the story of that question: how the argument has travelled from 1843 to now, and what it would actually take to know whether a machine really thinks.",
+   "visual": "Fast four-beat strip across one wide canvas, camera gliding left to right: Lovelace portrait (PD) / Kasparov at the board (licensed) / ink cutaway of a sealed room / an 8x8 Othello board whose discs flip on their own. Pull out to wide; TITLE CARD 'CAN MACHINES THINK?' (Playfair caps) with BRASS 'BIG QUESTIONS' badge. Bed hit.",
+   "layer": "photo+2D",
+   "claims": []
+  },
+  {
+   "id": "C1-01",
+   "chapter": "C1",
+   "chapter_title": "The Question He Refused (1950)",
+   "start_s": 76.7,
+   "est_dur_s": 13.9,
+   "pause_after_s": 0.5,
+   "words": 36,
+   "text": "It's 1950. Alan Turing, who was by then programming one of the world's first computers, publishes a paper in a journal called Mind. And in its very first line, he puts the question: can machines think?",
+   "visual": "Chapter tag '1950'. Credited archival photo of the Manchester computer (Ferranti Mark 1 / Manchester Mark 1; Commons or Univ. of Manchester, licence at build) with slow Parallax push; the Mind title page as a paper card slides in; first line types on in Nimbus Mono (quoted, English term text).",
+   "layer": "photo+2D",
+   "claims": [
+    "T1",
+    "T9"
+   ]
+  },
+  {
+   "id": "C1-02",
+   "chapter": "C1",
+   "chapter_title": "The Question He Refused (1950)",
+   "start_s": 91.1,
+   "est_dur_s": 19.0,
+   "pause_after_s": 0.5,
+   "words": 49,
+   "text": "But right after that, he refuses to get tangled up in defining the words. If 'thinking' simply means whatever ordinary people take it to mean, he said, then to find the answer we would have to run something like a public survey. And that, Turing wrote, would be absurd.",
+   "visual": "The words 'MACHINE' and 'THINK' lift off the page; a 1950s-style poll ballot box (2D, BRASS) draws on and fills with tick slips, then a SIGNAL RED line strikes through it ('absurd' beat).",
+   "layer": "2D",
+   "claims": [
+    "T2"
+   ]
+  },
+  {
+   "id": "C1-03",
+   "chapter": "C1",
+   "chapter_title": "The Question He Refused (1950)",
+   "start_s": 110.6,
+   "est_dur_s": 20.1,
+   "pause_after_s": 0.5,
+   "words": 52,
+   "text": "So he replaces the question with a game. One person types questions to two players they cannot see, and has to work out who is who. At first, the two players are a man and a woman. Then Turing asks: what if we put a machine in place of one of them?",
+   "visual": "ONE CANVAS: Manim 3D cutaway of three rooms (ThreeDScene, slow orbit), connected by a teleprinter line; labels 'A', 'B', 'C' (Turing's own letters). Camera zooms into room A; a figure silhouette dissolves into a small machine cabinet (ink, semi-real, no robot).",
+   "layer": "3D",
+   "claims": [
+    "T4"
+   ]
+  },
+  {
+   "id": "C1-04",
+   "chapter": "C1",
+   "chapter_title": "The Question He Refused (1950)",
+   "start_s": 131.2,
+   "est_dur_s": 15.5,
+   "pause_after_s": 0.5,
+   "words": 40,
+   "text": "Turing called it the Imitation Game. Today we call it the Turing Test. He predicted that in about fifty years, after a five-minute conversation, an average person would have no more than a 70 percent chance of spotting the machine.",
+   "visual": "Label swap on the rooms: 'IMITATION GAME' -> 'TURING TEST'. A timeline ruler draws on along the canvas floor: '1950' ... '2000'; two stamps pop softly at 2000: '70%' and '5 MIN'. Camera follows the ruler right.",
+   "layer": "3D+2D",
+   "claims": [
+    "T3"
+   ]
+  },
+  {
+   "id": "C1-05",
+   "chapter": "C1",
+   "chapter_title": "The Question He Refused (1950)",
+   "start_s": 147.2,
+   "est_dur_s": 20.1,
+   "pause_after_s": 0.5,
+   "words": 52,
+   "text": "Listen carefully to this part. Turing did not bet that machines would really start thinking. He said that by the end of the century, people would talk about machines thinking in a normal way, and nobody would really object. So the prediction was not only about machines. It was about us, too.",
+   "visual": "Zoom out from the '2000' stamp: the ruler bends into a speech balloon over a crowd silhouette (warm umber ink); quote card 'without expecting to be contradicted' (Cormorant). A small mirror icon: machine on one side, people on the other.",
+   "layer": "2D",
+   "claims": [
+    "T3"
+   ]
+  },
+  {
+   "id": "C1-06",
+   "chapter": "C1",
+   "chapter_title": "The Question He Refused (1950)",
+   "start_s": 167.8,
+   "est_dur_s": 17.0,
+   "pause_after_s": 0.5,
+   "words": 44,
+   "text": "Turing wrote something else interesting. We already run a test like this on each other: the viva voce, the spoken exam. The teacher asks question after question to find out whether the student has really understood, or has simply memorised it like a parrot.",
+   "visual": "Cut on the canvas to an exam room (2D semi-real, warm light): examiner and student at a desk, label 'VIVA VOCE'; a small ink parrot perches on the student's notes on 'parrot fashion'.",
+   "layer": "2D",
+   "claims": [
+    "T5"
+   ]
+  },
+  {
+   "id": "C1-07",
+   "chapter": "C1",
+   "chapter_title": "The Question He Refused (1950)",
+   "start_s": 185.4,
+   "est_dur_s": 19.4,
+   "pause_after_s": 0.5,
+   "words": 50,
+   "text": "If you've ever sat a viva at an exam centre, you'll know the scene. The examiner twists the question a little, then digs deeper, until it's clear whether you understand it or have only memorised it. We even have our own word for that: ratta. Keep that word in mind.",
+   "visual": "Small map inset of Pakistan (LAND GREEN, accurate outline) with two dots: Peshawar, Lahore. Back to the exam room: the examiner's question marks stack up. On 'ratta' the label 'RATTA' (Latin letters) stamps on the parrot's notebook; it stays pinned at a canvas corner as a callback object.",
+   "layer": "2D",
+   "claims": [
+    "L1"
+   ]
+  },
+  {
+   "id": "C1-08",
+   "chapter": "C1",
+   "chapter_title": "The Question He Refused (1950)",
+   "start_s": 205.2,
+   "est_dur_s": 6.6,
+   "pause_after_s": 1.4,
+   "words": 17,
+   "text": "But before all this, Turing had to answer an objection that had been raised 107 years earlier.",
+   "visual": "The timeline ruler rewinds leftward fast past '1900' and stops at '1843' (re-hook). Pages flutter.",
+   "layer": "2D",
+   "claims": [
+    "T6",
+    "T8"
+   ]
+  },
+  {
+   "id": "C2-01",
+   "chapter": "C2",
+   "chapter_title": "The Countess's Objection (1843)",
+   "start_s": 213.2,
+   "est_dur_s": 12.4,
+   "pause_after_s": 0.5,
+   "words": 32,
+   "text": "The year is 1843. Ada Lovelace publishes detailed notes on Charles Babbage's Analytical Engine. It was a design for a steam-powered computer, which Babbage worked on but was never able to finish.",
+   "visual": "Chapter tag '1843'. Lovelace portrait (Chalon c.1840, public domain) as a credited photo card; Manim 3D: a brass-and-gear column of the Analytical Engine (accurate to the Science Museum trial piece; credited photo of the trial piece beside it, licence at build), slow orbit, the unbuilt part drawn as dashed ink outline.",
+   "layer": "photo+3D",
+   "claims": [
+    "T6",
+    "T7"
+   ]
+  },
+  {
+   "id": "C2-02",
+   "chapter": "C2",
+   "chapter_title": "The Countess's Objection (1843)",
+   "start_s": 226.1,
+   "est_dur_s": 18.2,
+   "pause_after_s": 0.5,
+   "words": 47,
+   "text": "These notes became famous because they explained how such a machine could be programmed. But Ada also made one important point: the Analytical Engine does not claim to create anything new on its own. It can only do what we know how to order it to do.",
+   "visual": "Her Note G table (Bernoulli numbers diagram, public domain scan) slides in as a paper card; camera pushes in; then the quote card in Cormorant with source tag 'Lovelace, Note G, 1843'.",
+   "layer": "photo+2D",
+   "claims": [
+    "T6",
+    "T7"
+   ]
+  },
+  {
+   "id": "C2-03",
+   "chapter": "C2",
+   "chapter_title": "The Countess's Objection (1843)",
+   "start_s": 244.8,
+   "est_dur_s": 12.0,
+   "pause_after_s": 0.5,
+   "words": 31,
+   "text": "This is probably the oldest objection in the whole debate about machines. And even today, it sounds right: in the end, a machine only does what it is told to do.",
+   "visual": "The quote shrinks into a small card pinned on the canvas as 'OBJECTION 1843'; an arrow from 'ORDERS IN' to 'ACTIONS OUT' draws through the engine; a question mark hovers between.",
+   "layer": "2D",
+   "claims": []
+  },
+  {
+   "id": "C2-04",
+   "chapter": "C2",
+   "chapter_title": "The Countess's Objection (1843)",
+   "start_s": 257.3,
+   "est_dur_s": 13.5,
+   "pause_after_s": 0.5,
+   "words": 35,
+   "text": "Turing's first answer was very honest. He wrote that machines surprise him quite often. But he also admitted that this mostly happens because he hadn't worked out in advance exactly what the machine would do.",
+   "visual": "Back to Turing's desk (2D semi-real, warm lamp): a scribbled sum with a hurried assumption circled; the machine cabinet answers with an unexpected number; small chime.",
+   "layer": "2D",
+   "claims": [
+    "T6"
+   ]
+  },
+  {
+   "id": "C2-05",
+   "chapter": "C2",
+   "chapter_title": "The Countess's Objection (1843)",
+   "start_s": 271.3,
+   "est_dur_s": 22.1,
+   "pause_after_s": 0.5,
+   "words": 57,
+   "text": "His real answer was a different kind of machine. Not one filled in advance with a whole adult mind, but one that could learn like a child. Turing gave an example: a new notebook bought from a stationery shop, with a little bit of structure at the start and lots of blank pages. Then you teach it.",
+   "visual": "A fresh school notebook (2D, real paper texture) opens: a few printed lines at the top ('mechanism'), many blank pages; pages begin filling with handwriting as the camera pulls back ('teach it').",
+   "layer": "2D",
+   "claims": [
+    "T10"
+   ]
+  },
+  {
+   "id": "C2-06",
+   "chapter": "C2",
+   "chapter_title": "The Countess's Objection (1843)",
+   "start_s": 293.9,
+   "est_dur_s": 11.2,
+   "pause_after_s": 1.4,
+   "words": 29,
+   "text": "In other words, a machine that doesn't just follow orders, but also learns. For decades, that remained only an idea. Then machines started beating us at our own games.",
+   "visual": "The filled notebook closes and becomes a chessboard (match cut, page edge -> board edge). Re-hook.",
+   "layer": "2D",
+   "claims": [
+    "T10"
+   ]
+  },
+  {
+   "id": "C3-01",
+   "chapter": "C3",
+   "chapter_title": "Move 37 (1997-2016)",
+   "start_s": 306.5,
+   "est_dur_s": 19.4,
+   "pause_after_s": 0.5,
+   "words": 50,
+   "text": "In 1997, IBM's chess computer, Deep Blue, beat world champion Garry Kasparov in a six-game match. Its strength was speed: it checked 200 million positions every second, using rules for judging those positions that its team had set in advance. Ada Lovelace probably wouldn't have been surprised by that result.",
+   "visual": "Chapter tag '1997'. Credited photo of a Deep Blue cabinet (Computer History Museum photo on Commons, licence at build) and Kasparov at the board (licensed); Manim 3D: a chess position whose search tree fans out explosively in BRASS lines; counter '200,000,000 / s'; the tree collapses into a hand-built book 'EVALUATION'; the 'OBJECTION 1843' card glints in its corner. Source tag: IBM.",
+   "layer": "photo+3D",
+   "claims": [
+    "G1"
+   ]
+  },
+  {
+   "id": "C3-02",
+   "chapter": "C3",
+   "chapter_title": "Move 37 (1997-2016)",
+   "start_s": 326.4,
+   "est_dur_s": 15.9,
+   "pause_after_s": 0.5,
+   "words": 41,
+   "text": "In March 2016, DeepMind's AlphaGo faced Lee Sedol, one of the greatest Go players of his time. Nobody handed AlphaGo a ready-made strategy. It first learned from thousands of games played by experts, and then kept learning by playing against itself.",
+   "visual": "Chapter beat '2016'. Credited photo of Lee Sedol (Commons, licence at build); Manim 3D 19x19 Go board, slow orbit; two ghost boards play each other (self-play) in faint loops.",
+   "layer": "photo+3D",
+   "claims": [
+    "G2"
+   ]
+  },
+  {
+   "id": "C3-03",
+   "chapter": "C3",
+   "chapter_title": "Move 37 (1997-2016)",
+   "start_s": 342.7,
+   "est_dur_s": 17.0,
+   "pause_after_s": 0.5,
+   "words": 44,
+   "text": "In the second game, AlphaGo played Move 37: a move that, by DeepMind's estimate, had only a one in ten thousand chance of being played. That move helped it win the game. And in the end, AlphaGo won the match four games to one.",
+   "visual": "Camera dives to one intersection; a single black stone lands with a soft click; label 'MOVE 37' and '1 in 10,000'. Scoreboard '4-1'. Source tag: DeepMind.",
+   "layer": "3D",
+   "claims": [
+    "G2"
+   ]
+  },
+  {
+   "id": "C3-04",
+   "chapter": "C3",
+   "chapter_title": "Move 37 (1997-2016)",
+   "start_s": 360.3,
+   "est_dur_s": 10.5,
+   "pause_after_s": 1.0,
+   "words": 27,
+   "text": "Lee Sedol said afterwards: I thought AlphaGo was just a machine. But when I saw that move, I changed my mind. I felt AlphaGo was truly creative.",
+   "visual": "Quiet hold: Lee Sedol photo card, his quote in Cormorant (via DeepMind). No motion except a slow push.",
+   "layer": "photo",
+   "claims": [
+    "G2"
+   ]
+  },
+  {
+   "id": "C3-05",
+   "chapter": "C3",
+   "chapter_title": "Move 37 (1997-2016)",
+   "start_s": 371.7,
+   "est_dur_s": 21.7,
+   "pause_after_s": 1.4,
+   "words": 56,
+   "text": "So now we had a machine that made a move nobody had specifically told it to make, and surprised a great master. Lovelace's objection began to look weaker. But there was another, tougher objection waiting: surprising someone is not the same as understanding. In 1980, a philosopher used the example of a room to explain this.",
+   "visual": "The 'OBJECTION 1843' card cracks along an ink line; the crack becomes the outline of a door (match cut) -> a sealed room drawn in ink. Re-hook.",
+   "layer": "2D",
+   "claims": [
+    "S1"
+   ]
+  },
+  {
+   "id": "C4-01",
+   "chapter": "C4",
+   "chapter_title": "The Room (1980)",
+   "start_s": 394.8,
+   "est_dur_s": 11.2,
+   "pause_after_s": 0.5,
+   "words": 29,
+   "text": "The philosopher John Searle says: imagine I'm locked inside a room. I don't know a single word of Chinese. To me, anything written in Chinese is just meaningless squiggles.",
+   "visual": "Chapter tag '1980'. Credited photo of John Searle (Commons, licence at build). Manim 3D cutaway of the room (ThreeDScene, warm lamp, paper texture), a figure at a desk; Chinese characters float as INK shapes with no meaning attached.",
+   "layer": "photo+3D",
+   "claims": [
+    "S1"
+   ]
+  },
+  {
+   "id": "C4-02",
+   "chapter": "C4",
+   "chapter_title": "The Room (1980)",
+   "start_s": 406.5,
+   "est_dur_s": 18.6,
+   "pause_after_s": 0.5,
+   "words": 48,
+   "text": "Notes written in Chinese are slipped in under the door. I have a rulebook in English. It says: when you see these symbols, send back those symbols. I follow it exactly. And to the Chinese speakers outside, my replies look as if a native Chinese speaker wrote them.",
+   "visual": "Slips slide under the door; a thick 'RULEBOOK' opens; INK arrows map shape -> shape; slips go back out. Camera pulls outside: two readers nod (silhouettes). Equal-sign icon between 'ROOM' and 'NATIVE SPEAKER'.",
+   "layer": "3D+2D",
+   "claims": [
+    "S2"
+   ]
+  },
+  {
+   "id": "C4-03",
+   "chapter": "C4",
+   "chapter_title": "The Room (1980)",
+   "start_s": 425.6,
+   "est_dur_s": 16.6,
+   "pause_after_s": 0.5,
+   "words": 43,
+   "text": "But inside the room, I don't understand any of the Chinese at all. That was Searle's point: just running the right program does not create understanding. In his words, a program has syntax, the rules for the symbols, but no semantics, their meaning.",
+   "visual": "Inside: the figure shrugs; two labels draw on and separate: 'SYNTAX' (shapes, TEAL) and 'SEMANTICS' (meaning, SIGNAL RED), the second one empty. Source tag: Searle, BBS 1980.",
+   "layer": "3D+2D",
+   "claims": [
+    "S2"
+   ]
+  },
+  {
+   "id": "C4-04",
+   "chapter": "C4",
+   "chapter_title": "The Room (1980)",
+   "start_s": 442.7,
+   "est_dur_s": 12.0,
+   "pause_after_s": 0.9,
+   "words": 31,
+   "text": "Remember ratta? The Chinese Room is the perfect example of it. Not a single answer is wrong, yet the one giving the answers has no idea what any of them mean.",
+   "visual": "Callback: the pinned 'RATTA' notebook flies in from its corner and lands on the room's desk; every slip gets a tick mark, the 'SEMANTICS' box stays empty.",
+   "layer": "2D",
+   "claims": [
+    "L1"
+   ]
+  },
+  {
+   "id": "C4-05",
+   "chapter": "C4",
+   "chapter_title": "The Room (1980)",
+   "start_s": 455.6,
+   "est_dur_s": 19.0,
+   "pause_after_s": 0.5,
+   "words": 49,
+   "text": "The most famous reply to this is called the Systems Reply. It says: fine, the man sitting in the room doesn't understand. But he isn't alone. The man, the rulebook and the paper together make one whole system. Their claim was that the understanding lies in that whole system.",
+   "visual": "Camera pulls out to show the whole room as one box labelled 'SYSTEM'; dotted outline around man + book + paper.",
+   "layer": "3D",
+   "claims": [
+    "S3"
+   ]
+  },
+  {
+   "id": "C4-06",
+   "chapter": "C4",
+   "chapter_title": "The Room (1980)",
+   "start_s": 475.1,
+   "est_dur_s": 14.3,
+   "pause_after_s": 0.5,
+   "words": 37,
+   "text": "Searle replied: all right, let's accept that. Now let the man memorise the whole rulebook and do every step in his own head. Now he himself is the whole system. And still, he doesn't understand any Chinese.",
+   "visual": "The room walls fold away; the rulebook pages stream into the figure's head; he stands outdoors on bare paper ground. The 'SEMANTICS' box is still empty.",
+   "layer": "3D",
+   "claims": [
+    "S3"
+   ]
+  },
+  {
+   "id": "C4-07",
+   "chapter": "C4",
+   "chapter_title": "The Room (1980)",
+   "start_s": 489.9,
+   "est_dur_s": 10.8,
+   "pause_after_s": 1.0,
+   "words": 28,
+   "text": "So who, in this room, actually understands Chinese? The man? The book? Or nobody at all? Philosophers have been arguing about exactly this for more than forty years.",
+   "visual": "Three cards side by side: 'MAN' / 'BOOK' / 'NOBODY'; a slow pulse on each in turn (viewer prompt). Year counter '1980 -> 2026'.",
+   "layer": "2D",
+   "claims": [
+    "S1"
+   ]
+  },
+  {
+   "id": "C4-08",
+   "chapter": "C4",
+   "chapter_title": "The Room (1980)",
+   "start_s": 501.8,
+   "est_dur_s": 22.1,
+   "pause_after_s": 0.5,
+   "words": 57,
+   "text": "And here is something people often miss. Searle never said that machines cannot think. He even wrote that we humans are ourselves a kind of machine. His objection was that the brain's biology has a special power that does not come just from running a program, just as a computer simulation of rain doesn't make anyone wet.",
+   "visual": "A semi-real anatomical brain (accurate, warm shading, OXBLOOD/SAGE) appears beside the room; label 'BIOLOGY' on the brain, 'PROGRAM' on the rulebook; quote card 'We are precisely such machines.' On 'simulated rainstorm': a monitor with a rain simulation, the room around it dry.",
+   "layer": "2D",
+   "claims": [
+    "S4",
+    "S5"
+   ]
+  },
+  {
+   "id": "C4-09",
+   "chapter": "C4",
+   "chapter_title": "The Room (1980)",
+   "start_s": 524.3,
+   "est_dur_s": 8.1,
+   "pause_after_s": 1.4,
+   "words": 21,
+   "text": "You could run a simulation of a fire on your computer all day, and the room wouldn't get even slightly warm.",
+   "visual": "Searle's own fire example (Minds, Brains and Programs, 1980: a simulated fire burns nothing): a monitor on a desk shows a roaring 2D fire simulation; a thermometer beside it stays flat; a hand near the screen feels nothing. Crackle SFX inside the monitor only.",
+   "layer": "2D",
+   "claims": [
+    "L2"
+   ]
+  },
+  {
+   "id": "C5-01",
+   "chapter": "C5",
+   "chapter_title": "A Board Inside the Machine (2022-2023)",
+   "start_s": 533.9,
+   "est_dur_s": 16.6,
+   "pause_after_s": 0.5,
+   "words": 43,
+   "text": "Searle's rulebook was something a person could read. But inside today's language models, there is no book that someone sat down and wrote. Instead, they contain billions of learned numbers, tuned so they can guess what the next piece of text will be.",
+   "visual": "Re-hook. The readable rulebook dissolves into a dense wall of tiny numbers (Nimbus Mono, INK2) that scrolls past the camera; counter ticking into the billions (e.g. GPT-3: '175,000,000,000', small source tag); a single 'NEXT TOKEN ->' arrow at the end.",
+   "layer": "2D",
+   "claims": [
+    "M1"
+   ]
+  },
+  {
+   "id": "C5-02",
+   "chapter": "C5",
+   "chapter_title": "A Board Inside the Machine (2022-2023)",
+   "start_s": 551.0,
+   "est_dur_s": 21.7,
+   "pause_after_s": 0.5,
+   "words": 56,
+   "text": "So does something like real understanding form inside them? In 2022, a team of researchers tried to test this in a small, simple world. They trained a GPT-style model on the moves from twenty million games of a board game called Othello. The model never saw a board, and no one ever told it the rules.",
+   "visual": "Chapter tag '2022'. A long ticker tape of move codes ('C4 D3 E6 ...', English/alphanumeric) feeds into a small model block; counters '20,000,000 games'. No board visible yet: deliberately absent.",
+   "layer": "2D",
+   "claims": [
+    "M2"
+   ]
+  },
+  {
+   "id": "C5-03",
+   "chapter": "C5",
+   "chapter_title": "A Board Inside the Machine (2022-2023)",
+   "start_s": 573.2,
+   "est_dur_s": 12.0,
+   "pause_after_s": 0.5,
+   "words": 31,
+   "text": "Even so, it learned to suggest a legal move almost every time. After training on the large dataset, its top choice broke the rules only about once in ten thousand moves.",
+   "visual": "Stream of predicted moves with tiny green ticks; one red cross in a sea of ticks; stamp '0.01%' with source tag 'Li et al., ICLR 2023'.",
+   "layer": "2D",
+   "claims": [
+    "M2"
+   ]
+  },
+  {
+   "id": "C5-04",
+   "chapter": "C5",
+   "chapter_title": "A Board Inside the Machine (2022-2023)",
+   "start_s": 585.7,
+   "est_dur_s": 15.9,
+   "pause_after_s": 0.5,
+   "words": 41,
+   "text": "Then the researchers looked inside the model. Using small probes, they could read the state of the board from its internal activity, square by square. In other words, the model held a map of a board it had never been shown.",
+   "visual": "Manim 3D: the model block becomes translucent layers; a probe (thin BRASS needle) reads one layer; above it an 8x8 Othello board assembles square by square from the activity (the board finally appears). Slow orbit.",
+   "layer": "3D",
+   "claims": [
+    "M2"
+   ]
+  },
+  {
+   "id": "C5-05",
+   "chapter": "C5",
+   "chapter_title": "A Board Inside the Machine (2022-2023)",
+   "start_s": 602.1,
+   "est_dur_s": 16.6,
+   "pause_after_s": 0.9,
+   "words": 43,
+   "text": "Then they took one more step. In that inner map, they flipped a single disc. And the model's next moves changed to match the edited board. So the map wasn't just sitting there. The model was actually using it to make its decisions.",
+   "visual": "One disc on the inner board flips (soft chime); the 'legal moves' highlights on the board rearrange to match; label 'INTERVENTION'. Hold the wide payoff shot.",
+   "layer": "3D",
+   "claims": [
+    "M2"
+   ]
+  },
+  {
+   "id": "C5-06",
+   "chapter": "C5",
+   "chapter_title": "A Board Inside the Machine (2022-2023)",
+   "start_s": 619.6,
+   "est_dur_s": 14.7,
+   "pause_after_s": 0.5,
+   "words": 38,
+   "text": "That is solid evidence that a model can build a map of a world inside itself. But it was a small world, just a board game. And large language models can still make mistakes in many strange ways.",
+   "visual": "Pull out: the Othello board becomes a tiny tile on a huge world map outline (scale contrast, 'TOY WORLD' label).",
+   "layer": "2D",
+   "claims": [
+    "M2"
+   ]
+  },
+  {
+   "id": "C5-07",
+   "chapter": "C5",
+   "chapter_title": "A Board Inside the Machine (2022-2023)",
+   "start_s": 634.8,
+   "est_dur_s": 24.4,
+   "pause_after_s": 0.5,
+   "words": 63,
+   "text": "For example, in 2023, researchers asked GPT-4: who is Tom Cruise's mother? It answered questions like that correctly 79 percent of the time. Then they turned the question around: who is Mary Lee Pfeiffer's son? Now only 33 percent of the answers were correct. The fact was the same; only the direction of the question had changed. This is called the Reversal Curse.",
+   "visual": "Two arrows between two name cards 'TOM CRUISE' <-> 'MARY LEE PFEIFFER' (text cards only, no photos of private persons): forward arrow '79%', reverse arrow '33%' (thinner, SIGNAL RED). Label 'REVERSAL CURSE'. Source tag: Berglund et al. 2023.",
+   "layer": "2D",
+   "claims": [
+    "M4"
+   ]
+  },
+  {
+   "id": "C5-08",
+   "chapter": "C5",
+   "chapter_title": "A Board Inside the Machine (2022-2023)",
+   "start_s": 659.7,
+   "est_dur_s": 27.5,
+   "pause_after_s": 1.4,
+   "words": 71,
+   "text": "So is there a map of the world inside, or just a very good parrot that has learned everything by rote? So far, the answer is that there is some evidence on both sides, depending on what you test. If a machine is playing with the help of a map it built inside itself, does it actually understand the game? Where would you draw the line? Tell us in the comments.",
+   "visual": "Split canvas: left the inner Othello map, right the 'RATTA' parrot; a drawn line hovers between them, moving left and right (viewer prompt); settles in the middle.",
+   "layer": "2D",
+   "claims": [
+    "M2",
+    "M4"
+   ]
+  },
+  {
+   "id": "C6-01",
+   "chapter": "C6",
+   "chapter_title": "The Test Is Passed (2025-2026)",
+   "start_s": 688.6,
+   "est_dur_s": 12.0,
+   "pause_after_s": 0.5,
+   "words": 31,
+   "text": "Now let's come back to that 73 percent. The study was carried out by Cameron Jones and Benjamin Bergen. After peer review, it was published in 2026 in the journal PNAS.",
+   "visual": "Chapter tag '2026'. Return to the opening phone canvas (callback); PNAS paper title card (text only; PNAS figure only if its licence allows, check at build). Source tag.",
+   "layer": "2D",
+   "claims": [
+    "F1"
+   ]
+  },
+  {
+   "id": "C6-02",
+   "chapter": "C6",
+   "chapter_title": "The Test Is Passed (2025-2026)",
+   "start_s": 701.1,
+   "est_dur_s": 16.3,
+   "pause_after_s": 0.5,
+   "words": 42,
+   "text": "It used Turing's own method. Each questioner chatted with a human and a machine at the same time for five minutes, and then said which one was the human. Two separate groups took part: university students, and paid volunteers who joined online.",
+   "visual": "The 1950 three-room 3D model from C1 reappears and morphs into a modern split-screen chat (match cut across 75 years); '5 MIN' timer; two group icons 'STUDENTS' / 'ONLINE'.",
+   "layer": "3D+2D",
+   "claims": [
+    "F1"
+   ]
+  },
+  {
+   "id": "C6-03",
+   "chapter": "C6",
+   "chapter_title": "The Test Is Passed (2025-2026)",
+   "start_s": 717.8,
+   "est_dur_s": 25.2,
+   "pause_after_s": 0.5,
+   "words": 65,
+   "text": "When a model was given a specific persona, a character to speak as, GPT-4.5 was taken for the human 73 percent of the time, and LLaMA 3.1, 56 percent. But without that character, those figures fell to 36 and 38 percent. ELIZA, a simple chatbot from the 1960s, was also included for comparison. It was picked as the human only 23 percent of the time.",
+   "visual": "Bar chart builds bar by bar on one canvas (Inter numerals): GPT-4.5 PERSONA 73 / LLaMa-3.1 PERSONA 56 / GPT-4.5 NO PERSONA 36 / LLaMa-3.1 NO PERSONA 38 / ELIZA 23 (ELIZA bar small and quiet, no character art) ; dashed 50% chance line. Camera zooms to each bar as named, then out.",
+   "layer": "2D",
+   "claims": [
+    "F2",
+    "F3"
+   ]
+  },
+  {
+   "id": "C6-04",
+   "chapter": "C6",
+   "chapter_title": "The Test Is Passed (2025-2026)",
+   "start_s": 743.5,
+   "est_dur_s": 10.8,
+   "pause_after_s": 0.5,
+   "words": 28,
+   "text": "Then the conversations were made longer, fifteen minutes each. The result still held. GPT-5, with the same persona, was taken for the human 59 percent of the time.",
+   "visual": "Timer ring stretches '5 MIN' -> '15 MIN'; a new bar 'GPT-5 PERSONA 59' joins, still above the 50% line.",
+   "layer": "2D",
+   "claims": [
+    "F4"
+   ]
+  },
+  {
+   "id": "C6-05",
+   "chapter": "C6",
+   "chapter_title": "The Test Is Passed (2025-2026)",
+   "start_s": 754.8,
+   "est_dur_s": 15.5,
+   "pause_after_s": 0.5,
+   "words": 40,
+   "text": "So Turing's prediction came true, about twenty-five years late. He had said the questioner would not identify the machine correctly more than 70 percent of the time. Here, against the best model, people did even worse than tossing a coin.",
+   "visual": "The 1950 ruler returns: '2000' stamp slides to '2025'; a '70%' threshold line vs. 'INTERROGATOR ACCURACY 27%' (vs GPT-4.5 persona); a coin flips once.",
+   "layer": "2D",
+   "claims": [
+    "T3",
+    "F2"
+   ]
+  },
+  {
+   "id": "C6-06",
+   "chapter": "C6",
+   "chapter_title": "The Test Is Passed (2025-2026)",
+   "start_s": 770.8,
+   "est_dur_s": 24.0,
+   "pause_after_s": 0.5,
+   "words": 62,
+   "text": "But the really interesting part is how people made their decision. Most of them just made small talk. Only 12 percent tested knowledge or reasoning, the way Turing had imagined. And the most common reason for their choice was the style of writing: a typing mistake, a casual tone, or simply the feeling that a human was writing on the other side.",
+   "visual": "Horizontal bars: 'SMALL TALK 61%' long, 'KNOWLEDGE & REASONING 12%' short; then reason chips float up: 'TYPO', 'TONE', 'STYLE' (English labels). Source tag: PNAS 2026, Fig. 4-5.",
+   "layer": "2D",
+   "claims": [
+    "F5"
+   ]
+  },
+  {
+   "id": "C6-07",
+   "chapter": "C6",
+   "chapter_title": "The Test Is Passed (2025-2026)",
+   "start_s": 795.3,
+   "est_dur_s": 20.1,
+   "pause_after_s": 1.0,
+   "words": 52,
+   "text": "This brings to mind a line from the poet Ghalib: people say that Ghalib's way of expressing things is something else. Ghalib was talking about his poetry. But here, people did much the same thing. Instead of looking at what was inside the answers, they judged by the way things were said.",
+   "visual": "THE THOUGHT: quiet card on PAPER2, Ghalib portrait (public domain, credited); the original Urdu line in Noto Nastaliq Urdu, large: «کہتے ہیں کہ غالبؔ کا ہے اندازِ بیاں اور» with the English meaning beneath in Cormorant; tag 'Mirza Ghalib (1797-1869), via Rekhta'. Slow push, bed only.",
+   "layer": "photo+2D",
+   "claims": [
+    "Q1"
+   ]
+  },
+  {
+   "id": "C6-08",
+   "chapter": "C6",
+   "chapter_title": "The Test Is Passed (2025-2026)",
+   "start_s": 816.5,
+   "est_dur_s": 22.5,
+   "pause_after_s": 1.4,
+   "words": 58,
+   "text": "That's why the study's authors drew their conclusion very carefully. According to them, this test may now measure how human a machine seems more than how intelligent it is. It shows that a machine can take a person's place in a short chat. It doesn't tell us what is happening inside, or whether anything is happening at all.",
+   "visual": "The chat window shrinks into a closed box with a keyhole; label 'HUMANLIKE?' on the box, 'INSIDE?' at the keyhole. Re-hook into the next chapter.",
+   "layer": "2D",
+   "claims": [
+    "F6"
+   ]
+  },
+  {
+   "id": "C7-01",
+   "chapter": "C7",
+   "chapter_title": "Thinking Is Not Feeling",
+   "start_s": 840.3,
+   "est_dur_s": 14.7,
+   "pause_after_s": 0.5,
+   "words": 38,
+   "text": "And this brings us to the hardest question of all. Thinking is one thing. But feeling something, having the inner experience of being someone, is a completely different thing. Turing knew that this objection would come up too.",
+   "visual": "Camera goes through the keyhole into a dim NIGHT-umber space (the one deep-dark chapter); two labels: 'THINKING' (BRASS) and 'EXPERIENCE' (LAMP glow, no neon).",
+   "layer": "2D",
+   "claims": [
+    "T11"
+   ]
+  },
+  {
+   "id": "C7-02",
+   "chapter": "C7",
+   "chapter_title": "Thinking Is Not Feeling",
+   "start_s": 855.5,
+   "est_dur_s": 30.6,
+   "pause_after_s": 1.0,
+   "words": 79,
+   "text": "In 1949, Professor Jefferson argued that no machine could equal a brain until it could write a sonnet, a special kind of poem, out of thoughts and emotions it had really felt. Turing replied: if we set that condition, then the only way to be completely sure that anyone thinks would be to become that person ourselves. And that problem would apply to other humans too. So in everyday life, we simply assume that other people think as well.",
+   "visual": "A sonnet page (Shakespeare's 'Shall I compare thee', quoted in Turing's viva example) as a paper card; two silhouettes face each other, each with a closed thought bubble; quote card 'the polite convention that everyone thinks'.",
+   "layer": "2D",
+   "claims": [
+    "T11"
+   ]
+  },
+  {
+   "id": "C7-03",
+   "chapter": "C7",
+   "chapter_title": "Thinking Is Not Feeling",
+   "start_s": 887.1,
+   "est_dur_s": 9.3,
+   "pause_after_s": 0.5,
+   "words": 24,
+   "text": "In 2023, nineteen researchers tried to go one step further than that. Among them was Yoshua Bengio, one of the biggest names in AI.",
+   "visual": "Chapter beat '2023'. A grid of 19 small author name cards (text only) fills in; 'Bengio' highlighted; report title card 'Consciousness in Artificial Intelligence' (arXiv 2308.08708).",
+   "layer": "2D",
+   "claims": [
+    "B1"
+   ]
+  },
+  {
+   "id": "C7-04",
+   "chapter": "C7",
+   "chapter_title": "Thinking Is Not Feeling",
+   "start_s": 896.9,
+   "est_dur_s": 13.9,
+   "pause_after_s": 0.5,
+   "words": 36,
+   "text": "They took the leading scientific theories of consciousness, such as Global Workspace Theory, and from them drew a set of clear signs that could be checked in a real AI system. These were called indicator properties.",
+   "visual": "Theory cards ('GLOBAL WORKSPACE', 'RECURRENT PROCESSING', 'HIGHER-ORDER', 'PREDICTIVE PROCESSING', 'ATTENTION SCHEMA') each drop a checkbox onto a clipboard titled 'INDICATORS'.",
+   "layer": "2D",
+   "claims": [
+    "B1"
+   ]
+  },
+  {
+   "id": "C7-05",
+   "chapter": "C7",
+   "chapter_title": "Thinking Is Not Feeling",
+   "start_s": 911.3,
+   "est_dur_s": 20.9,
+   "pause_after_s": 0.5,
+   "words": 54,
+   "text": "According to their 2023 analysis, no AI system at that time qualified as conscious by these standards. But they also saw no clear technical barrier to building a system that meets these signs. Their warning, though, was this: even if all the signs are met, that still would not prove that consciousness is there.",
+   "visual": "Clipboard checks against a few AI system icons (generic blocks, no logos): boxes mostly empty, stamp 'NO CURRENT SYSTEM (2023)'; then a second stamp 'NO OBVIOUS BARRIER'; then a small INK2 footnote card 'not proof'.",
+   "layer": "2D",
+   "claims": [
+    "B2"
+   ]
+  },
+  {
+   "id": "C7-06",
+   "chapter": "C7",
+   "chapter_title": "Thinking Is Not Feeling",
+   "start_s": 932.7,
+   "est_dur_s": 21.3,
+   "pause_after_s": 0.5,
+   "words": 55,
+   "text": "And behind this method there is also a big question. Can consciousness come only from the right kind of computation, no matter what the machine is made of? Many experts believe so, but not everyone agrees. Some supporters of Integrated Information Theory say an ordinary digital computer may never be conscious, whatever program it runs.",
+   "visual": "Two-pan balance scale (2D, BRASS): left pan 'COMPUTATION' (a circuit pattern drawn in ink, no glow), right pan 'SUBSTRATE' (brain tissue texture); right pan labelled 'IIT'. The scale tips back and forth.",
+   "layer": "2D",
+   "claims": [
+    "B3"
+   ]
+  },
+  {
+   "id": "C7-07",
+   "chapter": "C7",
+   "chapter_title": "Thinking Is Not Feeling",
+   "start_s": 954.5,
+   "est_dur_s": 20.5,
+   "pause_after_s": 1.4,
+   "words": 53,
+   "text": "If you think about it, the debate has come right back to where it started. Is the real thing the pattern running inside, or the material it runs on? In a way, it's Turing and Searle face to face once again. Only now, the argument isn't about imaginary machines. It's about real ones.",
+   "visual": "The balance scale's pans fade into the Turing photo card (left) and the Searle photo card (right) from earlier chapters; wide hold.",
+   "layer": "photo+2D",
+   "claims": [
+    "B3",
+    "S4"
+   ]
+  },
+  {
+   "id": "C8-01",
+   "chapter": "C8",
+   "chapter_title": "What Would Change Your Mind?",
+   "start_s": 976.4,
+   "est_dur_s": 6.6,
+   "pause_after_s": 0.5,
+   "words": 17,
+   "text": "So, can machines think? Today, instead of claiming full certainty, this is what we can honestly say.",
+   "visual": "Back on Map Warm paper; the whole story canvas visible in one wide shot (rooms, engine, Go board, Chinese room, Othello board, bar chart) as the camera settles.",
+   "layer": "2D",
+   "claims": []
+  },
+  {
+   "id": "C8-02",
+   "chapter": "C8",
+   "chapter_title": "What Would Change Your Mind?",
+   "start_s": 983.5,
+   "est_dur_s": 19.0,
+   "pause_after_s": 0.5,
+   "words": 49,
+   "text": "Some machines have already passed Turing's test. Some models even build working maps of their own small worlds inside them. But in new situations, they still make surprising mistakes. And is anyone inside actually feeling anything? A careful study in 2023 found no system at that time that qualified.",
+   "visual": "Camera visits four zones of the wide canvas in turn, each getting a stamp: bar chart 'PASSES', Othello map 'INNER MAP', reversal arrows 'FAILS', keyhole box 'OPEN'.",
+   "layer": "2D",
+   "claims": [
+    "F1",
+    "M2",
+    "M4",
+    "B2"
+   ]
+  },
+  {
+   "id": "C8-03",
+   "chapter": "C8",
+   "chapter_title": "What Would Change Your Mind?",
+   "start_s": 1003.0,
+   "est_dur_s": 20.1,
+   "pause_after_s": 0.5,
+   "words": 52,
+   "text": "Maybe the question Turing called meaningless was really three separate questions. Can a machine behave like us? Can it build a map of the world and use it? And is there anyone inside it who actually feels? We now have experiments to test the first two. The third is still wide open.",
+   "visual": "Three cards draw on: 'BEHAVES LIKE US?' (tick, experiment icon), 'MODELS THE WORLD?' (tick, probe icon), 'ANYONE HOME?' (open question mark, LAMP warm).",
+   "layer": "2D",
+   "claims": [
+    "T3",
+    "F1",
+    "M2",
+    "B2"
+   ]
+  },
+  {
+   "id": "C8-04",
+   "chapter": "C8",
+   "chapter_title": "What Would Change Your Mind?",
+   "start_s": 1023.6,
+   "est_dur_s": 12.4,
+   "pause_after_s": 1.0,
+   "words": 32,
+   "text": "Turing ended his paper with a line that still feels true today: we can only see a short distance ahead, but even in that short distance, there is plenty left to do.",
+   "visual": "The Mind paper's last page as a paper card; the line types on in Cormorant; camera drifts slowly forward into blank paper (the open road).",
+   "layer": "photo+2D",
+   "claims": [
+    "T12"
+   ]
+  },
+  {
+   "id": "C8-05",
+   "chapter": "C8",
+   "chapter_title": "What Would Change Your Mind?",
+   "start_s": 1037.0,
+   "est_dur_s": 7.0,
+   "pause_after_s": 2.0,
+   "words": 18,
+   "text": "And now, a question for you: what would a machine actually have to do to change your mind?",
+   "visual": "The two chat panes from the cold open return, empty, cursor blinking (bookend). Then END CARD (shown, never spoken): Neuron star, L A T O O N, 'Voyaging the Unseen'; lower two-thirds clear for Studio end-screen elements (next: Big Questions / Enigma), ~15-20 s bed.",
+   "layer": "2D",
+   "claims": []
+  }
+ ]
+}
