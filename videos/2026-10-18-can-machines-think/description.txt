@@ -1,0 +1,45 @@
+Can machines think? Alan Turing asked it in 1950, and 75 years later a chatbot was picked as the human in his own test. This film follows the question from Ada Lovelace and Turing, through Deep Blue, AlphaGo's Move 37, Searle's Chinese Room and a model that drew its own map of a game board, to the 2025 study and what is still unknown about machine minds. Would you have spotted the machine in five minutes?
+
+Chapters:
+0:00 The five-minute test
+1:07 How do you test thinking?
+2:22 Can a machine create something new?
+3:37 A move nobody expected
+5:23 The Chinese Room
+7:00 A map inside the machine
+8:40 When the answer comes, but the connection doesn't
+9:56 What does 73 percent really tell us?
+11:27 Thinking and feeling
+12:49 What evidence do we need?
+
+Sources:
+Turing, "Computing Machinery and Intelligence", Mind, 1950: https://doi.org/10.1093/mind/LIX.236.433
+Lovelace, Note G, 1843 (transcription): https://www.fourmilab.ch/babbage/sketch.html
+IBM, Deep Blue: https://www.ibm.com/history/deep-blue
+Google DeepMind, AlphaGo: https://deepmind.google/research/breakthroughs/alphago/
+Silver et al., Nature, 2016: https://www.nature.com/articles/nature16961
+Searle, "Minds, Brains, and Programs", 1980: https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf
+Li et al., "Emergent World Representations" (Othello-GPT), 2022: https://arxiv.org/abs/2210.13382
+Berglund et al., "The Reversal Curse", 2023: https://arxiv.org/abs/2309.12288
+Jones and Bergen, "Large language models pass a standard three-party Turing test", PNAS, 2026: https://www.pnas.org/doi/10.1073/pnas.2524472123
+Butlin, Long et al., "Consciousness in Artificial Intelligence", 2023: https://arxiv.org/abs/2308.08708
+
+Image credits (Wikimedia Commons):
+Alan Turing aged 16, public domain: https://commons.wikimedia.org/wiki/File:Alan_Turing_Aged_16.jpg
+SSEM, Parrot of Doom, CC BY-SA 3.0: https://commons.wikimedia.org/wiki/File:SSEM_Manchester_museum.jpg
+Ada Lovelace, A. E. Chalon, public domain: https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg
+Analytical Engine, Science Museum London, CC BY-SA 2.0: https://commons.wikimedia.org/wiki/File:Babbages_Analytical_Engine,_1834-1871._(9660574685).jpg
+Deep Blue, James the photographer, CC BY 2.0: https://commons.wikimedia.org/wiki/File:Deep_Blue.jpg
+Lee Sedol, LG Electronics, CC BY 2.0: https://commons.wikimedia.org/wiki/File:Lee_Se-Dol_-_2016_(cropped).jpg
+John Searle, Matthew Breindel, CC BY-SA 3.0: https://commons.wikimedia.org/wiki/File:John_searle2.jpg
+
+Music: "Cylinder Five" by Chris Zabriskie, from the album Cylinders. Licensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/ Source: https://chriszabriskie.com/cylinders/
+
+All animation was made by LATOON. LATOON is not affiliated with OpenAI, Google DeepMind, IBM or any organisation named.
+
+Roman Urdu: Kya machine soch sakti hai? Turing se ChatGPT tak
+Roman Pashto: Aya mashin fikr kawalay shi? Da Turing na tar ChatGPT pore
+
+LATOON: Voyaging the Unseen. Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+
+#CanMachinesThink #TuringTest #AlanTuring #ArtificialIntelligence #ChatGPT #PhilosophyOfMind
