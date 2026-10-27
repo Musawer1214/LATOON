@@ -20,3 +20,10 @@
 - [ ] watermark present, never over labels (engine apply_watermark.py, qa/watermark.log)
 - [ ] engine/qa.py run on the master; contrast spot checks (labels sit on dark panels by design)
 - [ ] Gofile upload + md5 match, link to the owner; publish only after his OK
+
+## v2 (Theme D — Sunlit Workshop) — 2026-10-27 15:58 CST
+- Rendered on Colab T4 (local disk, no Drive; Drive mount failed). 84 cuts + local END; all 85 frame counts match cuts.json (25232 frames = 841.07 s).
+- CMT_EN_FINAL_v2.mp4: 841.06 s (14:01), h264 1920x1080 30fps, tv/bt709, AAC; audio = mix_en_v3 (841.06 s), -14.0 LUFS, peak -2.1 dBFS.
+- blackscan_v2: 0 dark runs, 0 dim runs, mean YAVG 178.4 (v1 ~63). Watermark applied (71 switches). Spot frames incl. 4:26.9, 5:38, 7:52, end card OK.
+- Status: review cut only; not published.
+- v2 review cut: https://gofile.io/d/V3hc2S07 (md5 verified)
