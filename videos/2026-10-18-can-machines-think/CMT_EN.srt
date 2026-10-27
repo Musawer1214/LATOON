@@ -1,0 +1,967 @@
+1
+00:00:01,120 --> 00:00:04,536
+For five minutes, you've been chatting with two people.
+
+2
+00:00:04,556 --> 00:00:07,347
+Both of their replies seem completely normal.
+
+3
+00:00:07,367 --> 00:00:12,283
+Sometimes a bit of small talk, sometimes a joke, sometimes a personal question.
+
+4
+00:00:12,303 --> 00:00:14,157
+But only one of them is human.
+
+5
+00:00:14,177 --> 00:00:15,344
+The other is an AI.
+
+6
+00:00:15,364 --> 00:00:18,280
+Now you have to decide which one is the person.
+
+7
+00:00:18,950 --> 00:00:24,417
+In one experiment, when GPT-4.5 was told to talk like an ordinary young person,
+
+8
+00:00:24,437 --> 00:00:28,028
+people took it for the human 73 percent of the time.
+
+9
+00:00:28,048 --> 00:00:30,181
+And here's the surprising part.
+
+10
+00:00:30,201 --> 00:00:35,390
+When those special instructions were removed, that rate fell to 36 percent.
+
+11
+00:00:36,060 --> 00:00:39,211
+In other words, it wasn't just the machine's answers.
+
+12
+00:00:39,231 --> 00:00:42,083
+Its way of talking was shaping our decision too.
+
+13
+00:00:42,103 --> 00:00:45,075
+But there's a difference here that's easy to miss.
+
+14
+00:00:45,095 --> 00:00:48,964
+Taking a machine for a human, and that machine actually thinking,
+
+15
+00:00:48,984 --> 00:00:50,340
+are not the same thing.
+
+16
+00:00:51,010 --> 00:00:54,496
+So how do we test whether a machine is only imitating well,
+
+17
+00:00:54,516 --> 00:00:56,457
+whether it understands something,
+
+18
+00:00:56,477 --> 00:00:59,904
+or whether anything is really being experienced inside it?
+
+19
+00:00:59,924 --> 00:01:03,054
+Searching for an answer, we'll travel to an old idea,
+
+20
+00:01:03,074 --> 00:01:06,560
+an extraordinary move in the game of Go, and a locked room.
+
+21
+00:01:07,930 --> 00:01:11,131
+In 1950, the mathematician Alan Turing wrote a paper.
+
+22
+00:01:11,151 --> 00:01:14,352
+It begins with a simple question: can machines think?
+
+23
+00:01:14,372 --> 00:01:19,457
+But he quickly realises that first we'd have to agree on what "thinking" even means.
+
+24
+00:01:19,477 --> 00:01:22,800
+And people could argue about that definition for years.
+
+25
+00:01:23,470 --> 00:01:25,445
+So Turing takes a different route.
+
+26
+00:01:25,465 --> 00:01:29,728
+Imagine a person who talks with two others only through written messages.
+
+27
+00:01:29,748 --> 00:01:34,304
+On the other side are a human and a machine, but he isn't told which is which.
+
+28
+00:01:34,324 --> 00:01:38,000
+After the conversation, he has to guess which one is the human.
+
+29
+00:01:38,670 --> 00:01:41,008
+Today we call this idea the Turing test.
+
+30
+00:01:41,028 --> 00:01:43,719
+It isn't a test of looking inside the machine.
+
+31
+00:01:43,739 --> 00:01:47,256
+It judges its behaviour from the outside: in a conversation,
+
+32
+00:01:47,276 --> 00:01:49,260
+can we tell it apart from a human?
+
+33
+00:01:50,080 --> 00:01:51,598
+That had a real advantage.
+
+34
+00:01:51,618 --> 00:01:55,858
+Instead of fighting over a definition of thinking that nobody agrees on,
+
+35
+00:01:55,878 --> 00:01:58,816
+you could ask a question you can actually observe.
+
+36
+00:01:58,836 --> 00:02:02,070
+But that is also exactly where the test's limit begins.
+
+37
+00:02:02,090 --> 00:02:05,560
+Sounding human is not proof of understanding on the inside.
+
+38
+00:02:06,230 --> 00:02:08,455
+Think back to a viva, the spoken exam.
+
+39
+00:02:08,475 --> 00:02:12,354
+If a student gives the right answer, the teacher may be satisfied.
+
+40
+00:02:12,374 --> 00:02:16,785
+But sometimes the very next question reveals that the answer was memorised,
+
+41
+00:02:16,805 --> 00:02:17,671
+not understood.
+
+42
+00:02:17,691 --> 00:02:20,920
+With machines, this same difference is going to matter.
+
+43
+00:02:22,290 --> 00:02:25,492
+The roots of this doubt go back even before Turing.
+
+44
+00:02:25,512 --> 00:02:29,852
+In 1843, Ada Lovelace wrote about Charles Babbage's proposed machine,
+
+45
+00:02:29,872 --> 00:02:31,242
+the Analytical Engine.
+
+46
+00:02:31,262 --> 00:02:35,096
+It was a plan for a kind of computer that was never finished,
+
+47
+00:02:35,116 --> 00:02:37,560
+but its possibilities were astonishing.
+
+48
+00:02:38,230 --> 00:02:43,156
+Ada added an important word of caution: the machine makes no claim to create
+
+49
+00:02:43,176 --> 00:02:44,718
+anything new on its own.
+
+50
+00:02:44,738 --> 00:02:47,907
+It can only do what we know how to tell it to do.
+
+51
+00:02:47,927 --> 00:02:52,137
+You still hear this objection today, that a computer, in the end,
+
+52
+00:02:52,157 --> 00:02:54,480
+only runs the rules a human gave it.
+
+53
+00:02:55,150 --> 00:02:57,242
+Turing took this objection seriously.
+
+54
+00:02:57,262 --> 00:03:01,809
+Part of his answer was that we don't need to write out every possible answer for
+
+55
+00:03:01,829 --> 00:03:03,122
+the machine in advance.
+
+56
+00:03:03,142 --> 00:03:06,832
+Why not build a machine that learns like a child, makes mistakes,
+
+57
+00:03:06,852 --> 00:03:09,230
+and changes its behaviour with experience?
+
+58
+00:03:10,050 --> 00:03:13,952
+Today that idea sounds ordinary, but it changes the whole debate.
+
+59
+00:03:13,972 --> 00:03:17,573
+The question is no longer which answer the programmer wrote.
+
+60
+00:03:17,593 --> 00:03:20,711
+The question becomes what a machine, after learning,
+
+61
+00:03:20,731 --> 00:03:24,030
+can do that even the people who built it didn't expect.
+
+62
+00:03:24,700 --> 00:03:26,078
+And then, during a game,
+
+63
+00:03:26,098 --> 00:03:30,270
+a moment came that made some of the world's best experts stop and stare.
+
+64
+00:03:30,290 --> 00:03:34,579
+But to understand it, we first need to see the difference between two very
+
+65
+00:03:34,599 --> 00:03:36,210
+different kinds of computer.
+
+66
+00:03:37,580 --> 00:03:41,873
+In 1997, IBM's computer Deep Blue defeated the world chess champion,
+
+67
+00:03:41,893 --> 00:03:43,585
+Garry Kasparov, in a match.
+
+68
+00:03:43,605 --> 00:03:48,849
+It checked possible moves at enormous speed and weighed up what each one would gain
+
+69
+00:03:48,869 --> 00:03:49,357
+or lose.
+
+70
+00:03:49,377 --> 00:03:51,830
+It was a huge achievement in computing.
+
+71
+00:03:52,430 --> 00:03:55,537
+In 2016, the contest reached a different game: Go.
+
+72
+00:03:55,557 --> 00:04:00,478
+Lee Sedol, one of South Korea's greatest players, sat down across from AlphaGo,
+
+73
+00:04:00,498 --> 00:04:02,604
+a system built by Google DeepMind.
+
+74
+00:04:02,624 --> 00:04:07,545
+On Go's simple-looking board there are so many possibilities that judging every
+
+75
+00:04:07,565 --> 00:04:11,110
+move just by counting them all is practically impossible.
+
+76
+00:04:11,780 --> 00:04:14,486
+AlphaGo learned from games played by expert humans,
+
+77
+00:04:14,506 --> 00:04:18,333
+and then kept improving by playing huge numbers of games against itself.
+
+78
+00:04:18,353 --> 00:04:21,861
+So it wasn't just reading from a list of moves written in advance.
+
+79
+00:04:21,881 --> 00:04:25,976
+Through experience, it built up a sense of which decision works best in which
+
+80
+00:04:25,996 --> 00:04:26,510
+situation.
+
+81
+00:04:27,180 --> 00:04:30,666
+In the second game, AlphaGo played its thirty-seventh move.
+
+82
+00:04:30,686 --> 00:04:32,745
+Today it's remembered as "Move 37".
+
+83
+00:04:32,765 --> 00:04:37,618
+The move was so unusual that the commentators couldn't immediately tell whether it
+
+84
+00:04:37,638 --> 00:04:40,470
+was a mistake, or part of some far-sighted plan.
+
+85
+00:04:41,140 --> 00:04:44,464
+According to DeepMind, judging by the data from human games,
+
+86
+00:04:44,484 --> 00:04:48,366
+the chance of a human playing that move was about one in ten thousand.
+
+87
+00:04:48,386 --> 00:04:51,766
+But as the game went on, the move's importance began to show.
+
+88
+00:04:51,786 --> 00:04:56,170
+In the end, AlphaGo won that game, and took the whole series four games to one.
+
+89
+00:04:56,840 --> 00:05:00,256
+This moment isn't memorable because a machine beat a human.
+
+90
+00:05:00,276 --> 00:05:04,856
+What matters is that a learning system chose a strategy that was different from
+
+91
+00:05:04,876 --> 00:05:08,000
+both the habits and the expectations of human experts.
+
+92
+00:05:08,670 --> 00:05:11,138
+So, is Ada Lovelace's objection settled?
+
+93
+00:05:11,158 --> 00:05:12,071
+Not completely.
+
+94
+00:05:12,091 --> 00:05:17,110
+It did show that machines can produce results we never wrote out for them step by
+
+95
+00:05:17,130 --> 00:05:17,421
+step.
+
+96
+00:05:17,441 --> 00:05:22,460
+But playing a new and winning move is not final proof of understanding that move.
+
+97
+00:05:23,830 --> 00:05:28,969
+In 1980, the philosopher John Searle explained this same objection with a memorable
+
+98
+00:05:28,989 --> 00:05:29,466
+example.
+
+99
+00:05:29,486 --> 00:05:31,704
+Imagine you're locked inside a room.
+
+100
+00:05:31,724 --> 00:05:34,190
+You don't know a single word of Chinese.
+
+101
+00:05:34,210 --> 00:05:37,920
+To you, sentences written in Chinese are just strange marks.
+
+102
+00:05:38,590 --> 00:05:40,916
+A slip of paper comes in under the door.
+
+103
+00:05:40,936 --> 00:05:43,144
+Something is written on it in Chinese.
+
+104
+00:05:43,164 --> 00:05:47,073
+You have a thick book of instructions: if you see marks like these,
+
+105
+00:05:47,093 --> 00:05:49,770
+write these marks in reply and pass them back.
+
+106
+00:05:50,440 --> 00:05:53,137
+You follow the book carefully, step by step.
+
+107
+00:05:53,157 --> 00:05:58,077
+Outside, the Chinese speakers get such fitting replies that they believe someone
+
+108
+00:05:58,097 --> 00:05:59,930
+inside the room knows Chinese.
+
+109
+00:06:00,600 --> 00:06:02,645
+But nothing about you has changed.
+
+110
+00:06:02,665 --> 00:06:07,139
+You don't know what the incoming note means, or what your own reply means.
+
+111
+00:06:07,159 --> 00:06:11,512
+You followed the rules perfectly, but you never understood the language.
+
+112
+00:06:11,532 --> 00:06:16,310
+That was Searle's question: is arranging symbols according to rules the same as
+
+113
+00:06:16,330 --> 00:06:17,160
+understanding?
+
+114
+00:06:17,980 --> 00:06:19,503
+One famous reply came back.
+
+115
+00:06:19,523 --> 00:06:22,474
+Maybe the person inside the room doesn't understand,
+
+116
+00:06:22,494 --> 00:06:25,846
+but the whole system does: the person, the book, the rules,
+
+117
+00:06:25,866 --> 00:06:27,731
+and all of them working together.
+
+118
+00:06:27,751 --> 00:06:28,703
+Searle disagreed.
+
+119
+00:06:28,723 --> 00:06:32,131
+He said that even if the person memorised every instruction,
+
+120
+00:06:32,151 --> 00:06:34,760
+he still wouldn't know what the Chinese means.
+
+121
+00:06:35,430 --> 00:06:39,612
+This debate still hasn't fully ended, and neither side can settle it overnight.
+
+122
+00:06:39,632 --> 00:06:43,974
+But Searle's example at least reminds us that there can be a gap between an answer
+
+123
+00:06:43,994 --> 00:06:46,580
+that looks right and understanding on the inside.
+
+124
+00:06:47,250 --> 00:06:49,121
+But now a new question comes up.
+
+125
+00:06:49,141 --> 00:06:53,552
+Are today's AI systems also just repeating the rules of some enormous book?
+
+126
+00:06:53,572 --> 00:06:58,161
+Or, while they learn, does some other way of organising information take shape
+
+127
+00:06:58,181 --> 00:06:58,870
+inside them?
+
+128
+00:07:00,240 --> 00:07:02,928
+To test this, researchers turned to a small game.
+
+129
+00:07:02,948 --> 00:07:04,420
+The game is called Othello.
+
+130
+00:07:04,440 --> 00:07:08,288
+Black and white pieces are placed on a board, and with every new move,
+
+131
+00:07:08,308 --> 00:07:09,670
+the pieces keep changing.
+
+132
+00:07:10,340 --> 00:07:14,865
+The researchers trained a small GPT-like model on sequences of moves from games.
+
+133
+00:07:14,885 --> 00:07:17,251
+It was never shown a picture of the board,
+
+134
+00:07:17,271 --> 00:07:20,318
+and it wasn't taught the rules of the game separately.
+
+135
+00:07:20,338 --> 00:07:22,420
+All it had was the sequence of moves,
+
+136
+00:07:22,440 --> 00:07:25,090
+and its job was to predict the next legal move.
+
+137
+00:07:25,760 --> 00:07:29,701
+After plenty of practice, the model got very good at its predictions.
+
+138
+00:07:29,721 --> 00:07:34,122
+Now the real question was this: was it just memorising common move sequences,
+
+139
+00:07:34,142 --> 00:07:38,600
+or did it somehow also know where the pieces were on the board at that moment?
+
+140
+00:07:39,420 --> 00:07:42,135
+The researchers examined its internal activity.
+
+141
+00:07:42,155 --> 00:07:46,674
+They found evidence that something like a map of the current board was forming
+
+142
+00:07:46,694 --> 00:07:47,663
+inside the model.
+
+143
+00:07:47,683 --> 00:07:52,260
+Information about where each piece might be was there, inside its calculations.
+
+144
+00:07:52,930 --> 00:07:54,444
+Then they ran another test.
+
+145
+00:07:54,464 --> 00:07:58,703
+They artificially changed the model's internal information about the board,
+
+146
+00:07:58,723 --> 00:08:00,634
+as if one square had been flipped.
+
+147
+00:08:00,654 --> 00:08:04,496
+As a result, the model's predictions for the next moves changed too,
+
+148
+00:08:04,516 --> 00:08:06,030
+to match the altered board.
+
+149
+00:08:06,700 --> 00:08:11,554
+That strengthened the case that the internal map wasn't just some unimportant side
+
+150
+00:08:11,574 --> 00:08:11,970
+effect.
+
+151
+00:08:11,990 --> 00:08:14,883
+The model was using it to make its next decision.
+
+152
+00:08:14,903 --> 00:08:16,428
+In a small, limited world,
+
+153
+00:08:16,448 --> 00:08:21,064
+it had learned to organise information in a way nobody taught it directly from
+
+154
+00:08:21,084 --> 00:08:21,540
+outside.
+
+155
+00:08:22,210 --> 00:08:24,005
+But caution is needed here.
+
+156
+00:08:24,025 --> 00:08:26,964
+A small Othello board is not the real world.
+
+157
+00:08:26,984 --> 00:08:32,209
+And evidence of an internal map is not proof of full, humanlike understanding.
+
+158
+00:08:32,229 --> 00:08:37,588
+Still, this result does weaken the simple picture of a machine that only repeats
+
+159
+00:08:37,608 --> 00:08:39,000
+ready-made sentences.
+
+160
+00:08:40,370 --> 00:08:45,549
+On the other hand, some of the mistakes large language models make are interesting
+
+161
+00:08:45,569 --> 00:08:45,802
+too.
+
+162
+00:08:45,822 --> 00:08:50,494
+In a 2023 study, researchers found that a model could state a relationship
+
+163
+00:08:50,514 --> 00:08:52,206
+correctly in one direction,
+
+164
+00:08:52,226 --> 00:08:56,580
+yet fail to recognise the very same relationship the other way round.
+
+165
+00:08:57,250 --> 00:09:01,750
+For example, it may know that Tom Cruise's mother is Mary Lee Pfeiffer.
+
+166
+00:09:01,770 --> 00:09:06,843
+But when asked who Mary Lee Pfeiffer's son is, it may not give the right answer.
+
+167
+00:09:06,863 --> 00:09:09,135
+Of course, people forget things too.
+
+168
+00:09:09,155 --> 00:09:14,356
+But a systematic mistake like this makes us ask how the model actually learned the
+
+169
+00:09:14,376 --> 00:09:15,120
+information.
+
+170
+00:09:15,790 --> 00:09:18,728
+This problem was named the "reversal curse".
+
+171
+00:09:18,748 --> 00:09:24,240
+In related tests, GPT-4 answered questions about celebrities' parents correctly 79
+
+172
+00:09:24,260 --> 00:09:26,727
+percent of the time in one direction,
+
+173
+00:09:26,747 --> 00:09:30,827
+but in the reverse direction its accuracy fell to 33 percent.
+
+174
+00:09:30,847 --> 00:09:34,323
+This was a specific test of a model checked in 2023.
+
+175
+00:09:34,343 --> 00:09:38,020
+It shouldn't be taken as a permanent limit of every AI.
+
+176
+00:09:38,690 --> 00:09:40,916
+Now we have both sides of the picture.
+
+177
+00:09:40,936 --> 00:09:45,113
+In some places, the machine seems to build a working map inside itself,
+
+178
+00:09:45,133 --> 00:09:48,305
+and in others, a simple reversed question confuses it.
+
+179
+00:09:48,325 --> 00:09:53,094
+That's why quick verdicts like "it understands" or "it doesn't understand at all"
+
+180
+00:09:53,114 --> 00:09:55,340
+can go further than the evidence does.
+
+181
+00:09:56,710 --> 00:09:59,766
+Now let's go back to the experiment we started with.
+
+182
+00:09:59,786 --> 00:10:01,895
+The research first appeared in 2025,
+
+183
+00:10:01,915 --> 00:10:05,267
+and was published in 2026 in the scientific journal PNAS.
+
+184
+00:10:05,287 --> 00:10:10,059
+In the experiment, the person asking questions held a written conversation with a
+
+185
+00:10:10,079 --> 00:10:12,011
+human and an AI at the same time.
+
+186
+00:10:12,031 --> 00:10:14,850
+Then they had to decide which one was the human.
+
+187
+00:10:15,520 --> 00:10:20,483
+When GPT-4.5 was asked to take on the style of a somewhat shy young person who
+
+188
+00:10:20,503 --> 00:10:25,084
+knows internet slang, it was chosen as the human 73 percent of the time.
+
+189
+00:10:25,104 --> 00:10:30,003
+Without that special instruction to adopt the style, the rate was 36 percent.
+
+190
+00:10:30,023 --> 00:10:33,900
+That's why this result reflects not only the model's ability,
+
+191
+00:10:33,920 --> 00:10:37,670
+but also the design of the experiment and its instructions.
+
+192
+00:10:38,340 --> 00:10:42,868
+The researchers also extended the conversations from five minutes to fifteen.
+
+193
+00:10:42,888 --> 00:10:46,765
+In that separate test, with the same kind of persona instructions,
+
+194
+00:10:46,785 --> 00:10:50,250
+GPT-5 was taken for the human about 59 percent of the time.
+
+195
+00:10:50,270 --> 00:10:52,317
+In other words, in some conditions,
+
+196
+00:10:52,337 --> 00:10:56,510
+even more time didn't make it easier for people to tell the difference.
+
+197
+00:10:57,180 --> 00:10:59,065
+When people made their decisions,
+
+198
+00:10:59,085 --> 00:11:02,125
+they often paid attention to cues like writing style,
+
+199
+00:11:02,145 --> 00:11:04,723
+the flow of the conversation and personality,
+
+200
+00:11:04,743 --> 00:11:07,610
+rather than deep knowledge or difficult reasoning.
+
+201
+00:11:07,630 --> 00:11:11,420
+Sometimes even a small mistake could make a reply seem more human.
+
+202
+00:11:12,090 --> 00:11:16,853
+So the strong conclusion from this experiment is that some AI systems can imitate a
+
+203
+00:11:16,873 --> 00:11:19,618
+human very convincingly in a short conversation.
+
+204
+00:11:19,638 --> 00:11:24,228
+But on its own, this experiment doesn't tell us how much they understand inside,
+
+205
+00:11:24,248 --> 00:11:26,360
+or whether they feel anything at all.
+
+206
+00:11:27,710 --> 00:11:31,808
+Having come this far, perhaps the hardest distinction comes into view.
+
+207
+00:11:31,828 --> 00:11:33,632
+Solving a problem is one thing.
+
+208
+00:11:33,652 --> 00:11:36,927
+Using information about the world around you is another.
+
+209
+00:11:36,947 --> 00:11:41,634
+And feeling something from the inside, having a personal experience, is a third.
+
+210
+00:11:41,654 --> 00:11:45,340
+These three questions are connected, but they are not the same.
+
+211
+00:11:46,010 --> 00:11:49,418
+For example, an AI can write a beautiful poem about rain.
+
+212
+00:11:49,438 --> 00:11:54,471
+It can say true things about the clouds, the smell of wet earth and the cool breeze.
+
+213
+00:11:54,491 --> 00:11:58,260
+But that doesn't automatically prove it has ever felt the rain.
+
+214
+00:11:58,930 --> 00:12:03,488
+In 2023, nineteen researchers tried to examine the question of consciousness in AI
+
+215
+00:12:03,508 --> 00:12:04,884
+in a more systematic way.
+
+216
+00:12:04,904 --> 00:12:09,463
+They drew a set of indicators from different scientific theories of consciousness,
+
+217
+00:12:09,483 --> 00:12:12,980
+and then looked at where such indicators show up in AI systems.
+
+218
+00:12:13,650 --> 00:12:15,250
+According to that assessment,
+
+219
+00:12:15,270 --> 00:12:19,664
+there was no convincing evidence that the systems they studied at the time were
+
+220
+00:12:19,684 --> 00:12:20,222
+conscious.
+
+221
+00:12:20,242 --> 00:12:24,636
+But the researchers also said that building systems with such indicators in the
+
+222
+00:12:24,656 --> 00:12:27,094
+future doesn't seem impossible in principle.
+
+223
+00:12:27,114 --> 00:12:31,340
+And even finding the indicators would not automatically prove consciousness.
+
+224
+00:12:32,010 --> 00:12:36,961
+So the debate is no longer only about how well a computer can hold a conversation.
+
+225
+00:12:36,981 --> 00:12:41,932
+The question is also what a reliable way to recognise consciousness would even be.
+
+226
+00:12:41,952 --> 00:12:46,236
+When we can't directly see the inner experience of another human being,
+
+227
+00:12:46,256 --> 00:12:48,540
+judging a machine becomes even harder.
+
+228
+00:12:49,910 --> 00:12:51,395
+So, can machines think?
+
+229
+00:12:51,415 --> 00:12:56,826
+Today, instead of answering in a single word, we can ask the question more clearly.
+
+230
+00:12:56,846 --> 00:12:59,705
+Can a machine hold a humanlike conversation?
+
+231
+00:12:59,725 --> 00:13:01,341
+In some experiments, yes.
+
+232
+00:13:01,361 --> 00:13:05,529
+Can it learn, and build a useful map of the world inside itself?
+
+233
+00:13:05,549 --> 00:13:08,670
+In limited tasks, there is evidence that it can.
+
+234
+00:13:09,340 --> 00:13:13,755
+Does all this mean it understands the way we do, or that it feels anything?
+
+235
+00:13:13,775 --> 00:13:16,358
+On that, there is no decisive agreement yet.
+
+236
+00:13:16,378 --> 00:13:20,852
+Perhaps the better way forward is this: we shouldn't play down what machines
+
+237
+00:13:20,872 --> 00:13:25,583
+achieve, but we also shouldn't draw conclusions from it that we have no evidence
+
+238
+00:13:25,603 --> 00:13:25,820
+for.
+
+239
+00:13:26,490 --> 00:13:28,814
+And now, the last question is for you.
+
+240
+00:13:28,834 --> 00:13:33,625
+Imagine a machine that talks with you exactly like a human, learns new things,
+
+241
+00:13:33,645 --> 00:13:35,784
+and even corrects its own mistakes.
+
+242
+00:13:35,804 --> 00:13:40,040
+To you, what would be the strongest proof that it is really thinking?
