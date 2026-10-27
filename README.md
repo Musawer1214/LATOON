@@ -10,7 +10,7 @@ Science, AI, psychology and philosophy — the ideas hiding beneath what we thin
 [![YouTube](https://img.shields.io/badge/YouTube-@its__Latoon-C4302B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@its_Latoon?sub_confirmation=1)
 [![Urdu](https://img.shields.io/badge/%D8%A7%D8%B1%D8%AF%D9%88-@LATOON__Urdu-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LATOON_Urdu)
 [![Pashto](https://img.shields.io/badge/%D9%BE%DA%9A%D8%AA%D9%88-@LATOON__Pashto-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LATOON_Pashto)
-[![Shorts](https://img.shields.io/badge/Shorts-42%2B-1C2530?style=for-the-badge&logo=youtubeshorts&logoColor=white)](#-shorts)
+[![Shorts](https://img.shields.io/badge/Shorts-48%2B-1C2530?style=for-the-badge&logo=youtubeshorts&logoColor=white)](#-shorts)
 [![Long--form](https://img.shields.io/badge/Long--form-5-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](#-long-form)
 [![Python](https://img.shields.io/badge/Python-3-C8A96A?style=for-the-badge&logo=python&logoColor=white)](#-the-engine)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-encode-0B0F14?style=for-the-badge&logo=ffmpeg&logoColor=white)](#-the-engine)
@@ -95,36 +95,36 @@ The same animations, published in three languages, each with its own native narr
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://youtube.com/shorts/wx77zXhFiDk"><img src="https://i.ytimg.com/vi/wx77zXhFiDk/hqdefault.jpg" width="100%" alt="Neutron Star Merger: The 10-Minute X-ray Flash Mystery"/></a><br/>
-      <sub><b>Neutron Star Merger: The 10-Minute X-ray Flash Mystery</b></sub><br/>
-      <sub><a href="shorts/2026-10-10-13-nsmerger">code</a> · <a href="https://youtube.com/shorts/wx77zXhFiDk">watch ▶</a></sub>
+      <a href="https://youtube.com/shorts/0P2AgvODhM4"><img src="https://i.ytimg.com/vi/0P2AgvODhM4/hqdefault.jpg" width="100%" alt="How Do Birds Sense the Earth's Magnetic Field?"/></a><br/>
+      <sub><b>How Do Birds Sense the Earth's Magnetic Field?</b></sub><br/>
+      <sub><a href="shorts/2026-10-23-01-bird-compass">code</a> · <a href="https://youtube.com/shorts/0P2AgvODhM4">watch ▶</a></sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://youtube.com/shorts/jBfvHkjqr2A"><img src="https://i.ytimg.com/vi/jBfvHkjqr2A/hqdefault.jpg" width="100%" alt="Inside ChatGPT: Hidden Structure in Its Numbers? Yale Study"/></a><br/>
-      <sub><b>Inside ChatGPT: Hidden Structure in Its Numbers? Yale Study</b></sub><br/>
-      <sub><a href="shorts/2026-10-10-12-symbolic">code</a> · <a href="https://youtube.com/shorts/jBfvHkjqr2A">watch ▶</a></sub>
+      <a href="https://youtube.com/shorts/vP7NjDM30ds"><img src="https://i.ytimg.com/vi/vP7NjDM30ds/hqdefault.jpg" width="100%" alt="Why Is the Night Sky Dark?"/></a><br/>
+      <sub><b>Why Is the Night Sky Dark?</b></sub><br/>
+      <sub><a href="shorts/2026-10-22-01-night-sky-dark">code</a> · <a href="https://youtube.com/shorts/vP7NjDM30ds">watch ▶</a></sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://youtube.com/shorts/31v3Zy-v500"><img src="https://i.ytimg.com/vi/31v3Zy-v500/hqdefault.jpg" width="100%" alt="Using AI for 10 Minutes Can Make You Give Up Sooner"/></a><br/>
-      <sub><b>Using AI for 10 Minutes Can Make You Give Up Sooner</b></sub><br/>
-      <sub><a href="shorts/2026-10-10-09-aipersist">code</a> · <a href="https://youtube.com/shorts/31v3Zy-v500">watch ▶</a></sub>
+      <a href="https://youtube.com/shorts/LHyIG-bjOu0"><img src="https://i.ytimg.com/vi/LHyIG-bjOu0/hqdefault.jpg" width="100%" alt="Why Do Galaxies Spin Too Fast?"/></a><br/>
+      <sub><b>Why Do Galaxies Spin Too Fast?</b></sub><br/>
+      <sub><a href="shorts/2026-10-21-01-rubin-galaxies">code</a> · <a href="https://youtube.com/shorts/LHyIG-bjOu0">watch ▶</a></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://youtube.com/shorts/NsJgYXbytNo"><img src="https://i.ytimg.com/vi/NsJgYXbytNo/hqdefault.jpg" width="100%" alt="Why Multitasking Mistakes Aren't Random: New Brain Study"/></a><br/>
-      <sub><b>Why Multitasking Mistakes Aren't Random: New Brain Study</b></sub><br/>
-      <sub><a href="shorts/2026-10-10-08-multitask">code</a> · <a href="https://youtube.com/shorts/NsJgYXbytNo">watch ▶</a></sub>
+      <a href="https://youtube.com/shorts/3QdItPlGW4c"><img src="https://i.ytimg.com/vi/3QdItPlGW4c/hqdefault.jpg" width="100%" alt="Can One Word Change What You Remember?"/></a><br/>
+      <sub><b>Can One Word Change What You Remember?</b></sub><br/>
+      <sub><a href="shorts/2026-10-20-01-loftus-one-word">code</a> · <a href="https://youtube.com/shorts/3QdItPlGW4c">watch ▶</a></sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://youtube.com/shorts/nx2DDumR_-4"><img src="https://i.ytimg.com/vi/nx2DDumR_-4/hqdefault.jpg" width="100%" alt="Quantum Computer vs Chaos: A Tipping Point at 50/50"/></a><br/>
-      <sub><b>Quantum Computer vs Chaos: A Tipping Point at 50/50</b></sub><br/>
-      <sub><a href="shorts/2026-10-10-07-quantum">code</a> · <a href="https://youtube.com/shorts/nx2DDumR_-4">watch ▶</a></sub>
+      <a href="https://youtube.com/shorts/bQ5CmhfKfX0"><img src="https://i.ytimg.com/vi/bQ5CmhfKfX0/hqdefault.jpg" width="100%" alt="Why Can't AI Just Say &quot;I Don't Know&quot;?"/></a><br/>
+      <sub><b>Why Can't AI Just Say &quot;I Don't Know&quot;?</b></sub><br/>
+      <sub><a href="shorts/2026-10-20-02-ai-i-dont-know">code</a> · <a href="https://youtube.com/shorts/bQ5CmhfKfX0">watch ▶</a></sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://youtube.com/shorts/SZhPBgkjGNk"><img src="https://i.ytimg.com/vi/SZhPBgkjGNk/hqdefault.jpg" width="100%" alt="A Planet Born After Its Star Died? Hubble's Cold Case"/></a><br/>
-      <sub><b>A Planet Born After Its Star Died? Hubble's Cold Case</b></sub><br/>
-      <sub><a href="shorts/2026-10-10-06-phoenix">code</a> · <a href="https://youtube.com/shorts/SZhPBgkjGNk">watch ▶</a></sub>
+      <a href="https://youtube.com/shorts/wx77zXhFiDk"><img src="https://i.ytimg.com/vi/wx77zXhFiDk/hqdefault.jpg" width="100%" alt="Neutron Star Merger: The 10-Minute X-ray Flash Mystery"/></a><br/>
+      <sub><b>Neutron Star Merger: The 10-Minute X-ray Flash Mystery</b></sub><br/>
+      <sub><a href="shorts/2026-10-10-13-nsmerger">code</a> · <a href="https://youtube.com/shorts/wx77zXhFiDk">watch ▶</a></sub>
     </td>
   </tr>
 </table>
@@ -135,12 +135,18 @@ The same animations, published in three languages, each with its own native narr
 
 | | Short | Source |
 |:-:|:--|:-:|
+| 🔭 | [How Do Birds Sense the Earth's Magnetic Field?](https://youtube.com/shorts/0P2AgvODhM4) | [`2026-10-23-01-bird-compass`](shorts/2026-10-23-01-bird-compass) |
 | 🔭 | [Why Is the Night Sky Dark?](https://youtube.com/shorts/vP7NjDM30ds) | [`2026-10-22-01-night-sky-dark`](shorts/2026-10-22-01-night-sky-dark) |
 | 🔭 | [Why Do Galaxies Spin Too Fast?](https://youtube.com/shorts/LHyIG-bjOu0) | [`2026-10-21-01-rubin-galaxies`](shorts/2026-10-21-01-rubin-galaxies) |
 | 🧠 | [Can One Word Change What You Remember?](https://youtube.com/shorts/3QdItPlGW4c) | [`2026-10-20-01-loftus-one-word`](shorts/2026-10-20-01-loftus-one-word) |
 | 🤖 | [Why Can't AI Just Say "I Don't Know"?](https://youtube.com/shorts/bQ5CmhfKfX0) | [`2026-10-20-02-ai-i-dont-know`](shorts/2026-10-20-02-ai-i-dont-know) |
+| 🤖 | [Why ChatGPT Doesn't Redo Everything: The KV Cache Trick](https://youtube.com/shorts/c2flRBI3qAk) | — |
+| 🤖 | [How Did ChatGPT Learn to Answer You? Human Feedback](https://youtube.com/shorts/-ikE85ZmYMw) | — |
+| 🤖 | [How a Sinking U-Boat Helped Break Enigma's Shark](https://youtube.com/shorts/ZzHPMqJtJkA) | — |
+| 🤖 | [How Enigma's Own Security Rules Helped Break It](https://youtube.com/shorts/d3_q3eX7j6I) | — |
 | 🔭 | [Neutron Star Merger: The 10-Minute X-ray Flash Mystery](https://youtube.com/shorts/wx77zXhFiDk) | [`2026-10-10-13-nsmerger`](shorts/2026-10-10-13-nsmerger) |
 | 🤖 | [Inside ChatGPT: Hidden Structure in Its Numbers? Yale Study](https://youtube.com/shorts/jBfvHkjqr2A) | [`2026-10-10-12-symbolic`](shorts/2026-10-10-12-symbolic) |
+| 🏛️ | [Do Neuroscientists Believe in Free Will? A 2,657-Person Survey](https://youtube.com/shorts/CGL1OWAIIBo) | [`2026-10-10-10-freewill`](shorts/2026-10-10-10-freewill) |
 | 🤖 | [Using AI for 10 Minutes Can Make You Give Up Sooner](https://youtube.com/shorts/31v3Zy-v500) | [`2026-10-10-09-aipersist`](shorts/2026-10-10-09-aipersist) |
 | 🧠 | [Why Multitasking Mistakes Aren't Random: New Brain Study](https://youtube.com/shorts/NsJgYXbytNo) | [`2026-10-10-08-multitask`](shorts/2026-10-10-08-multitask) |
 | 🤖 | [Quantum Computer vs Chaos: A Tipping Point at 50/50](https://youtube.com/shorts/nx2DDumR_-4) | [`2026-10-10-07-quantum`](shorts/2026-10-10-07-quantum) |
