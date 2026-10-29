@@ -1,0 +1,44 @@
+Enigma कैसे टूटी? जर्मनी की इस साइफ़र मशीन में लगभग 159 क्विंटिलियन शुरुआती सेटिंग्स थीं, फिर भी कोई अक्षर कभी ख़ुद में एन्क्रिप्ट नहीं हो सकता था। यह पूरी कहानी है: पोलैंड का साइफ़र ब्यूरो और बोम्बा, 1939 में पीरी में सौंपा गया राज़, ब्लेचली पार्क, ट्यूरिंग और वेल्चमैन की बॉम्ब, क्रिब और ऑपरेटरों की गलतियाँ, यू-बोट युद्ध और U-110 व U-559 की ज़ब्ती, और Enigma आज भी क्रिप्टोग्राफ़ी को क्या सिखाती है।
+
+आपके हिसाब से और कौन सी "पूरी तरह बेतरतीब" चीज़ में कोई पैटर्न छिपा है? कमेंट में बताइए।
+
+अध्याय:
+0:00 बिना L वाला संदेश
+0:36 हवा में उड़ते राज़
+1:41 Enigma मशीन के अंदर
+2:52 रिफ़्लेक्टर का अंधा कोना
+3:49 पोलैंड ने सबसे पहले Enigma तोड़ी
+5:28 बोम्बा और पीरी में सौंपा गया राज़
+6:44 पोलैंड से भागना
+7:10 ब्लेचली पार्क और क्रिब
+8:15 ट्यूरिंग की बॉम्ब
+9:20 इंसानी आदतें
+10:45 अटलांटिक और ज़ब्तियाँ
+12:17 Shark और U-559
+13:23 गायब L
+13:59 दशकों की ख़ामोशी
+14:23 एलन ट्यूरिंग
+15:03 Enigma असल में कैसे गिरी
+16:23 जो वह कभी नहीं करती
+
+स्रोत:
+https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma
+https://en.wikipedia.org/wiki/Cipher_Bureau_(Poland)
+https://www.gchq.gov.uk/sites/default/files/pdfs/publication/the-pyry-forest-meeting.pdf
+https://www.bl.uk/stories/blogs/posts/polish-mathematicians-and-cracking-the-enigma
+https://en.wikipedia.org/wiki/Bomba_(cryptography)
+https://www.tnmoc.org/bombe
+https://en.wikipedia.org/wiki/Banburismus
+https://en.wikipedia.org/wiki/German_submarine_U-559
+https://en.wikipedia.org/wiki/Ultra_(cryptography)
+https://www.petitcolas.net/kerckhoffs/
+
+स्क्रीन पर दिखने वाले Enigma अक्षर Enigma I के एक सटीक सिमुलेशन से हैं (रोटर I-II-III, रिफ़्लेक्टर B)। उदाहरण वाले संदेशों पर उदाहरण लिखा है।
+
+तस्वीरों का श्रेय (Wikimedia Commons): Bletchley Park Mansion (DeFacto, CC BY-SA 4.0); Enigma-IMG 0487-black (Rama, CC BY-SA 2.0 fr); Enigma Machine A16672 open.agr (ArnoldReinhold, CC BY-SA 4.0); Bundesarchiv Bild 101I-267-0148-06, Russland, Funker in gepanzertem Fahrzeug (Utecht / Ütrecht / Uetrecht, CC BY-SA 3.0 de); Arthur Scherbius 1 (unknown, Public domain); Scherbius-1928-patent (Arthur Scherbius (died 1929)., Public domain); Bundesarchiv Bild 183-2007-0705-502, Chiffriermaschine "Enigma" (Walther, CC BY-SA 3.0 de); Enigma rotors with alphabet rings (TedColes, CC0); ENIGMA Wired Rotor - National Cryptologic Museum - DSC07768 (Daderot, CC0); Steckerboard on Enigma Machine (School of Mathematics - University of Manchester, CC BY 2.0); Enigma (crittografia) - Museo scienza e tecnologia Milano (Alessandro Nassiri, CC BY-SA 4.0); Marian Rejewski (No photographer mentioned in either source, Public domain); Jerzy Rozycki (No photographer mentioned in either source, Public domain); Henryk Zygalski (No photographer mentioned in the source, Public domain); Zygalski sheets (perforated sheets) (Toby Oxborrow, CC BY-SA 2.0); Bomba full (Marian Rejewski, Public domain); Las Kabacki w Warszawie 2020a (Adrian Grycuk, CC BY-SA 3.0 pl); Photo du paquebot Lamoricière (Collection agence Adhémar, CC BY-SA 4.0); Hut 8, Bletchley Park (Bibeyjj, CC BY-SA 4.0); Alan Turing's office at Bletchley Park - geograph.org.uk - 8056365 (Marathon, CC BY-SA 2.0); Alan Turing Aged 16 (Possibly Arthur Reginald Chaffin (1893-1954), Public domain); Wartime picture of a Bletchley Park Bombe (unknown, Public domain); Gordon Welchman's Desk (21589984765) (William Warby, CC BY 2.0); Bletchley Park Bombe (Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0); Bletchley Park Bombe 2 (Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0); An aerial view of a convoy in the Atlantic, 1941. Two escorts can be seen in the foreground. C2647 (Royal Air Force official photographer, Public domain); M4 Enigma rotors and box, 1 of 2, U-505 - Museum of Science and Industry (Chicago) - DSC06776 (Daderot, CC0); Alan Turing (1912-1954) in 1936 at Princeton University (Unknown photographer, Public domain); Part of a Banbury Sheet as used in Banburismus (TedColes, CC BY-SA 4.0); U-110 and HMS Bulldog (Royal Navy official photographer, Public domain); M4 Enigma machine, 1 of 2, U-505 - Museum of Science and Industry (Chicago) - DSC06773 (Daderot, CC0); HMS Petard 1943 IWM A 21715 (Royal Navy official photographer, Public domain); US Navy Cryptanalytic Bombe - National Cryptologic Museum - DSC07895 (Daderot, CC0); Pilot ACE in the Science Museum (Philafrenzy, CC BY 2.0); Alan Turing (1951) (Elliott & Fry, Public domain); Auguste Kerckhoffs (unknown, Public domain); La Cryptographie Militaire (Kerkhgoffs Institute, Public domain)
+
+सारा एनिमेशन और संगीत LATOON ने कोड से बनाया है। LATOON का Bletchley Park, GCHQ, The National Museum of Computing या दिखाए गए किसी भी संग्रहालय से कोई संबंध नहीं है।
+
+LATOON: अनदेखे की यात्रा। सब्सक्राइब करें: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+
+#Enigma #AlanTuring #Cryptography #BletchleyPark #History
