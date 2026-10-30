@@ -6,3 +6,6 @@
 - OPEN 1: EN SRT not on (Studio 'With timing' dialog looped twice). File v4/subs_en.srt, also LATOON-core studio-uploads/rubin-galaxies/ for the owner. Auto EN captions live. A fresh-session retry (s12.1) may be tried once.
 - OPEN 2: UR/PS AWAITING OWNER VOICE. Recording PDF: voice_own/2026-10-21-rubin-galaxies/Rubin_Galaxies_Too_Fast_Urdu_Pashto_Script.pdf. Process with voice_own/prep_own.py + finalize_own.py over v4/bed.wav; send mixes to owner for approval before any Studio upload (main tracks + LATOON Urdu/Pashto).
 - 2026-10-22 ~02:50 CST: v5/ = OWNER-REVIEW TEST only (visuals rebuilt per PLAYBOOK 5.0a/5.0b: real-feeling deep space, tails = speed, ghosts = expected; same v4 voice, no new TTS). NOT uploaded; published v4 untouched. Upload only if the owner approves v5.
+- 2026-10-22 03:08 CST: REPLACED. v5 PUBLIC https://youtube.com/shorts/djxgR7Q0kok on @its_Latoon; v4 LHyIG-bjOu0 PRIVATE; stray Pashto-channel copy rHXoZKYF32A PRIVATE. EN SRT failed (file picker). UR/PS owner-voice dubs: mix over v5/bed.wav.
+- 03:13 CST: LHyIG-bjOu0 (main) and rHXoZKYF32A (Pashto) permanently DELETED at owner request. Only djxgR7Q0kok remains.
+- 2026-10-23 03:10 CST: UR owner-voice mix done over v5 (dub/own_ur.m4a, own_ur.srt, script_ur_spoken.json, previews in dub/). AWAITING OWNER REVIEW; not uploaded. PS still to process.
