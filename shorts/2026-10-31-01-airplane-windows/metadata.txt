@@ -1,0 +1,18 @@
+TITLE: Why Are Airplane Windows Round? The 1954 Comet Mystery
+DESCRIPTION:
+Every airplane window has rounded corners. In 1954 two Comet jetliners broke apart in mid-air, and the investigation traced the failure to fatigue cracks growing from window-area corners.
+
+How the unseen works: stress concentrates around holes and sharp corners, and repeated loading grows tiny cracks (metal fatigue).
+
+Sources:
+- Report of the Court of Inquiry into the accidents to Comet G-ALYP and G-ALYY (UK Ministry of Transport and Civil Aviation, 1955): https://www.faa.gov/sites/faa.gov/files/2022-10/G-ALYP_Report_0.pdf
+- FAA Lessons Learned: De Havilland DH-106 Comet 1: https://www.faa.gov/lessons_learned/transport_airplane/accidents/G-ALYV
+- RAE Report 3248, Behaviour of skin fatigue cracks at the corners of windows in a Comet I fuselage: https://www.faa.gov/sites/faa.gov/files/2022-10/G-ALYR_Report_0.pdf
+- Stress concentration (circular hole in an infinite plate, Kt = 3): https://en.wikipedia.org/wiki/Stress_concentration
+
+Notes: the force-line animation is an illustration (flow analogy), not a measurement. The 1954 water-tank test failed at a corner of the forward escape-hatch cutout; the Elba crash (G-ALYP) was traced to a fatigue crack at the roof ADF window cutouts. The Naples crash (G-ALYY) was judged possibly the same cause.
+
+Credits: BOAC Comet photo Douglas&Marahys (CC BY-SA 4.0); Comet fuselage panel photo Mike McBey (CC BY 2.0); water-tank photo FAA (public domain); hatch failure photo and Comet windows photo via Wikimedia Commons (HMSO / Completeaerogeek, CC BY-SA 4.0); wreckage diagram Wikimedia Commons (CC BY-SA 3.0); stock footage Pexels 19004435, 35789719, 13817975; music Mixkit (Mixkit Stock Music Free License).
+
+TAGS: airplane windows, why airplane windows are round, de Havilland Comet, Comet 1954, metal fatigue, stress concentration, how it works, engineering explained, aviation history, aircraft accident investigation, science explained, LATOON
+CATEGORY: Science & Technology | Not made for kids | Altered/synthetic content: No (real photos/footage; the force-line animation is a labelled graphic) | Playlist: Shorts
