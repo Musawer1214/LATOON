@@ -1,0 +1,39 @@
+1
+00:00:00,050 --> 00:00:03,760
+Why does every airplane window have rounded corners?
+
+2
+00:00:04,330 --> 00:00:09,800
+In 1954, two Comets, the first jetliners, broke apart in mid-air.
+
+3
+00:00:10,370 --> 00:00:15,520
+Engineers sank a real Comet in a water tank and pressurised it, flight after flight.
+
+4
+00:00:16,090 --> 00:00:20,860
+After about three thousand cycles, a crack opened at a window corner.
+
+5
+00:00:21,430 --> 00:00:26,020
+When metal has a hole, stress flows around it and crowds at the edge.
+
+6
+00:00:26,590 --> 00:00:32,020
+A round hole multiplies it about three times. A sharp corner, even more.
+
+7
+00:00:32,590 --> 00:00:40,020
+And metal doesn't have to be overloaded. Flex it again and again, and a tiny crack grows. That's fatigue.
+
+8
+00:00:40,590 --> 00:00:46,100
+The inquiry traced the first crash to a fatigue crack at the corner of a window cutout in the roof.
+
+9
+00:00:46,800 --> 00:00:50,510
+Today's windows are rounded, so stress has nowhere to pile up.
+
+10
+00:00:51,460 --> 00:00:56,610
+That curve beside your seat isn't style. It's a lesson written in metal.
