@@ -13,16 +13,17 @@ Science, AI, psychology and philosophy — the ideas hiding beneath what we thin
 [![Shorts](https://img.shields.io/badge/Shorts-48%2B-1C2530?style=for-the-badge&logo=youtubeshorts&logoColor=white)](#-shorts)
 [![Long--form](https://img.shields.io/badge/Long--form-5-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](#-long-form)
 [![Python](https://img.shields.io/badge/Python-3-C8A96A?style=for-the-badge&logo=python&logoColor=white)](#-the-engine)
+[![HTML](https://img.shields.io/badge/HTML%20%C2%B7%20GSAP-scenes-C8A96A?style=for-the-badge&logo=html5&logoColor=white)](#-the-engine)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-encode-0B0F14?style=for-the-badge&logo=ffmpeg&logoColor=white)](#-the-engine)
 
-<sub>Every frame of every video is drawn in code. This repository is the source.</sub>
+<sub>Every frame of every video is composed in code. This repository is the source.</sub>
 
 </div>
 
 <br/>
 
 > [!NOTE]
-> **No templates, no stock edits.** Each video is a small program: a researched script, a narrated voice track, and Python scenes that paint every frame — layered, shaded, real photographs composited with hand-built diagrams — then mixed and encoded with FFmpeg.
+> **No templates.** Each video is a small program: a researched script, a narrated voice track, and scenes written in code (Python, and HTML/CSS/GSAP rendered frame by frame) that compose every frame — full-frame licensed footage and real photographs, evidence insets, hand-built diagrams and a camera that is always moving — each look designed around its topic, then scored, mixed and encoded with FFmpeg.
 
 <br/>
 
@@ -195,7 +196,7 @@ flowchart LR
     A["🔎 Research<br/><sub>papers · sources</sub>"] --> B["✍️ Script<br/><sub>script.json</sub>"]
     B --> C["🎙️ Voice<br/><sub>neural TTS · -14 LUFS</sub>"]
     C --> D["⏱️ Timing<br/><sub>timing</sub>"]
-    D --> E["🎨 Scenes<br/><sub>Python · Pillow · NumPy</sub>"]
+    D --> E["🎨 Scenes<br/><sub>Python · HTML/GSAP · footage</sub>"]
     E --> F["🎚️ Mix<br/><sub>mix</sub>"]
     F --> G["🎞️ Encode<br/><sub>FFmpeg</sub>"]
     G --> H["▶️ YouTube"]
@@ -205,9 +206,9 @@ flowchart LR
 |---|---|---|
 | **Research** | Fresh, sourced topics scored for novelty, credibility and fit | `sources.md` |
 | **Script** | One narrative thread, a real hook, a payoff — never narrating the visuals | `script.json` |
-| **Voice** | Natural neural narration, paced and mastered to broadcast loudness | private engine |
-| **Scenes** | Every frame drawn in Python: real imagery, layered diagrams, motion | `scenes.py` |
-| **Mix & encode** | Narration, subtle sound design and captions, encoded with FFmpeg | private engine |
+| **Voice** | Lively neural narration, never sped up or time-stretched, mastered to broadcast loudness | private engine |
+| **Scenes** | Each look designed around its topic: full-frame footage and photos, evidence insets, diagrams, a moving camera on every shot | `scenes.py` / `sections/*.js` |
+| **Mix & encode** | Narration, story-following music, sparse soft sound design and captions, encoded with FFmpeg | private engine |
 
 ## 🗂️ Repository
 
