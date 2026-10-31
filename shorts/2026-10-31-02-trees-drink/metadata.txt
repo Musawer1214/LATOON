@@ -1,0 +1,25 @@
+TITLE: How Does a Tree Drink Without a Pump? #shorts
+DESCRIPTION:
+How does a tree drink without a pump? An ordinary suction pump can only lift water about ten metres, yet redwoods grow past 110 m. The answer: evaporation at the leaves pulls unbroken threads of water up through the xylem, so the water inside a tree is under negative pressure, literally stretched. What else around you runs on stretched water?
+
+How the unseen works: the cohesion-tension mechanism of sap ascent, measured as negative xylem pressure and reproduced in a gel "synthetic tree".
+
+Sources:
+- Scholander, Bradstreet, Hemmingsen & Hammel (1965), Sap Pressure in Vascular Plants, Science 148:339: https://www.science.org/doi/10.1126/science.148.3668.339
+- Wheeler & Stroock (2008), The transpiration of water at negative pressures in a synthetic tree, Nature 455:208: https://www.nature.com/articles/nature07226
+- Dixon & Joly (1895), On the ascent of sap, Phil. Trans. R. Soc. B 186:563: https://royalsocietypublishing.org/doi/10.1098/rstb.1895.0012
+- Koch, Sillett, Jennings & Davis (2004), The limits to tree height, Nature 428:851 (tallest known tree 112.7 m): https://www.nature.com/articles/nature02417
+- Hayward (1970), Mechanical pump with a suction lift of 17 metres, Nature 225:376 (atmosphere supports ~10.4 m of water): https://www.nature.com/articles/225376b0
+- Choat et al. (2018), Triggers of tree mortality under drought, Nature 558:531: https://www.nature.com/articles/s41586-018-0240-x
+
+Notes: "about ten metres" is the atmospheric limit for an ordinary suction pump; Hayward (1970) built a special pump that beat it using water under tension. The -5 / -80 atmosphere figures are from Scholander's 1965 abstract ("-4 or -5 atmospheres in a damp forest to -80 atmospheres in the desert"). All diagrams are LATOON illustrations; the synthetic-tree drawing is after Wheeler & Stroock 2008, not their figure.
+
+Footage credits: Pexels 8552289 and 8552812 (RDNE Stock project), 19950424, 34106794, 30833644, 8374012, 36249169, 11514996 (Matthias Groeneveld), Pexels licence. Music: Mixkit tracks 480 and 838 (Mixkit Stock Music Free License).
+All animation was made by LATOON. LATOON is not affiliated with the journals or authors named.
+
+LATOON: Voyaging the Unseen. Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+
+#trees #howitworks #science #plantscience #physics #nature #shorts
+
+TAGS: how do trees drink water, how trees move water, cohesion tension theory, negative pressure, xylem, transpiration, redwood, tallest tree, sap ascent, synthetic tree, plant science, how it works, science explained, nature science, LATOON
+CATEGORY: Science & Technology | Language English | Not made for kids | Altered/synthetic content: No (real footage; diagrams are labelled illustrations) | Playlist: Shorts only
