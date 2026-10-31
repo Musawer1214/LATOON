@@ -10,7 +10,7 @@ Science, AI, psychology and philosophy — the ideas hiding beneath what we thin
 [![YouTube](https://img.shields.io/badge/YouTube-@its__Latoon-C4302B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@its_Latoon?sub_confirmation=1)
 [![Urdu](https://img.shields.io/badge/%D8%A7%D8%B1%D8%AF%D9%88-@LATOON__Urdu-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LATOON_Urdu)
 [![Pashto](https://img.shields.io/badge/%D9%BE%DA%9A%D8%AA%D9%88-@LATOON__Pashto-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LATOON_Pashto)
-[![Shorts](https://img.shields.io/badge/Shorts-48%2B-1C2530?style=for-the-badge&logo=youtubeshorts&logoColor=white)](#-shorts)
+[![Shorts](https://img.shields.io/badge/Shorts-50%2B-1C2530?style=for-the-badge&logo=youtubeshorts&logoColor=white)](#-shorts)
 [![Long--form](https://img.shields.io/badge/Long--form-5-1C2530?style=for-the-badge&logo=youtube&logoColor=white)](#-long-form)
 [![Python](https://img.shields.io/badge/Python-3-C8A96A?style=for-the-badge&logo=python&logoColor=white)](#-the-engine)
 [![HTML](https://img.shields.io/badge/HTML%20%C2%B7%20GSAP-scenes-C8A96A?style=for-the-badge&logo=html5&logoColor=white)](#-the-engine)
@@ -136,6 +136,8 @@ The same animations, published in three languages, each with its own native narr
 
 | | Short | Source |
 |:-:|:--|:-:|
+| 🔭 | [How Does a Tree Drink Without a Pump?](https://youtube.com/shorts/KgZKA3zd0U4) | [`2026-10-31-02-trees-drink`](shorts/2026-10-31-02-trees-drink) |
+| 🤖 | [Why Are Airplane Windows Round? The 1954 Comet Mystery](https://youtube.com/shorts/KXLDGAjnUSY) | [`2026-10-31-01-airplane-windows`](shorts/2026-10-31-01-airplane-windows) |
 | 🔭 | [How Do Birds Sense the Earth's Magnetic Field?](https://youtube.com/shorts/0P2AgvODhM4) | [`2026-10-23-01-bird-compass`](shorts/2026-10-23-01-bird-compass) |
 | 🔭 | [Why Is the Night Sky Dark?](https://youtube.com/shorts/vP7NjDM30ds) | [`2026-10-22-01-night-sky-dark`](shorts/2026-10-22-01-night-sky-dark) |
 | 🔭 | [Why Do Galaxies Spin Too Fast?](https://youtube.com/shorts/LHyIG-bjOu0) | [`2026-10-21-01-rubin-galaxies`](shorts/2026-10-21-01-rubin-galaxies) |
