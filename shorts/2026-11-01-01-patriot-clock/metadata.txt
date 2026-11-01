@@ -1,0 +1,24 @@
+TITLE: The 0.1 Error That Grew for 100 Hours #shorts
+DESCRIPTION:
+Why is 0.1 a problem for a computer? In binary, one tenth never ends, so a machine has to chop it off. In 1991 a Patriot missile battery at Dhahran counted time in tenths of a second; after more than 100 hours of running, that tiny chopped error had grown to about a third of a second, enough for its radar to look in the wrong place. A tiny error isn't small when it repeats millions of times.
+
+How the unseen works: finite-precision arithmetic and error that grows with run time, from the US GAO report on the Patriot failure at Dhahran (25 February 1991).
+
+Sources:
+- US General Accounting Office (1992), Patriot Missile Defense: Software Problem Led to System Failure at Dhahran, Saudi Arabia, GAO/IMTEC-92-26: https://www.gao.gov/assets/imtec-92-26.pdf (Appendix II: 100 hours = 0.3433 s inaccuracy, about 687 m range-gate shift)
+- Douglas N. Arnold, University of Minnesota, The Patriot Missile Failure: https://www-users.cse.umn.edu/~arnold/disasters/patriot.html (0.1 chopped in a 24-bit register, about 0.000000095 s per tick)
+
+Notes: The GAO report describes the cause as a loss of precision when the clock's tenths-of-a-second count was converted using 24-bit registers; the "0.1 chopped" arithmetic is Arnold's and matches GAO's 0.3433 s. GAO also notes the Army had not said how long was "very long run times", and the corrected software reached Dhahran on 26 February, the day after. The ticker tape, register, range-gate and calendar graphics are LATOON illustrations; the GAO table is a retypeset excerpt.
+
+Photo credits: Patriot launches over Tel Aviv, 1991, Government Press Office (Israel) via Wikimedia Commons, CC BY-SA 3.0; AN/MPQ-53 Patriot radar, Operation Desert Shield, US Army, public domain (Wikimedia Commons).
+Footage credits: Pexels 33110126 (João Pavese), 6573939 (ArtHouse Studio), 7033786 (Tima Miroshnichenko), 8319435 (Axinte Films), Pexels licence; desert footage is for illustration, not Dhahran. Music: Mixkit tracks 720 and 173 (Mixkit Stock Music Free License).
+All animation was made by LATOON. LATOON is not affiliated with the GAO or the authors named.
+
+In memory of the 28 soldiers killed at Dhahran on 25 February 1991.
+
+LATOON: Voyaging the Unseen. Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+
+#computerscience #howitworks #science #binary #history #shorts
+
+TAGS: patriot missile failure, floating point error, rounding error, binary 0.1, 0.1 in binary, computer arithmetic, dhahran 1991, gulf war, software bug, numerical error, 24 bit, how computers count, computer science explained, how it works, LATOON
+CATEGORY: Science & Technology | Language English | Not made for kids | Altered/synthetic content: No (real photos and footage; diagrams are labelled illustrations) | Playlist: Shorts only
