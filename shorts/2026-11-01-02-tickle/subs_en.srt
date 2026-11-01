@@ -1,0 +1,67 @@
+1
+00:00:00,050 --> 00:00:02,270
+Why can't you tickle yourself?
+
+2
+00:00:02,500 --> 00:00:05,185
+Someone else's finger can make you squirm.
+
+3
+00:00:05,205 --> 00:00:08,905
+Your own finger, same spot, feels dull.
+
+4
+00:00:09,025 --> 00:00:12,325
+That's because your brain predicts its own touch.
+
+5
+00:00:12,419 --> 00:00:15,539
+Every time you move, it sends a copy of the command,
+
+6
+00:00:15,599 --> 00:00:19,619
+a forecast of what you'll feel, and turns that feeling down.
+
+7
+00:00:19,821 --> 00:00:22,719
+In 1998, brain scans showed it:
+
+8
+00:00:22,739 --> 00:00:25,699
+the touch area reacted less to people's own touch
+
+9
+00:00:25,719 --> 00:00:27,701
+than to one they didn't make.
+
+10
+00:00:27,721 --> 00:00:30,001
+Then the team got clever.
+
+11
+00:00:30,081 --> 00:00:33,185
+People moved a robot arm that stroked their own palm.
+
+12
+00:00:33,205 --> 00:00:36,525
+Add a delay of a fifth of a second, or twist the direction,
+
+13
+00:00:36,545 --> 00:00:39,565
+and the same touch felt more ticklish.
+
+14
+00:00:39,623 --> 00:00:40,823
+The forecast missed,
+
+15
+00:00:40,843 --> 00:00:43,543
+so the brain treated it as the outside world.
+
+16
+00:00:43,974 --> 00:00:46,854
+So a tickle is really about surprise.
+
+17
+00:00:47,194 --> 00:00:49,914
+Your brain feels what it didn't see coming.
