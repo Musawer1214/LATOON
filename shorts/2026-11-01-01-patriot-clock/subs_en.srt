@@ -1,0 +1,70 @@
+1
+00:00:00,050 --> 00:00:02,320
+Zero point one looks simple.
+
+2
+00:00:02,525 --> 00:00:04,875
+Inside a computer, it never ends.
+
+3
+00:00:05,155 --> 00:00:09,685
+In binary, one tenth repeats forever, so
+the machine chops it off.
+
+4
+00:00:09,898 --> 00:00:14,968
+In 1991, a Patriot missile battery counted
+time in tenths of a second.
+
+5
+00:00:15,401 --> 00:00:19,931
+Every tick, its clock drifted about a ten-
+millionth of a second.
+
+6
+00:00:20,588 --> 00:00:20,978
+Tiny.
+
+7
+00:00:21,195 --> 00:00:24,785
+But the Dhahran battery had run for over a
+hundred hours.
+
+8
+00:00:25,138 --> 00:00:27,248
+Three point six million ticks.
+
+9
+00:00:27,656 --> 00:00:30,406
+Now the clock was a third of a second off.
+
+10
+00:00:30,742 --> 00:00:35,155
+A Scud covers over half a kilometre in
+that time, so the radar looked in the
+
+11
+00:00:35,155 --> 00:00:35,852
+wrong place.
+
+12
+00:00:36,056 --> 00:00:39,666
+The Scud hit a barracks, and 28 American
+soldiers were killed.
+
+13
+00:00:39,900 --> 00:00:42,150
+The fix arrived the next day.
+
+14
+00:00:42,232 --> 00:00:44,222
+A reboot resets that clock.
+
+15
+00:00:44,458 --> 00:00:47,808
+But nobody had said how long was too long.
+
+16
+00:00:48,161 --> 00:00:52,631
+A tiny error isn't small when it repeats
+millions of times.
