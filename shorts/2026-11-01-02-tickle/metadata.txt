@@ -1,0 +1,21 @@
+TITLE: Why Can't You Tickle Yourself? #shorts
+DESCRIPTION:
+Why can't you tickle yourself? Someone else's finger can make you squirm, but your own finger on the same spot feels dull. The leading explanation: every time you move, your brain sends a copy of the command, a forecast of what you'll feel, and turns that expected feeling down. In 1998, brain scans found the brain's touch area reacted less to self-made touch. In 1999, people moved a robot arm that stroked their own palm: adding a delay of just 0.2 s, or twisting the direction, made the same touch feel more ticklish. So a tickle is really about surprise. What else does your brain quietly cancel?
+
+How the unseen works: sensory prediction and the attenuation of self-produced touch.
+
+Sources:
+- Blakemore, Wolpert & Frith (1998), Central cancellation of self-produced tickle sensation, Nature Neuroscience 1:635-640: https://pubmed.ncbi.nlm.nih.gov/10196573/
+- Blakemore, Frith & Wolpert (1999), Spatio-temporal prediction modulates the perception of self-produced stimuli, Journal of Cognitive Neuroscience 11:551-559: https://pubmed.ncbi.nlm.nih.gov/10511643/
+
+Notes: self-touch is weakened, not switched off, and people differ. The 1998 fMRI result is a measured difference in brain activity; the "forecast" (internal prediction) is the authors' proposed explanation. In the 1999 study, people moved one robot with their left hand and a second robot touched their right palm; delays of 0 to 200 ms and rotations of 0 to 90 degrees raised tickliness ratings (small lab samples). Robot-arm footage and all diagrams are illustrations, not the study's equipment.
+
+Footage credits: Pexels 8502592, 5934158, 8116796, 7299380, 7089360, 6010766, 8328144, 8033565, 13770901, 10527009, 8942709 (Pexels licence). Music: Mixkit "Coffee or Tea" (1168) and "Pop Track 01" (727) (Mixkit Stock Music Free License).
+All animation was made by LATOON. LATOON is not affiliated with the journals or authors named.
+
+LATOON: Voyaging the Unseen. Subscribe: https://www.youtube.com/@its_Latoon?sub_confirmation=1
+
+#tickle #brain #neuroscience #science #howitworks #shorts
+
+TAGS: why can't you tickle yourself, tickle yourself, tickling, tickle science, brain prediction, sensory attenuation, self touch, neuroscience, Blakemore, forward model, how the brain works, psychology facts, science explained, know yourself, LATOON
+CATEGORY: Science & Technology | Language English | Not made for kids | Altered/synthetic content: No (real footage; diagrams are labelled illustrations) | Playlist: Shorts only
